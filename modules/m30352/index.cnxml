@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Giới thiệu về quản trị sản xuất</title>
+  <metadata>
+  <md:content-id>m30352</md:content-id><md:title>Giới thiệu về quản trị sản xuất</md:title>
+  <md:abstract>Phần này trình bày giới thiệu về quản trị sản xuất</md:abstract>
+  <md:uuid>370eeb60-d313-4017-9df8-8364c393fcf2</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-096984063688">
+      <title>MỘT SỐ KHÁI NIỆM </title>
+      <section id="id-232541452866">
+        <title>Khái niệm về sản xuất</title>
+        <para id="id3576861">Theo quan niệm phổ biến trên thế giới thì sản xuất được hiểu là quá trình tạo ra sản phẩm hoặc dịch vụ.</para>
+        <para id="id5219881">Ở nước ta lâu nay có một số người thường cho rằng chỉ có những doanh nghiệp chế tạo, sản xuất các sản phẩm vật chất có hình thái cụ thể như xi măng, tủ lạnh,... mới gọi là các đơn vị sản xuất. Những đơn vị khác không sản xuất các sản phẩm vật chất đều xếp vào loại các đơn vị phi sản xuất. Ngày nay trong nền kinh tế thị trường, quan niệm như vậy không còn phù hợp nữa.</para>
+        <para id="id3289178">Một hệ thống sản xuất sử dụng các yếu tố đầu vào là nguyên vật liệu thô, con người, máy móc, nhà xưởng, kỹ thuật công nghệ, tiền mặt và các nguồn tài nguyên khác để chuyển đổi nó thành sản phẩm hoặc dịch vụ. Sự chuyển đổi này là hoạt động trọng tâm và phổ biến của hệ thống sản xuất. Mối quan tâm hàng đầu của các nhà quản trị hệ thống sản xuất, là các hoạt động chuyển hóa của sản xuất. </para>
+        <table id="id5405248" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Đầu vào</entry>
+                <entry/>
+                <entry>Chuyển hóa</entry>
+                <entry/>
+                <entry>Đầu ra</entry>
+              </row>
+              <row>
+                <entry>-Nguồn nhân lực</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>-Nguyên liệu</entry>
+                <entry/>
+                <entry>-Làm biến đổi</entry>
+                <entry/>
+                <entry>-Hàng hóa</entry>
+              </row>
+              <row>
+                <entry>-Công nghệ </entry>
+                <entry/>
+                <entry>-Tăng thêm giá trị</entry>
+                <entry/>
+                <entry>-Dịch vụ</entry>
+              </row>
+              <row>
+                <entry>-Máy móc,thiết bị</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>-Tiền vốn</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>-Khoa học &amp; nghệ thuật quản trị.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <section id="id-359150126511">
+          <title>Sơ đồ 1-1: Quá trình sản xuất.</title>
+          <para id="id3803438">Như vậy, về thực chất sản xuất chính là quá trình chuyển hóa các yếu tố đầu vào biến chúng thành các sản phẩm hoặc dịch vụ ở đầu ra. Ta có thể hình dung quá trình này như trong sơ đồ 1-1.</para>
+          <para id="id4432357">Theo nghĩa rộng, sản xuất bao hàm bất kỳ hoạt động nào nhằm thỏa mãn nhu cầu của con người. Nó có thể phân thành: sản xuất bậc 1; sản xuất bậc 2 và sản xuất bậc 3.</para>
+          <para id="id5394205"> Sản xuất bậc 1 (sản xuất sơ chế): là hình thức sản xuất dựa vào khai thác tài nguyên thiên nhiên hoặc là những hoạt động sử dụng các nguồn tài nguyên có sẵn, còn ở dạng tự nhiên như khai thác quặng mỏ, khai thác lâm sản, đánh bắt hải sản, trồng trọt,...</para>
+          <para id="id4939532"> Sản xuất bậc 2 (công nghiệp chế biến): là hình thức sản xuất, chế tạo, chế biến các loại nguyên liệu thô hay tài nguyên thiên nhiên biến thành hàng hóa như gỗ chế biến thành bàn ghế, quặng mỏ biến thành sắt thép. Sản xuất bậc 2 bao gồm cả việc chế tạo các bộ phận cấu thành được dùng để lắp ráp thành sản phẩm tiêu dùng và sản phẩm công nghiệp.</para>
+          <para id="id3685774"> Sản xuất bậc 3 (công nghiệp dịch vụ): Cung cấp hệ thống các dịch vụ nhằm thỏa mãn nhu cầu đa dạng của con người. Trong nền sản xuất bậc 3, dịch vụ được sản xuất ra nhiều hơn các hàng hóa hữu hình. Các nhà sản xuất công nghiệp được cung cấp những điều kiện thuận lợi và dịch vụ trong phạm vi rộng lớn. Các công ty vận tải chuyên chở sản phẩm của các nhà sản xuất từ nhà máy đến các nhà bán lẻ. Các nhà bán buôn và nhà bán lẻ cung cấp các dịch vụ đến người tiêu dùng cuối cùng. Ngoài ra còn nhiều loại dịch vụ khác như: bốc dỡ hàng hóa, bưu điện, viễn thông, ngân hàng, tài chính, bảo hiểm, y tế, giáo dục, nhà hàng, khách sạn,...</para>
+        </section>
+      </section>
+      <section id="id-473619669153">
+        <title>Đặc điểm của sản xuất hiện đại</title>
+        <para id="id4330793">Quản trị sản xuất ngày càng được các nhà quản trị cấp cao quan tâm, coi đó như là một vũ khí cạnh tranh sắc bén. Sự thành công chiến lược của doanh nghiệp phụ thuộc rất nhiều vào sự đánh giá, tạo dựng, phát triển các nguồn lực từ chức năng sản xuất. Sản xuất hiện đại có những đặc điểm: </para>
+        <para id="id5353071">Thứ nhất, sản xuất hiện đại yêu cầu phải có kế hoạch hợp lý khoa học, có đội ngũ kỹ sư giỏi, công nhân được đào tạo tốt và thiết bị hiện đại.</para>
+        <para id="id5413985">Thứ hai, quan tâm ngày càng nhiều đến thương hiệu và chất lượng sản phẩm. Đây là một tất yếu khách quan khi mà tiến bộ kỹ thuật ngày càng phát triển với mức độ cao và yêu cầu của cuộc sống ngày càng nâng cao.</para>
+        <para id="id2836909">Thứ ba, càng nhận thức rõ con người là tài sản quí nhất của công ty. Yêu cầu ngày càng cao của quá trình sản xuất, cùng với sự phát triển của máy móc thiết bị, vai trò năng động của con người trở nên chiếm vị trí quyết định cho sự thành công trong các hệ thống sản xuất.</para>
+        <para id="id4322226">Thứ tư, sản xuất hiện đại ngày càng quan tâm đến vấn đề kiểm soát chi phí. Việc kiểm soát chi phí được quan tâm thường xuyên hơn trong từng chức năng, trong mỗi giai đoạn quản lý.</para>
+        <para id="id5412424">Thứ năm, sản xuất hiện đại dựa trên nền tảng tập trung và chuyên môn hóa cao. Sự phát triển mạnh mẽ của khoa học kỹ thuật đã làm cho các công ty thấy rằng không thể tham gia vào mọi lĩnh vực, mà cần phải tập trung vào lĩnh vực nào mình có thế mạnh để giành vị thế cạnh tranh.</para>
+        <para id="id3832450">Thứ sáu, sản xuất hiện đại cũng thừa nhận yêu cầu về tính mềm dẻo của hệ thống sản xuất. Sản xuất hàng loạt, qui mô lớn đã từng chiếm ưu thế làm giảm chi phí sản xuất. Nhưng khi nhu cầu ngày càng đa dạng, biến đổi càng nhanh thì các đơn vị vừanhỏ, độc lập mềm dẻo có vị trí thích đáng.</para>
+        <para id="id3549547">Thứ bảy, sự phát triển của cơ khí hoá trong sản xuất từ chỗ thay thế cho lao động nặng nhọc, đến nay đã ứng dụng nhiều hệ thống sản xuất tự động điều khiển bằng chương trình. </para>
+        <para id="id5380527">Thứ tám, ngày càng ứng dụng nhiều thành tựu của công nghệ tin học, máy tính trợ giúp đắc lực cho các công việc quản lý hệ thống sản xuất.</para>
+        <para id="id5411486">Thứ chín, mô phỏng các mô hình toán học được sử dụng rộng rãi để hỗ trợ cho việc ra quyết định sản xuất – kinh doanh.</para>
+      </section>
+      <section id="id-191222718979">
+        <title>Khái niệm về quản trị sản xuất</title>
+        <para id="id5363106">Quản trị sản xuất và tác nghiệp bao gồm tất cả các hoạt động liên quan đến việc quản trị các yếu tố đầu vào, tổ chức, phối hợp các yếu tố đó nhằm chuyển hóa chúng thành các sản phẩm vật chất hoặc dịch vụ với hiệu quả cao nhất.</para>
+        <para id="id5307377">Để tạo ra sản phẩm và dịch vụ các doanh nghiệp đều phải thực hiện 3 chức năng cơ bản: Marketing, sản xuất và tài chính. Các nhà quản trị Marketing chịu trách nhiệm tạo ra nhu cầu cho sản phẩm và dịch vụ của tổ chức. Các nhà quản trị tài chính chịu trách nhiệm về việc đạt được mục tiêu tài chính của doanh nghiệp. Các doanh nghiệp không thể thành công khi không thực hiện đồng bộ các chức năng tài chính, Marketing và sản xuất. Không quản trị sản xuất tốt thì không có sản phẩm hoặc dịch vụ tốt; không có Marketing thì sản phẩm hoặc dịch vụ cung ứng không nhiều; không có quản trị tài chính thì các thất bại về tài chính sẽ diễn ra. Mỗi chức năng hoạt động một cách độc lập để đạt được mục tiêu riêng của mình đồng thời cũng phải làm việc cùng nhau để đạt được mục tiêu chung cho tổ chức về lợi ích, sự tồn tại và tăng trưởng trong một điều kiện kinh doanh năng động.</para>
+        <para id="id5440714">Do đó có thể nói rằng quản trị sản xuất và tác nghiệp có tầm quan trọng đặc biệt trong hoạt động của doanh nghiệp. Nếu quản trị tốt, ứng dụng các phương pháp quản trị khoa học thì sẽ tạo khả năng sinh lợi lớn cho doanh nghiệp. Ngược lại nếu quản trị xấu sẽ làm cho doanh nghiệp thua lỗ, thậm chí có thể bị phá sản.</para>
+      </section>
+    </section>
+    <section id="id-966379768641">
+      <title>CÁC BƯỚC PHÁT TRIỂN CỦA QUẢN TRỊ SẢN XUẤT</title>
+      <para id="id5217978">Khoa học về quản trị sản xuất và dịch vụ phát triển liên tục nhanh chóng cùng với việc phát triển khoa học và công nghệ. Xét về mặt lịch sử, chúng ta có thể chia thành 3 giai đoạn chính sau:</para>
+      <section id="id-582798144411">
+        <title>Cách mạng công nghiệp</title>
+        <para id="id3612306">Ở Anh vào những năm đầu thế kỷ XVIII, khoa học kỹ thuật phát triển mạnh kéo theo sự bùng nổ cách mạng công nghiệp. Việc phát minh ra động cơ hơi nước của Jame Watt vào năm 1764, tạo điều kiện cho ra đời hàng loạt những máy móc khác trong kỹ nghệ. Hệ quả tất yếu là sự thay thế rộng rãi lực lượng lao động thủ công bằng máy móc có năng suất cao hơn, cùng với sự thiết lập hệ thống nhà xưởng và các phát minh khác của thời đại. Tính sẵn có của máy hơi nước và máy móc sản xuất tạo điều kiện cho việc tập hợp các công nhân vào nhà máy. Sự tập trung này tạo ra một nhu cầu về việc sắp xếp họ lại một cách hợp lý để sản xuất ra sản phẩm .</para>
+        <para id="id4407503">Tác phẩm của Adam Smith “Sự giàu có của quốc gia” viết năm 1776, chứng minh cho sự cần thiết của phân công lao động, hay còn gọi là chuyên môn hóa của lao động. Việc sản xuất sản phẩm được phân chia ra thành từng bộ phận nhỏ, những nhiệm vụ chuyên biệt được phân công cho công nhân theo qui trình sản xuất. Vì thế, các nhà máy vào cuối thời kỳ này không những chỉ chú ý đến việc trang bị máy móc thiết bị cho sản xuất, mà còn ở cách thức hoạch định và quản lý công việc sản xuất của công nhân.</para>
+        <para id="id4941388">Cách mạng công nghiệp lan truyền từ Anh sang Hoa kỳ. Vào năm 1790 Eli Whitney, nhà phát minh Hoa kỳ, đã thiết kế mẫu súng trường sản xuất theo dây chuyền.</para>
+        <para id="id3578756">Năm 1800 những ngành công nghiệp khác phát triển lên cùng với sự phát triển của động cơ xăng dầu và điện, nhu cầu về sản phẩm phục vụ cho chiến tranh đã thúc đẩy sự thành lập nhiều nhà máy hơn nữa. Hệ thống sản xuất thủ công được thay thế bởi hệ thống nhà xưởng với những máy móc hiện đại vào thời kỳ đó tạo nên những thay đổi lớn đối với nhà máy nói riêng và cả ngành công nghiệp nói chung.</para>
+        <para id="id5134650">Kỷ nguyên công nghiệp mới ở Hoa kỳ đã xuất hiện ngay khi bắt đầu thế kỷ 20, đã tạo ra một giai đoạn mở rộng lớn lao về năng lực sản xuất. Sự chấm dứt việc sử dụng lao động nô lệ, sự di chuyển của lực lượng lao động trong nông thôn vào các thành thị và sự nhập cư đã cung cấp một lực lượng lao động lớn cho sự phát triển nhanh chóng của trung tâm công nghiệp ở thành thị. Sự phát triển này dẫn đến hình thức mới của ngành công nghiệp là giải quyết vấn đề vốn thông qua việc thiết lập các công ty cổ phần. Từ đó, có thể nhà quản lý trở thành người làm thuê cho xí nghiệp và được trả lương từ nhà tài chính, hay người làm chủ đầu tư.</para>
+      </section>
+      <section id="id-0741482794482">
+        <title>Quản trị khoa học</title>
+        <para id="id5311592"> Frederick W.Taylor được xem như là cha đẻ của phương pháp quản trị khoa học. Ông nghiên cứu các vấn đề thuộc về nhà máy vào thời đại của ông một cách khoa học, chú trọng đến tính hiệu quả với mong muốn đạt được kết quả về việc tiết kiệm thời gian, năng lực và nguyên vật liệu.</para>
+        <para id="id5363225">Hệ thống hoạt động của Taylor như sau:</para>
+        <para id="id3048437"> Kỹ năng, sức lực và khả năng học tập được xác định cho từng công nhân để họ có thể được ấn định vào các công việc mà họ thích hợp nhất.</para>
+        <para id="id3500842"> Các nghiên cứu về theo dõi ngưng làm việc được tiến hành nhằm đưa ra kết quả chuẩn cho từng công nhân ở từng nhiệm vụ. Kết quả mong muốn đối với từng công nhân sẽ được sử dụng cho việc hoạch định và lập thời gian biểu, so sánh với phương pháp khác để thực thi nhiệm vụ.</para>
+        <para id="id4365410"> Các phiếu hướng dẫn, các kết quả thực hiện và đặc điểm riêng biệt của từng nguyên vật liệu sẽ được sử dụng để phối hợp và tổ chức công việc, phương pháp làm việc và tiến trình công việc cũng như kết quả lao động có thể được chuẩn hóa.</para>
+        <para id="id3692530"> Công việc giám sát được cải tiến thông qua việc lựa chọn và huấn luyện cẩn thận. Taylor thường xuyên chỉ ra rằng quản trị không quan tâm đến việc đổi mới chức năng của nó. Ông tin rằng quản trị phải chấp nhận việc hoạch định, tổ chức, quản lý và những phương pháp xác định trách nhiệm hơn là để những chức năng quan trọng này cho chính công nhân.</para>
+        <para id="id3724498"> Hệ thống trả thưởng khuyến khích được sử dụng để gia tăng hiệu quả và làm giảm đi trách nhiệm truyền thống của những người quản lý là đôn đốc công nhân.</para>
+        <para id="id5340213"> Henry L.Gantt đã làm việc cùng với Taylor ở nhà máy Midvale, nói chung ông có cùng quan điểm với Taylor, ngoại trừ việc chú ý đến người thực hiện công việc hơn là bản thân công việc. Ông tỏ ra hiểu biết tâm lý công nhân hơn Taylor và thừa nhận tầm quan trọng của tinh thần và lợi ích của phần thưởng tinh thần đối với việc động viên công nhân.</para>
+        <para id="id5285198"> Frank và Lillian Gilbreth, là nhà thầu thành đạt, người đã quan tâm đến phương pháp làm việc khi mới bắt đầu làm thợ phụ. Sau này ông có nhiều cải tiến trong phương pháp xây và các nghề khác của ngành xây dựng. Ông quan niệm việc lập kế hoạch công tác và huấn luyện cho công nhân những phương pháp làm việc đúng đắn không chỉ nâng cao năng suất, mà còn đảm bảo sức khỏe và an toàn cho công nhân.</para>
+        <para id="id5395206"> Nghiên cứu tác nghiệp: Việc sử dụng một lượng khổng lồ các khí tài quân sự và nhân sự trong thế chiến thứ II, khiến các nhà cầm quân phải đối phó với những quyết định phức tạp mà trước đây chưa bao giờ họ gặp phải. Các khái niệm về phương pháp tiếp cận toàn hệ thống, các nhóm làm việc đa ngành và việc sử dụng các kỹ thuật toán học phức tạp đã được phát triển để thích nghi với điều kiện phức tạp đó.</para>
+        <para id="id5255936">Sau chiến tranh, các giáo trình về quản trị tác nghiệp đã được giới thiệu trong các trường đại học, các tổ chức tư vấn và nghiên cứu tác nghiệp...mà ngày nay chúng ta được biết như là kỹ thuật định lượng, qui hoạch tuyến tính, PERT/CPM và các mô hình dự báo.</para>
+        <para id="id5412323">Nghiên cứu tác nghiệp tìm kiếm việc thay thế các quyết định phức tạp bằng một phương pháp chỉ rõ những khả năng tối ưu thông qua việc phân tích.</para>
+      </section>
+      <section id="id-427476363299">
+        <title>Cách mạng dịch vụ</title>
+        <para id="id4559179">Một trong những sự phát triển khởi đầu trong thời đại của chúng ta là sự nở rộ của dịch vụ trong nền kinh tế Hoa kỳ. Việc thiết lập các tổ chức dịch vụ đã phát triển nhanh chóng sau thế chiến thứ II và vẫn còn tiếp tục mở rộng cho đến nay. </para>
+        <para id="id4186536">Các nhân tố ảnh hưởng đến quản trị sản xuất và dịch vụ ngày nay:</para>
+        <para id="id5396023"> Chất lượng, dịch vụ khách hàng và các thách thức về chi phí.</para>
+        <para id="id5288375"> Sự phát triển nhanh chóng của các kỹ thuật sản xuất tiên tiến.</para>
+        <para id="id3380538"> Sự tăng trưởng liên tục của khu vực dịch vụ.</para>
+        <para id="id5363854"> Sự hiếm hoi của các tài nguyên cho sản xuất.</para>
+        <para id="id5411555"> Các vấn đề trách nhiệm xã hội.</para>
+        <para id="id4478077">Ảnh hưởng quan trọng của nhân tố này lên các nhà quản trị tác nghiệp là biên giới một quốc gia đã không còn khả năng bảo vệ khỏi việc nhập khẩu hàng hóa từ nước ngoài. Cuộc cạnh tranh đang gia tăng và ngày càng trở nên gay gắt hơn. Để thành công trong việc cạnh tranh, các công ty phải hiểu rõ các phản ứng của khách hàng và cải tiến liên tục mục tiêu phát triển nhanh chóng sản phẩm với sự kết hợp tối ưu chất lượng ngoại hạng, thời gian cung ứng nhanh chóng và đúng lúc, với chi phí và giá cả thấp. Cuộc cạnh tranh này đã chỉ ra rằng, các nhà quản trị tác nghiệp sử dụng phương pháp sản xuất phức tạp hơn thông qua việc mở rộng một cách nhanh chóng kỹ thuật sản xuất tiên tiến.</para>
+      </section>
+    </section>
+    <section id="id-197670461152">
+      <title>HƯỚNG NGHIÊN CỨU QUẢN TRỊ SẢN XUẤT</title>
+      <section id="id-357040721906">
+        <title>Sản xuất như là một hệ thống</title>
+        <para id="id4334040">Russel Ackoff nhà tiên phong trong lý thuyết hệ thống, mô tả hệ thống như sau: Hệ thống là một tổng thể không thể chia nhỏ được mà không làm cho nó mất đi những nét đặc trưng, và vì thế nó phải được nghiên cứu như là một tổng thể.</para>
+        <para id="id5370256">Hệ thống sản xuất tiếp nhận đầu vào ở các hình thái như nguyên vật liệu, nhân sự, tiền vốn, các thiết bị, các thông tin... Những yếu tố đầu vào này được chuyển đổi hình thái trong hệ thống để tạo thành các sản phẩm hoặc dịch vụ theo mong muốn, mà chúng ta gọi là kết quả sản xuất. Một phần của kết quả quản lý bởi hệ thống quản lý để nhằm xác định xem nó có thể được chấp nhận hay không về mặt số lượng, chi phí và chất lượng. Nếu kết quả là chấp nhận được, thì không có sự thay đổi nào được yêu cầu trong hệ thống; nếu như kết quả không chấp nhận được, các hoạt động điều chỉnh về mặt quản lý cần phải thực hiện. Mô hình hệ thống sản xuất: (Sơ đồ 1-2)</para>
+        <figure id="id5256973">
+          <media id="id7426736" alt=""><image src="../../media/graphics1-77ff.png" mime-type="image/png" height="482" width="629"/></media>
+        </figure>
+        <section id="id-872131430864">
+          <title>Sơ đồ 1-2: Hướng nghiên cứu quản trị sản xuất và tác nghiệp</title>
+          <para id="id4480213">a. Yếu tố đầu vào: được phân thành 3 loại chính:</para>
+          <para id="id3622886"> Các nhân tố ngoại vi: nói chung là các thông tin đặc trưng và có xu hướng cung cấp cho các nhà quản trị về các điều kiện bên ngoài hệ thống nhưng có ảnh hưởng đến hệ thống.</para>
+          <para id="id5290966"> Điều kiện về kinh tế: </para>
+          <para id="id4682744">Nhân tố kinh tế có ảnh hưởng trực tiếp đối với sự thu hút tiềm năng của các chiến lược khác nhau. Chẳng hạn nếu như lãi suất tăng lên thì số vốn cần cho việc đa dạng hóa sẽ quá đắt hoặc không có sẵn. Hay là, khi lãi suất tăng lên thì số thu nhập sử dụng được tùy thích sẽ giảm đi và nhu cầu sản phẩm để sử dụng tùy thích cũng giảm. Khi giá cổ phiếu tăng lên, sự mong muốn có cổ phần như là nguồn vốn để phát triển thị trường sẽ tăng lên. Như vậy, khi thị trường tăng trưởng thì của cải của người tiêu thụ và doanh nghiệp tăng lên.</para>
+          <para id="id3486133">Các biến số kinh tế quan trọng cần theo dõi.</para>
+          <para id="id5370194"> Những chính sách tiền tệ, khả năng cung cấp tín dụng, lãi suất.</para>
+          <para id="id3611661"> Giá trị của đồng tiền trên thị trường, tỷ lệ lạm phát, tỷ giá hối đoái.</para>
+          <para id="id3453086"> Thâm hụt ngân sách của chính phủ.</para>
+          <para id="id4798713"> Thu nhập bình quân trên đầu người, xu hướng thất nghiệp.</para>
+          <para id="id3093308"> Các chính sách thuế khóa, qui định về xuất nhập khẩu.</para>
+          <para id="id3486921"> Điều kiện về nhân khẩu, địa lý, văn hóa, xã hội.</para>
+          <para id="id4433142">Các yếu tố nhân khẩu, địa lý ,văn hóa, xã hội chủ yếu</para>
+          <para id="id5218096"> Tỷ lệ sinh, tỷ lệ chết, tỷ lệ di dân và nhập cư.</para>
+          <para id="id3780620"> Mức học vấn trung bình, lối sống, các mối quan tâm đối với vấn đề đạo đức.</para>
+          <para id="id5369237"> Vai trò của giới tính, thói quen mua hàng.</para>
+          <para id="id5308443"> Thái độ đối với việc tiết kiệm, đầu tư và công việc.</para>
+          <para id="id3536584"> Môi trường và kiểm soát ô nhiễm môi trường.</para>
+          <para id="id4170329"> Khía cạnh chính trị, luật pháp của quốc gia</para>
+          <para id="id5142975">Các yếu tố chính trị, chính phủ, luật pháp có thể cho thấy các vận hội và mối đe dọa chủ yếu đối với các tổ chức nhỏ và lớn. Đối với các ngành và những công ty phải phụ thuộc rất nhiều vào các hợp đồng hoặc trợ cấp của chính phủ, những dự báo về chính trị có thể là phần quan trọng nhất của việc kiểm tra các yếu tố bên ngoài. Sự thay đổi về bằng sáng chế, luật chống độc quyền, thuế suất và các nhóm gây sức ép ngoài hành lang có thể ảnh hưởng rất nhiều đến các công ty. Sự lệ thuộc lẫn nhau mỗi lúc một tăng lên trên phạm vi toàn quốc giữa các nền kinh tế, thị trường, chính phủ và tổ chức đòi hỏi công ty phải xem xét đến ảnh hưởng có thể có của các biến số chính trị đối với việc soạn thảo và thực hiện các chiến lược cạnh tranh.</para>
+          <section id="id-0115650026412">
+            <title>Các biến số chính trị, chính phủ và luật pháp quan trọng</title>
+            <para id="id5354979"> Các thay đổi của Luật thuế.</para>
+            <para id="id4938982"> Các qui định xuất nhập khẩu, thuế xuất nhập khẩu đặc biệt. </para>
+            <para id="id4559129"> Số lượng các bằng sáng chế, phát minh.</para>
+            <para id="id3587614"> Luật bảo vệ môi trường; Luật chống độc quyền.</para>
+            <para id="id3888953"> Mức trợ cấp của chính phủ; mức chi tiêu cho quốc phòng.</para>
+            <para id="id4939769"> Khía cạnh kỹ thuật</para>
+            <para id="id3363702">Những thay đổi và phát minh kỹ thuật mang lại những đổi thay to lớn như kỹ thuật siêu dẫn, kỹ thuật điện toán, người máy, những nhà máy không người, truyền thông không gian, những mạng lưới vệ tinh, sợi quang... Các ảnh hưởng của công nghệ cho thấy những cơ hội và mối đe dọa mà chúng ta phải được xem xét trong việc soạn thảo chiến lược. Sự tiến bộ kỹ thuật có thể tác động sâu sắc lên những sản phẩm dịch vụ, thị trường, nhà cung cấp, nhà phân phối, người cạnh tranh, khách hàng, quá trình sản xuất, thực tiễn tiếp thị và vị thế cạnh tranh của tổ chức.</para>
+            <para id="id5412357">Tiến bộ kỹ thuật có thể tạo ra những thị trường mới, kết quả là sự sinh sôi của những sản phẩm mới mẽ và được cải tiến thay đổi những vị trí giá cả cạnh tranh có quan hệ trong một ngành, khiến cho những sản phẩm và dịch vụ hiện có trở nên lỗi thời. Hiện nay, không có công ty hay ngành công nghiệp nào tự cách ly với những phát triển công nghệ đang xuất hiện. Trong công nghệ kỹ thuật cao, sự nhận dạng và đánh giá những cơ hội và mối đe dọa mang tính công nghệ trọng yếu có thể là phần quan trọng nhất của việc kiểm soát các yếu tố bên ngoài trong hoạt động quản lý chiến lược.</para>
+            <para id="id5356784">Các câu hỏi chủ yếu thường đặt ra khi đánh giá môi trường công nghệ </para>
+            <para id="id4800388"> Các công nghệ bên trong công ty là gì ?</para>
+            <para id="id4922829"> Các công nghệ nào được sử dụng trong việc kinh doanh của công ty? Trong sản phẩm?</para>
+            <para id="id3614859"> Mỗi công nghệ có tầm quan trọng thiết yếu như thế nào đối với mỗi sản phẩm và hoạt động kinh doanh?</para>
+            <para id="id5308509"> Những công nghệ nào được quan tâm bao gồm trong việc sản xuất các sản phẩm và nguyên vật liệu mua để sử dụng?</para>
+            <para id="id4359198"> Sự phát triển của công nghệ này theo thời gian là gì? Những thay đổi công nghệ này khởi đầu từ công ty nào?</para>
+            <para id="id5285711"> Đâu là sự phát triển có thể có của công nghệ này trong tương lai?</para>
+            <para id="id3105896"> Xếp hạng chủ quan các công ty khác nhau theo mỗi công nghệ là gì?</para>
+            <para id="id4548429"> Các yếu tố về thị trường: là các thông tin có liên quan đến cạnh tranh, thiết kế sản phẩm, sở thích của khách hàng và các khía cạnh khác của thị trường.</para>
+            <para id="id5414076"> Các nguồn lực ban đầu: là các yếu tố phục vụ trực tiếp cho việc sản xuất và phân phối sản phẩm hay dịch vụ. Đây là các nhân tố về nguyên vật liệu, nhân sự, vốn bằng tiền, vốn bằng hàng hóa và các tiện ích khác.</para>
+            <para id="id3587564">b. Yếu tố đầu ra: là sản phẩm được sản xuất từ hệ thống, thường có hai hình thức: sản phẩm trực tiếp và sản phẩm không trực tiếp. Một số lớn sản phẩm (trực tiếp) được sản xuất hàng ngày và các sản phẩm (không trực tiếp) được phát sinh ra từ hệ thống.</para>
+            <para id="id4268436">Điều lưu ý là chúng ta thường bỏ qua các loại sản phẩm không trực tiếp của hệ thống như: Thuế khóa, các loại chất thải và gây ô nhiễm môi trường, các hoạt động cộng đồng. Mặc dù chúng không nhận được sự lưu tâm như là các kết quả về sản phẩm hay dịch vụ tạo ra doanh thu giúp cho hệ thống sản xuất tồn tại.</para>
+          </section>
+        </section>
+      </section>
+      <section id="id-912890591777">
+        <title>Các quyết định trong quản trị sản xuất và tác nghiệp</title>
+        <para id="id3577475">Theo kinh nghiệm của các nhà quản trị thường phân các quyết định thành 3 loại chính: Các quyết định về chiến lược, quyết định về hoạt động và quyết định về quản lý.</para>
+        <para id="id3309418">a. Các quyết định về chiến lược: quyết định về sản phẩm, qui trình sản xuất, phương tiện sản xuất. Đây là quyết định có tầm quan trọng chiến lược có ý nghĩa lâu dài cho tổ chức. Những quyết định này đòi hỏi tất cả nhân viên trong các khâu từ sản xuất, nhân sự, kỹ thuật, Marketing và tài chính đều phải làm việc cùng nhau để nghiên cứu các cơ hội kinh doanh một cách cẩn thận, nhằm đưa ra một quyết định đặt các tổ chức vào vị trí tốt nhất để đạt được mục tiêu dài hạn:</para>
+        <para id="id3381374"> Quyết định xem có nên thực hiện dự án phát triển sản phẩm mới hay không.</para>
+        <para id="id4956432"> Quyết định về việc thiết lập qui trình sản xuất cho sản phẩm mới.</para>
+        <para id="id3964314"> Quyết định cách thức phân phối nguồn nguyên vật liệu khan hiếm, các tiện ích, khả năng sản xuất và nhân sự giữa các cơ hội kinh doanh mới và hiện có.</para>
+        <para id="id4956768"> Quyết định về việc xây dựng thêm nhà máy mới và nơi đặt chúng.</para>
+        <para id="id4807889">b. Các quyết định về hoạt động: như giải quyết tất cả các vấn đề liên quan đến việc hoạch định sản xuất để đáp ứng nhu cầu của khách hàng. Trách nhiệm chính của tác nghiệp và tìm kiếm đơn đặt hàng từ phía khách hàng, được thu hút bởi chiến lược marketing của tổ chức và phân phối sản phẩm hay dịch vụ nhằm thỏa mãn nhu cầu khách hàng. Ví dụ như:</para>
+        <para id="id5218265"> Quyết định xem cần có bao nhiêu dự trữ dùng cho sản xuất.</para>
+        <para id="id5265403"> Quyết định số lượng và loại sản phẩm sẽ được sản xuất trong thời gian tới.</para>
+        <para id="id3357284"> Quyết định là có nên gia tăng năng lực sản xuất vào thời gian tới hay không? Bằng cách nào? cho công nhân làm ngoài giờ hoặc là cho các nhà cung ứng thực hiện một phần khối lượng sản phẩm của công ty?</para>
+        <para id="id4979567"> Quyết định chi tiết về việc mua nguyên vật liệu để đáp ứng nhu cầu cho sản xuất trong thời gian tới.</para>
+        <para id="id5363646">c. Các quyết định về quản lý: Đây là các quyết định có liên quan đến hoạt động hàng ngày của công nhân, không phải lúc nào công nhân cũng luôn hoàn thành công việc của mình như mong muốn. Về chất lượng sản phẩm, dịch vụ có xu hướng biến động, máy móc thiết bị có khả năng hỏng hóc xảy ra. Do đó các nhà quản lý cần hoạch định, phân tích và quản lý các hoạt động để làm giảm đi sự cản trở đến hệ thống sản xuất. Ví dụ như:</para>
+        <para id="id5384461"> Quyết định về chi phí cho việc điều chỉnh lại bản thiết kế sản phẩm.</para>
+        <para id="id5411821"> Quyết định tiêu chuẩn về quản lý chất lượng cho những sản phẩm có sự thay đổi trong bảng thiết kế.</para>
+        <para id="id5396337"> Quyết định số lần bảo trì ngăn chặn hỏng hóc của máy móc sản xuất.</para>
+        <para id="id3343255">Các quyết định hàng ngày về công nhân, chất lượng sản phẩm, máy móc dùng cho sản xuất, khi được thực hiện cùng với nhau sẽ là một khía cạnh lớn trong công việc của các nhà quản lý tác nghiệp.</para>
+      </section>
+    </section>
+    <section id="id-98156205673">
+      <title>Vai trò của người quản lý trong quản trị sản xuất</title>
+      <section id="id-105247894489">
+        <title>Các kỹ năng cần thiết ở người quản trị sản xuất</title>
+        <para id="id5354471">Các nhà quản trị sản xuất trong doanh nghiệp có thể khiến một doanh nghiệp thành công hay thất bại thông qua những quyết định đúng sai của họ.</para>
+        <para id="id4276034">Các nhà quản trị, nhất là quản trị sản xuất quan tâm rất nhiều đến hiệu quả công việc, thể hiện khi chúng ta so sánh những kết quả đạt được với những chi phí đã bỏ ra. Hiệu quả cao khi kết quả đạt được nhiều hơn so với chi phí và ngược lại, hiệu quả thấp khi chi phí nhiều hơn so với kết quả đạt được. Không biết cách quản trị cũng có thể đạt được kết quả cần có nhưng có thể chi phí quá cao, không chấp nhận được.</para>
+        <para id="id3640952">Trong thực tế, hoạt động quản trị có hiệu quả khi:</para>
+        <para id="id5286785">− Giảm thiểu chi phí đầu vào mà vẫn giữ nguyên sản lượng ở đầu ra.</para>
+        <para id="id3357016">− Hoặc giữ nguyên các yếu tố đầu vào trong khi sản lượng đầu ra nhiều hơn.</para>
+        <para id="id4587781">− Hoặc vừa giảm được các chi phí đầu vào, vừa tăng sản lượng ở đầu ra.</para>
+        <para id="id3429698">Hiệu quả tỉ lệ thuận với kết quả đạt được nhưng lại tỉ lệ nghịch với chi phí bỏ ra. Càng ít tốn kém các nguồn lực thì hiệu quả sản xuất kinh doanh càng cao.</para>
+        <para id="id5354844">Cũng giống như các nhà quản trị nói chung, các nhà quản trị sản xuất cũng thực hiện các chức năng cơ bản của quản trị như : Hoạch định, Tổ chức, Lãnh đạo, Kiểm tra.</para>
+        <para id="id4479676">Để có thể đảm dương tốt các chức năng nầy, theo Robert Katz, 3 loại kỹ năng mà mỗi quản trị viên cần phải có gồm: </para>
+        <para id="id4407975">a) Kỹ năng kỹ thuật (technical skills) hoặc chuyên môn nghiệp vụ: Là khả năng cần thiết để thực hiện một công việc cụ thể, nói cách khác là trình độ chuyên môn nghiệp vụ của nhà quản trị. Thí dụ: thảo chương trình điện toán, soạn thảo hợp đồng pháp lý kinh doanh, thiết kế cơ khí .v.v... Đây là kỹ năng rất cần cho quản trị viên cấp cơ sở hơn là cho cấp quản trị viên trung gian hoặc cao cấp.</para>
+        <para id="id3320806">b) Kỹ năng nhân sự (human skills): là những kiến thức liên quan đến khả năng cùng làm việc, động viên và điều khiển nhân sự. Kỹ năng nhân sự là tài năng đặc biệt của nhà quản trị trong việc quan hệ với những người khác nhằm tạo sự thuận lợi và thúc đẩy sự hoàn thành công việc chung. Một vài kỹ năng nhân sự cần thiết cho bất cứ quản trị viên nào là biết cách thông đạt hữu hiệu, có thái độ quan tâm tích cực đến người khác, xây dựng không khí hợp tác trong lao động, biết cách tác động và hướng dẫn nhân sự trong tổ chức để hoàn thành các công việc. Kỹ năng nhân sự đối với mọi cấp quản trị viên đều cần thiết như nhau trong bất kỳ tổ chức nào, dù là phạm vi kinh doanh hoặc phi kinh doanh.</para>
+        <para id="id2546590">c) Kỹ năng nhận thức hay tư duy: (conceptual skills) là cái khó hình thành và khó nhất, nhưng nó lại có vai trò đặc biệt quan trọng, nhất là đối với các nhà quản trị cao cấp. Họ cần có tư duy chiến lược tốt để đề ra đúng đường lối chính sách đối phó có hiệu quả với những bất trắc, đe dọa, kìm hãm sự phát triển đối với tổ chức. Nhà quản trị cần phải có phương pháp tổng hợp tư duy hệ thống, biết phân tích mối liên hệ giữa các bộ phận, các vấn đề ... Biết cách làm giảm những sự phức tạp rắc rối xuống một mức độ có thể chấp nhận được trong một tổ chức.</para>
+        <para id="id5299309">Các nhà quản trị cần có 3 kỹ năng trên nhưng tầm quan trọng của chúng tùy thuộc vào các cấp quản trị khác nhau trong tổ chức.</para>
+        <para id="id5405531">Nhìn vào sơ đồ, ta thấy ngay rằng ở những cấp quản trị càng cao thì càng cần nhiều những kỹ năng về tư duy. Ngược lại ở những cấp quản trị càng thấp, thì càng cần nhiều kỹ năng về chuyên môn kỹ thuật. Kỹ năng về nhân sự thì ở đâu, ở cấp nào cũng cần và cũng đều là quan trọng. Mặc dù vậy, trên thực tế thường đòi hỏi cụ thể về mức độ kỹ năng nhân sự có thể có sự khác nhau tùy theo loại cán bộ quản trị, nhưng xét theo quan điểm của nhiều nhà kinh tế thì nó lại đóng vai trò quan trọng nhất, góp phần làm cho các nhà quản trị thực hiện thành công các loại kỹ năng khác của mình và góp phần vào việc đạt được thành công về mục tiêu chung của cả tổ chức.</para>
+      </section>
+      <section id="id-194586786835">
+        <title>Các hoạt động của người quản trị sản xuất</title>
+        <para id="id4603916">Người quản trị trong chức năng sản xuất thực hiện các hoạt động chủ yếu và các quyết định cơ bản sau:</para>
+        <para id="id5354994"> Trong chức năng hoạch định:</para>
+        <para id="id3667731">− Quyết định về tập hợp sản phẩm hoặc dịch vụ.</para>
+        <para id="id4044664">− Xây dựng kế hoạch tiến độ, kế hoạch năng lực sản xuất.</para>
+        <para id="id4044669">− Thiết lập các dự án cải tiến và các dự án khác.</para>
+        <para id="id4212569">− Quyết định phương pháp sản xuất cho mỗi mặt hàng.</para>
+        <para id="id5411857">− Lập kế hoạch trang bị máy móc và bố trí nhà xưởng, thiết bị.</para>
+        <para id="id3096012"> Trong chức năng tổ chức:</para>
+        <para id="id5288522">− Ra quyết định cơ cấu tổ chức của hệ thống sản xuất như: sản xuất tập trung hay phân tán, tổ chức theo sản phẩm.</para>
+        <para id="id3972071">− Thiết kế nơi làm việc, phân công trách nhiệm cho mỗi hoạt động.</para>
+        <para id="id5405868">− Sắp xếp mạng lưới nhân viên phân phối hàng hoá và tiếp nhận yếu tố đầu vào cho sản xuất.</para>
+        <para id="id4255183">− Thiết lập các chính sách để bảo đảm sự hoạt động bình thường của máy móc thiết bị.</para>
+        <para id="id5219852"> Trong chức năng kiểm soát:</para>
+        <para id="id4180115">− Theo dõi và kích thích sự nhiệt tình của nhân viên trong việc thực hiện các mục tiêu.</para>
+        <para id="id4180121">− So sánh chi phí với ngân sách; so sánh việc thực hiện định mức lao động; so sánh tồn kho với mức hợp lý.</para>
+        <para id="id3893693">− Kiểm tra chất lượng.</para>
+        <para id="id5440580"> Trong chức năng lãnh đạo:</para>
+        <para id="id5411421">− Thiết lập các điều khoản hợp đồng thống nhất.</para>
+        <para id="id5355913">− Thiết lập các chính sách nhân sự; các hợp đồng lao động.</para>
+        <para id="id5256654">− Thiết lập các chỉ dẫn và phân công công việc.</para>
+        <para id="id5354320">− Chỉ ra các công việc cần làm gấp.</para>
+        <para id="id5148437"> Trong chức năng động viên:</para>
+        <para id="id5213651">− Thực hiện những yêu cầu qua các quan hệ lãnh đạo như mục tiêu, mong muốn.</para>
+        <para id="id5353167">− Khuyến khích thông qua khen ngợi, công nhận, khen tinh thần và thưởng vật chất.</para>
+        <para id="id4541700">− Động viên qua các công việc phong phú và các công việc thay đổi.</para>
+        <para id="id5440691"> Trong chức năng phối hợp:</para>
+        <para id="id4904119">− Thực hiện phối hợp qua các kế hoạch thống nhất; phối hợp các cơ sở dữ liệu được chuẩn hoá.</para>
+        <para id="id4186530">− Theo dõi các công việc hiện tại và giới thiệu các công việc cần thiết.</para>
+        <para id="id3964069">− Báo cáo, cung cấp tài liệu và truyền thông.</para>
+        <para id="id3622876">− Phối hợp các hoạt động mua sắm, giao hàng, thay đổi thiết kế...</para>
+        <para id="id5413005">− Chịu trách nhiệm trước khách hàng về trạng thái đơn hàng.</para>
+        <para id="id5413592">− Chức năng giáo dục phát triển nhân sự, giúp đỡ đào tạo công nhân.</para>
+        <para id="id4808031">Tóm lại, chức năng quản trị sản xuất thực hiện bởi một nhóm người chịu trách nhiệm sản xuất hàng hoá và dịch vụ cho xã hội. Chức năng sản xuất là một chức năng cơ bản doanh nghiệp, nó có ảnh hưởng tới sự thành công và phát triển của doanh nghiệp vì nó tác động trực tiếp đến các sản phẩm và dịch vụ cung cấp, ảnh hưởng đến chi phí và chất lượng.</para>
+        <para id="id5263614"> o O o </para>
+      </section>
+    </section>
+    <section id="id-0161136890202">
+      <title>Câu HỎI ôn tẬp</title>
+      <list id="id5368420" list-type="enumerated">
+        <item>Thế nào là sản xuất và quản trị sản xuất?</item>
+        <item>Tại sao nói quản trị sản xuất là một chức năng cơ bản của quản trị doanh nghiệp?</item>
+        <item>Nghiên cứu yếu tố đầu vào và đầu ra của hệ thống sản xuất là gì?</item>
+        <item>Trình bày các đặc điểm cơ bản của hệ thống sản xuất hiện đại?</item>
+        <item>Hãy nêu các quyết định trong quản trị sản xuất?</item>
+        <item>Kỹ năng của người quản lý trong quản trị sản xuất là gì?</item>
+      </list>
+    </section>
+  </content>
+</document>

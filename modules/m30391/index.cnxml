@@ -1,0 +1,2280 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Dự báo</title>
+  <metadata>
+  <md:content-id>m30391</md:content-id><md:title>Dự báo</md:title>
+  <md:abstract>Phần này trình bày về dự báo</md:abstract>
+  <md:uuid>1e5c0793-3944-4a5a-8de0-5a954599680c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-52571958853">
+      <title>KHÁI NIỆM VỀ DỰ BÁO.</title>
+      <para id="id5469940">Người ta thường nhấn mạnh rằng một phương pháp tiếp cận hiệu quả đối với dự báo là phần quan trọng trong hoạch định. Khi các nhà quản trị lên kế hoạch, trong hiện tại họ xác định hướng tương lai cho các hoạt động mà họ sẽ thực hiện. Bước đầu tiên trong hoạch định là dự báo hay là ước lượng nhu cầu tương lai cho sản phẩm hoặc dịch vụ và các nguồn lực cần thiết để sản xuất sản phẩm hoặc dịch vụ đó.</para>
+      <para id="id5469958">Như vậy, dự báo là một khoa học và nghệ thuật tiên đoán những sự việc sẽ xảy ra trong tương lai, trên cơ sở phân tích khoa học về các dữ liệu đã thu thập được.</para>
+      <para id="id5469974">Khi tiến hành dự báo ta căn cứ vào việc thu thập xử lý số liệu trong quá khứ và hiện tại để xác định xu hướng vận động của các hiện tượng trong tương lai nhờ vào một số mô hình toán học.</para>
+      <para id="id5469991">Dự báo có thể là một dự đoán chủ quan hoặc trực giác về tương lai. Nhưng để cho dự báo được chính xác hơn, người ta cố loại trừ những tính chủ quan của người dự báo.</para>
+    </section>
+    <section id="id-800202604736">
+      <title>PHƯƠNG PHÁP DỰ BÁO ĐỊNH TÍNH.</title>
+      <para id="id5470019">Các phương pháp này dựa trên cơ sở nhận xét của những nhân tố nhân quả, dựa theo doanh số của từng sản phẩm hay dịch vụ riêng biệt và dựa trên những ý kiến về các khả năng có liên hệ của những nhân tố nhân quả này trong tương lai. Những phương pháp này có liên quan đến mức độ phức tạp khác nhau, từ những khảo sát ý kiến được tiến hành một cách khoa học để nhận biết về các sự kiện tương lai. Dưới đây là các dự báo định tính thường dùng:</para>
+      <section id="id-23220829893">
+        <title>Lấy ý kiến của ban điều hành.</title>
+        <para id="id5470052">Phương pháp này được sử dụng rộng rãi ở các doanh nghiệp. Khi tiến hành dự báo, họ lấy ý kiến của các nhà quản trị cấp cao, những người phụ trách các công việc, các bộ phận quan trọng của doanh nghiệp, và sử dụng các số liệu thống kê về những chỉ tiêu tổng hợp: doanh số, chi phí, lợi nhuận...Ngoài ra cần lấy thêm ý kiến của các chuyên gia về marketing, tài chính, sản xuất, kỹ thuật.</para>
+        <para id="id5470071">Nhược điểm lớn nhất của phương pháp này là có tính chủ quan của các thành viên và ý kiến của người có chức vụ cao nhất thường chi phối ý kiến của những người khác.</para>
+      </section>
+      <section id="id-357073095292">
+        <title>Lấy ý kiến của người bán hàng.</title>
+        <para id="id5470096">Những người bán hàng tiếp xúc thường xuyên với khách hàng, do đó họ hiểu rõ nhu cầu, thị hiếu của người tiêu dùng. Họ có thể dự đoán được lượng hàng tiêu thụ tại khu vực mình phụ trách.</para>
+        <para id="id5470114">Tập hợp ý kiến của nhiều người bán hàng tại nhiều khu vực khác nhau, ta có được lượng dự báo tổng hợp về nhu cầu đối với loại sản phẩm đang xét.</para>
+        <para id="id5470129">Nhược điểm của phương pháp này là phụ thuộc vào đánh giá chủ quan của người bán hàng. Một số có khuynh hướng lạc quan đánh giá cao lượng hàng bán ra của mình. Ngược lại, một số khác lại muốn giảm xuống để dễ đạt định mức.</para>
+      </section>
+      <section id="id-466108796148">
+        <title>Phương pháp chuyên gia (Delphi).</title>
+        <para id="id5470157">Phương pháp này thu thập ý kiến của các chuyên gia trong hoặc ngoài doanh nghiệp theo những mẫu câu hỏi được in sẵn và được thực hiện như sau:</para>
+        <para id="id5470174"> Mỗi chuyên gia được phát một thư yêu cầu trả lời một số câu hỏi phục vụ cho việc dự báo.</para>
+        <para id="id5470194"> Nhân viên dự báo tập hợp các câu trả lời, sắp xếp chọn lọc và tóm tắt lại các ý kiến của các chuyên gia.</para>
+        <para id="id5470215"> Dựa vào bảng tóm tắt này nhân viên dự báo lại tiếp tục nêu ra các câu hỏi để các chuyên gia trả lời tiếp.</para>
+        <para id="id5470236"> Tập hợp các ý kiến mới của các chuyên gia. Nếu chưa thỏa mãn thì tiếp tục quá trình nêu trên cho đến khi đạt yêu cầu dự báo.</para>
+        <para id="id5470257">Ưu điểm của phương pháp này là tránh được các liên hệ cá nhân với nhau, không xảy ra va chạm giữa các chuyên gia và họ không bị ảnh hưởng bởi ý kiến của một người nào đó có ưu thế trong số người được hỏi ý kiến.</para>
+      </section>
+      <section id="id-0532345000979">
+        <title>Phương pháp điều tra người tiêu dùng.</title>
+        <para id="id5470283">Phương pháp này sẽ thu thập nguồn thông tin từ đối tượng người tiêu dùng về nhu cầu hiện tại cũng như tương lai. Cuộc điều tra nhu cầu được thực hiện bởi những nhân viên bán hàng hoặc nhân viên nghiên cứu thị trường. Họ thu thập ý kiến khách hàng thông qua phiếu điều tra, phỏng vấn trực tiếp hay điện thoại... Cách tiếp cận này không những giúp cho doanh nghiệp về dự báo nhu cầu mà cả trong việc cải tiến thiết kế sản phẩm. Phương pháp này mất nhiều thời gian, việc chuẩn bị phức tạp, khó khăn và tốn kém, có thể không chính xác trong các câu trả lời của người tiêu dùng.</para>
+      </section>
+    </section>
+    <section id="id-45246726017">
+      <title>PHƯƠNG PHÁP DỰ BÁO ĐỊNH LƯỢNG.</title>
+      <para id="id5470331">Mô hình dự báo định lượng dựa trên số liệu quá khứ, những số liệu này giả sử có liên quan đến tương lai và có thể tìm thấy được. Tất cả các mô hình dự báo theo định lượng có thể sử dụng thông qua chuỗi thời gian và các giá trị này được quan sát đo lường các giai đoạn theo từng chuỗi .</para>
+      <para id="id5470349"> Các bước tiến hành dự báo: </para>
+      <para id="id5470367"> Xác định mục tiêu dự báo.</para>
+      <para id="id5470384"> Xác định loại dự báo.</para>
+      <para id="id5470406"> Chọn mô hình dự báo.</para>
+      <para id="id5470423"> Thu thập số liệu và tiến hành dự báo.</para>
+      <para id="id5470440"> Ứng dụng kết quả dự báo.</para>
+      <para id="id5470458"> Tính chính xác của dự báo:</para>
+      <para id="id5470475">Tính chính xác của dự báo đề cập đến độ chênh lệch của dự báo với số liệu thực tế. Bởi vì dự báo được hình thành trước khi số liệu thực tế xảy ra, vì vậy tính chính xác của dự báo chỉ có thể đánh giá sau khi thời gian đã qua đi. Nếu dự báo càng gần với số liệu thực tế, ta nói dự báo có độ chính xác cao và lỗi trong dự báo càng thấp.</para>
+      <para id="id5470494">Người ta thường dùng độ sai lệch tuyệt đối bình quân (MAD) để tính toán:</para>
+      <para id="id5470506">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>MAD</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>Täøng</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mtext> caïc sai säú tuyãût âäúi cuía n giai âoaûn</m:mtext>
+                      </m:mrow>
+                      <m:mtext>n giai âoaûn</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ ital "MAD"= {  { ital "Täøng"" caïc sai säú tuyãût âäúi cuía n giai âoaûn"}  over  {"n giai âoaûn"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5470595">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>MAD</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:msub>
+                          <m:mrow>
+                            <m:mo stretchy="false">∣</m:mo>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>Nh</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mtext>u cáöu thæûc tãú - Nhu cáöu dæû  baïo</m:mtext>
+                            </m:mrow>
+                            <m:mo stretchy="false">∣</m:mo>
+                          </m:mrow>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ ital "MAD"= {  { Sum cSub { size 8{i=1} }  cSup { size 8{n} }  { lline  ital "Nh""u cáöu thæûc tãú - Nhu cáöu dæû  baïo" rline  rSub { size 8{i} } } }  over  {n} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <section id="id-706661843681">
+        <title>Dự báo ngắn hạn.</title>
+        <para id="id5470732">Dự báo ngắn hạn ước lượng tương lai trong thời gian ngắn, có thể từ vài ngày đến vài tháng. Dự báo ngắn hạn cung cấp cho các nhà quản lý tác nghiệp những thông tin để đưa ra quyết định về các vấn đề như:</para>
+        <para id="id5470750"> Cần dự trữ bao nhiêu đối với một loại sản phẩm cụ thể nào đó cho tháng tới ?</para>
+        <para id="id5470770"> Lên lịch sản xuất từng loại sản phẩm cho tháng tới như thế nào ?</para>
+        <para id="id5470789"> Số lượng nguyên vật liệu cần đặt hàng để nhận vào tuần tới là bao nhiêu ?</para>
+        <para id="id5470808"> Dự báo sơ bộ:</para>
+        <para id="id5470829">Mô hình dự báo sơ bộ là loại dự báo nhanh, không cần chi phí và dễ sử dụng. Ví dụ như:</para>
+        <para id="id5470846"> Sử dụng số liệu hàng bán ngày hôm nay làm dự báo cho lượng hàng bán ở ngày mai.</para>
+        <para id="id5470866"> Sử dụng số liệu ngày này ở năm rồi như là dự báo lượng hàng bán cho ngày ấy ở năm nay.</para>
+        <para id="id5470888">Mô hình dự báo sơ bộ quá đơn giản cho nên thường hay gặp những sai sót trong dự báo. </para>
+        <para id="id5470900"> Phương pháp bình quân di động:</para>
+        <para id="id5470919">Phương pháp bình quân di động trung bình hóa các số liệu trong một giai đoạn gần đây và số trung bình này trở thành dự báo cho giai đoạn tới.</para>
+        <para id="id5470933">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>F</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>t</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mi>A</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mrow>
+                                        <m:mi>t</m:mi>
+                                        <m:mo stretchy="false">−</m:mo>
+                                        <m:mn>1</m:mn>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:msub>
+                                  <m:mi>A</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mrow>
+                                        <m:mi>t</m:mi>
+                                        <m:mo stretchy="false">−</m:mo>
+                                        <m:mn>2</m:mn>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mrow>
+                              <m:mtext>.</m:mtext>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msub>
+                                <m:mi>A</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mi>t</m:mi>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mi>n</m:mi>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mrow>
+                          <m:mi>n</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:munderover>
+                            <m:mo stretchy="false">∑</m:mo>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mi>i</m:mi>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>n</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:munderover>
+                          <m:msub>
+                            <m:mi>A</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mi>t</m:mi>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mi>i</m:mi>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mi>n</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{t} } = {  {A rSub { size 8{t - 1} } +A rSub { size 8{t - 2} } + "."  "."  "." +A rSub { size 8{t - n} } }  over  {n} } = {  { Sum cSub { size 8{i=1} }  cSup { size 8{n} }  {A rSub { size 8{t - i} } } }  over  {n} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5471145">Với:Ft - Dự báo thời kỳ thứ t;At-i - Số liệu thực tế thời kỳ trước (i=1,2,...,n)</para>
+        <para id="id5471191">n - Số thời kỳ tính toán di động</para>
+        <para id="id5471204">Ví dụ 2-1: Ông B, nhà quản lý dự trữ, muốn dự báo số lượng hàng tồn kho - xuất kho hàng tuần. Ông ta nghĩ rằng, nhu cầu hiện tại là khá ổn định với sự biến động hàng tuần không đáng kể. Các nhà phân tích của công ty mẹ đề nghị ông lựa chọn để sử dụng số bình quân di động theo 3,5,7 tuần. Trước khi chọn một trong số này, ông B quyết định so sánh tính chính xác của chúng trong giai đoạn 10 tuần lễ gần đây nhất (đơn vị: 10 Triệu đồng).</para>
+        <para id="id5471233">Kết quả bài toán:</para>
+        <para id="id5471239"> Tính toán bình quân di động 3, 5, 7 tuần:</para>
+        <table id="id5471257" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Tuần lễ</entry>
+                <entry>Nhu cầu dựtrữ thực tế</entry>
+                <entrytbl namest="c3" nameend="c5" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">Dự báo</entry>
+                    </row>
+                    <row>
+                      <entry>3 tuần</entry>
+                      <entry>5 tuần</entry>
+                      <entry>7 tuần</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>100</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>125</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>90</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>110</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>105</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>130</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>85</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>102</entry>
+                <entry>106,7</entry>
+                <entry>104,0</entry>
+                <entry>106,4</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>110</entry>
+                <entry>105,7</entry>
+                <entry>106,4</entry>
+                <entry>106,7</entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>90</entry>
+                <entry>99,0</entry>
+                <entry>106,4</entry>
+                <entry>104,6</entry>
+              </row>
+              <row>
+                <entry>11</entry>
+                <entry>105</entry>
+                <entry>100,7</entry>
+                <entry>103,4</entry>
+                <entry>104,6</entry>
+              </row>
+              <row>
+                <entry>12</entry>
+                <entry>95</entry>
+                <entry>101,7</entry>
+                <entry>98,4</entry>
+                <entry>103,9</entry>
+              </row>
+              <row>
+                <entry>13</entry>
+                <entry>115</entry>
+                <entry>96,7</entry>
+                <entry>100,4</entry>
+                <entry>102,4</entry>
+              </row>
+              <row>
+                <entry>14</entry>
+                <entry>120</entry>
+                <entry>105,0</entry>
+                <entry>103,0</entry>
+                <entry>100,3</entry>
+              </row>
+              <row>
+                <entry>15</entry>
+                <entry>80</entry>
+                <entry>110,0</entry>
+                <entry>105,0</entry>
+                <entry>105,3</entry>
+              </row>
+              <row>
+                <entry>16</entry>
+                <entry>95</entry>
+                <entry>105,0</entry>
+                <entry>103,0</entry>
+                <entry>102,1</entry>
+              </row>
+              <row>
+                <entry>17</entry>
+                <entry>100</entry>
+                <entry>98,3</entry>
+                <entry>101,0</entry>
+                <entry>100,0</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5472189"> Tính toán độ lệch tuyệt đối bình quân MAD cho 3 loại dự báo này:</para>
+        <table id="id5472208" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Tuần lễ</entry>
+                <entry>Nhu cầu dựtrữ thực tế</entry>
+                <entrytbl namest="c3" nameend="c8" cols="6">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c2">3 tuần</entry>
+                      <entry namest="c3" nameend="c4">5 tuần</entry>
+                      <entry namest="c5" nameend="c6">7 tuần</entry>
+                    </row>
+                    <row>
+                      <entry>Dự báo</entry>
+                      <entry>AD</entry>
+                      <entry>Dự báo</entry>
+                      <entry>AD</entry>
+                      <entry>Dự báo</entry>
+                      <entry>AD</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>102</entry>
+                <entry>106,7</entry>
+                <entry>4,7</entry>
+                <entry>104,0</entry>
+                <entry>2,0</entry>
+                <entry>106,4</entry>
+                <entry>4,4</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>110</entry>
+                <entry>105,7</entry>
+                <entry>4,3</entry>
+                <entry>106,4</entry>
+                <entry>3,6</entry>
+                <entry>106,7</entry>
+                <entry>3,3</entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>90</entry>
+                <entry>99,0</entry>
+                <entry>9,0</entry>
+                <entry>106,4</entry>
+                <entry>16,4</entry>
+                <entry>104,6</entry>
+                <entry>14,6</entry>
+              </row>
+              <row>
+                <entry>11</entry>
+                <entry>105</entry>
+                <entry>100,7</entry>
+                <entry>4,3</entry>
+                <entry>103,4</entry>
+                <entry>1,6</entry>
+                <entry>104,6</entry>
+                <entry>0,4</entry>
+              </row>
+              <row>
+                <entry>12</entry>
+                <entry>95</entry>
+                <entry>101,7</entry>
+                <entry>6,7</entry>
+                <entry>98,4</entry>
+                <entry>3,4</entry>
+                <entry>103,9</entry>
+                <entry>8,9</entry>
+              </row>
+              <row>
+                <entry>13</entry>
+                <entry>115</entry>
+                <entry>96,7</entry>
+                <entry>18,3</entry>
+                <entry>100,4</entry>
+                <entry>14,6</entry>
+                <entry>102,4</entry>
+                <entry>12,6</entry>
+              </row>
+              <row>
+                <entry>14</entry>
+                <entry>120</entry>
+                <entry>105,0</entry>
+                <entry>15,0</entry>
+                <entry>103,0</entry>
+                <entry>17,0</entry>
+                <entry>100,3</entry>
+                <entry>19,7</entry>
+              </row>
+              <row>
+                <entry>15</entry>
+                <entry>80</entry>
+                <entry>110,0</entry>
+                <entry>30,0</entry>
+                <entry>105,0</entry>
+                <entry>25,0</entry>
+                <entry>105,3</entry>
+                <entry>25,3</entry>
+              </row>
+              <row>
+                <entry>16</entry>
+                <entry>95</entry>
+                <entry>105,0</entry>
+                <entry>10,0</entry>
+                <entry>103,0</entry>
+                <entry>8,0</entry>
+                <entry>102,1</entry>
+                <entry>7,1</entry>
+              </row>
+              <row>
+                <entry>17</entry>
+                <entry>100</entry>
+                <entry>98,3</entry>
+                <entry>1,7</entry>
+                <entry>101,0</entry>
+                <entry>1,0</entry>
+                <entry>100,0</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Tổng độ lệch tuyệt đối</entry>
+                <entry/>
+                <entry>104,0</entry>
+                <entry/>
+                <entry>92,6</entry>
+                <entry/>
+                <entry>96,3</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">MAD</entry>
+                <entry/>
+                <entry>10,4</entry>
+                <entry/>
+                <entry>9,26</entry>
+                <entry/>
+                <entry>9,63</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5473367"> Độ chính xác của dự báo bình quân di động 5 tuần là tốt nhất, vì thế ta sử dụng phương pháp nầy để dự báo nhu cầu dự trữ cho tuần kế tiếp, tuần thứ 18.</para>
+        <para id="id5473391"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>18</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>115</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>120</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>80</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>95</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>100</m:mtext></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="12pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>102</m:mtext></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{F rSub { size 8{"18"} } = {  { size 12{"115"+"120"+"80"+"95"+"100"} }  over  { size 12{5} } } ="102"}} {}</m:annotation></m:semantics></m:math> hay 1.020 triệu đồng</para>
+        <para id="id5463048"> Phương pháp bình quân di động có quyền số.</para>
+        <para id="id5463066">Trong phương pháp bình quân di động được đề cập ở phần trên, chúng ta xem vai trò của các số liệu trong quá khứ là như nhau. Trong một vài trường hợp, các số liệu nầy có ảnh hưởng khác nhau trên kết quả dự báo, vì thế, người ta thích sử dụng quyền số không đồng đều cho các số liệu quá khứ. Quyền số hay trọng số là các con số được gán cho các số liệu quá khứ để chỉ mức độ quan trọng của chúng ảnh hưởng đến kết quả dự báo. Quyền số lớn được gán cho số liệu gần với kỳ dự báo nhất để ám chỉ ảnh hưởng của nó là lớn nhất.Việc chọn các quyền số phụ thuộc vào kinh nghiệm và sự nhạy cảm của người dự báo.</para>
+        <para id="id5463104">Công thức tính toán:</para>
+        <para id="id5463111">Với:Ft - Dự báo thời kỳ thứ tAt-i - Số liệu thực tế thời kỳ trước (i=1,2,...,n)ki - Quyền số tương ứng ở thời kỳ i
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow><m:msub><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">−</m:mo><m:mi>i</m:mi></m:mrow></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{t} } = {  { Sum cSub { size 8{i=1} }  cSup { size 8{n} }  {A rSub { size 8{t - i} }  "." k rSub { size 8{i} } } }  over  { Sum cSub { size 8{i=1} }  cSup { size 8{n} }  {k rSub { size 8{i} } } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5463376">Ví dụ 2-2: Giả sử rằng ta có quyền số của tuần gần nhất là 3, cách 2 tuần trước là 2,5; cách 3 tuần trước là 2 ; 4 tuần trước là 1,5 ; 5 tuần trước là 1. Theo ví dụ 2.1, ta tính dự báo nhu cầu dự trữ cho tuần lễ thứ 18 cho thời kỳ 5 tuần như sau:</para>
+        <para id="id5463412"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>18</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>115</m:mtext><m:mi fontstyle="italic">x1</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mtext>120</m:mtext><m:mi fontstyle="italic">x1</m:mi><m:mi>,</m:mi><m:mn>5</m:mn><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mtext>80</m:mtext><m:mi fontstyle="italic">x2</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mtext>95</m:mtext><m:mi fontstyle="italic">x2</m:mi><m:mi>,</m:mi><m:mn>5</m:mn><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mtext>100</m:mtext><m:mi fontstyle="italic">x3</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mtext>10</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>99</m:mtext></m:mrow><m:mi>,</m:mi><m:mtext>25</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{"18"} } = {  { \( "115"x1 \) + \( "120"x1,5 \) + \( "80"x2 \) + \( "95"x2,5 \) + \( "100"x3 \) }  over  {"10"} } ="99","25"} {}</m:annotation></m:semantics></m:math> hay 993 triệu đồng</para>
+        <para id="id5463614">Cả 2 phương pháp bình quân di động và bình quân di động có quyền số đều có ưu điểm là san bằng được các biến động ngẫu nhiên trong dãy số . Tuy vậy, chúng đều có nhược điểm sau:</para>
+        <para id="id5463631"> Do việc san bằng các biến động ngẫu nhiên nên làm giảm độ nhạy cảm đối với những thay đổi thực đã được phản ánh trong dãy số.</para>
+        <para id="id5463653"> Số bình quân di động chưa cho chúng ta xu hướng phát triển của dãy số một cách tốt nhất. Nó chỉ thể hiện sự vận động trong quá khứ chứ chưa thể kéo dài sự vận động đó trong tương lai.</para>
+        <para id="id5463677"> Phương pháp điều hòa mũ.</para>
+        <para id="id5463699">Điều hòa mũ đưa ra các dự báo cho giai đoạn trước và thêm vào đó một lượng điều chỉnh để có được lượng dự báo cho giai đoạn kế tiếp. Sự điều chỉnh này là một tỷ lệ nào đó của sai số dự báo ở giai đoạn trước và được tính bằng cách nhân số dự báo của giai đoạn trước với hệ số nằm giữa 0 và 1. Hệ số này gọi là hệ số điều hòa.</para>
+        <para id="id5463723">Công thức tính như sau: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mi>α</m:mi></m:mrow></m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{t} } =F rSub { size 8{t - 1} } +α \( A rSub { size 8{t - 1} }  - F rSub { size 8{t - 1} }  \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5463870">Trong đó : F t - Dự báo cho giai đoạn thứ t, giai đoạn kế tiếp.</para>
+        <para id="id5463901">  F t -1 - Dự báo cho giai đoạn thứ t-1, giai đoạn trước.</para>
+        <para id="id5463937"> A t -1 - Số liệu thực tế của giai đoạn thứ t-1</para>
+        <para id="id5463971">Ví dụ 2-3: Ông B trong ví dụ 2.1, nói với nhà phân tích ở công ty mẹ rằng, phải dự báo nhu cầu hàng tuần cho dự trữ trong nhà kho của ông. Nhà phân tích đề nghị ông B xem xét việc sử dụng phương pháp điều hòa mũ với các hệ số điều hòa 0,1 ; 0,2 ; 0,3 . Ông B quyết định so sánh mức độ chính xác của dự báo ứng với từng hệ số cho giai đoạn 10 tuần lễ gần đây nhất.</para>
+        <para id="id5464007">Kết quả bài toán:</para>
+        <para id="id5464014"> Chúng ta tính toán dự báo hàng tuần cho tuần lễ thứ 8 đến tuần lễ thứ 17. Tất cả dự báo của tuần lễ thứ 7 được chọn một cách ngẫu nhiên, dự báo khởi đầu thì rất cần thiết trong phương pháp điều hòa mũ. Thông thường người ta cho các dự báo này bằng với giá trị thực của giai đoạn.</para>
+        <para id="id5464040">Tính toán mẫu - dự báo cho tuần lễ thứ 8:</para>
+        <para id="id5464047"> =0,1  F8 = 85 + 0,1(85-85) = 85</para>
+        <para id="id5464091">  F9 = 85 + 0,1(102 - 85) = 86,7</para>
+        <para id="id5464124"> =0,2  F9 = 85 + 0,2(102 - 85) = 88,4</para>
+        <para id="id5464165"> Sau đó ta tính độ lệch tuyệt đối bình quân MAD cho 3 dự báo nói trên:</para>
+        <table id="id5464184" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Tuần lễ</entry>
+                <entry>Nhu cầu dựtrữ thực tế</entry>
+                <entrytbl namest="c3" nameend="c8" cols="6">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c2"> =0,1</entry>
+                      <entry namest="c3" nameend="c4"> =0,2</entry>
+                      <entry namest="c5" nameend="c6"> =0,3</entry>
+                    </row>
+                    <row>
+                      <entry>Dự báo</entry>
+                      <entry>AD</entry>
+                      <entry>Dự báo</entry>
+                      <entry>AD</entry>
+                      <entry>Dự báo</entry>
+                      <entry>AD</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>102</entry>
+                <entry>85,0</entry>
+                <entry>17,0</entry>
+                <entry>85,0</entry>
+                <entry>17,0</entry>
+                <entry>85,0</entry>
+                <entry>17,0</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>110</entry>
+                <entry>86,7</entry>
+                <entry>23,3</entry>
+                <entry>88,4</entry>
+                <entry>21,6</entry>
+                <entry>90,1</entry>
+                <entry>19,9</entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>90</entry>
+                <entry>89,0</entry>
+                <entry>1,0</entry>
+                <entry>92,7</entry>
+                <entry>2,7</entry>
+                <entry>96,1</entry>
+                <entry>6,1</entry>
+              </row>
+              <row>
+                <entry>11</entry>
+                <entry>105</entry>
+                <entry>89,1</entry>
+                <entry>15,9</entry>
+                <entry>92,2</entry>
+                <entry>12,8</entry>
+                <entry>94,3</entry>
+                <entry>10,7</entry>
+              </row>
+              <row>
+                <entry>12</entry>
+                <entry>95</entry>
+                <entry>90,7</entry>
+                <entry>4,3</entry>
+                <entry>94,8</entry>
+                <entry>0,2</entry>
+                <entry>97,5</entry>
+                <entry>2,5</entry>
+              </row>
+              <row>
+                <entry>13</entry>
+                <entry>115</entry>
+                <entry>91,1</entry>
+                <entry>23,9</entry>
+                <entry>94,8</entry>
+                <entry>20,2</entry>
+                <entry>96,8</entry>
+                <entry>18,2</entry>
+              </row>
+              <row>
+                <entry>14</entry>
+                <entry>120</entry>
+                <entry>93,5</entry>
+                <entry>26,5</entry>
+                <entry>98,8</entry>
+                <entry>21,2</entry>
+                <entry>102,3</entry>
+                <entry>17,7</entry>
+              </row>
+              <row>
+                <entry>15</entry>
+                <entry>80</entry>
+                <entry>96,2</entry>
+                <entry>16,2</entry>
+                <entry>103,0</entry>
+                <entry>23,0</entry>
+                <entry>107,6</entry>
+                <entry>27,8</entry>
+              </row>
+              <row>
+                <entry>16</entry>
+                <entry>95</entry>
+                <entry>94,6</entry>
+                <entry>0,4</entry>
+                <entry>98,4</entry>
+                <entry>3,4</entry>
+                <entry>99,3</entry>
+                <entry>4,3</entry>
+              </row>
+              <row>
+                <entry>17</entry>
+                <entry>100</entry>
+                <entry>94,6</entry>
+                <entry>5,4</entry>
+                <entry>97,7</entry>
+                <entry>2,3</entry>
+                <entry>98,0</entry>
+                <entry>2,0</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Tổng độ lệch tuyệt đối</entry>
+                <entry/>
+                <entry>133,9</entry>
+                <entry/>
+                <entry>124,4</entry>
+                <entry/>
+                <entry>126,0</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">MAD</entry>
+                <entry/>
+                <entry>13,39</entry>
+                <entry/>
+                <entry>12,44</entry>
+                <entry/>
+                <entry>12,6</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5465360"> Hệ số điều hòa  =0,2 cho chúng ta độ chính xác cao hơn =0,1 và =0,3.</para>
+        <para id="id5465411">Sử dụng  = 0,2 để tính dự báo cho tuần thứ 18 :</para>
+        <para id="id5465430">F18 = F17 +  ( A17 - F17)</para>
+        <para id="id5465482"> =97,7 + 0,2(100 - 97,7) = 98,2 hay 982 triệu đồng. </para>
+        <para id="id5465500"> Phương pháp điều hòa mũ theo xu hướng.</para>
+        <para id="id5465522">Chúng ta thường xem xét kế hoạch ngắn hạn, thì mùa vụ và xu hướng là nhân tố không quan trọng. Khi chúng ta chuyển từ dự báo ngắn hạn sang dự báo trung hạn thì mùa vụ và xu hướng trở nên quan trọng hơn. Kết hợp nhân tố xu hướng vào dự báo điều hòa mũ được gọi là điều hòa mũ theo xu hướng hay điều hòa đôi.</para>
+        <para id="id5465541">Vì ước lượng cho số trung bình và ước lượng cho xu hướng được điều hòa cả hai. Hệ số điều hòa  cho số trung bình và hệ số điều hòa  cho xu hướng, được sử dụng trong mô hình này.</para>
+        <para id="id5465575">Công thức tính toán như sau: </para>
+        <para id="id5465584">FTt = St - 1 + T t - 1</para>
+        <para id="id5465615">Với: St = FTt +  (At -FTt )</para>
+        <para id="id5465674"> Tt = Tt - 1 +  (FTt - FTt - 1 - Tt - 1 )</para>
+        <para id="id5465740">Trong đó FTt - Dự báo theo xu hướng trong giai đoạn t</para>
+        <para id="id5465768">St - Dự báo đã được điều hòa trong giai đoạn t</para>
+        <para id="id5465802">Tt - Ước lượng xu hướng trong giai đoạn t</para>
+        <para id="id5465837">At - Số liệu thực tế trong giai đoạn t</para>
+        <para id="id5465869"> t - Thời đoạn kế tiếp.</para>
+        <para id="id5465888">t-1 - Thời đoạn trước.</para>
+        <para id="id5465908"> - Hệ số điều hòa trung bình có giá trị từ 0  1</para>
+        <para id="id5465944"> - Hệ số điều hòa theo xu hướng có giá trị từ 0  1</para>
+        <para id="id5465980">Ví dụ 2-4: Ông A muốn dự báo số lượng hàng bán ra của công ty để nhằm lên kế hoạch tiền mặt, nhân sự và nhu cầu năng lực cho tương lai. Ông tin rằng trong suốt giai đoạn 6 tháng qua, số liệu lượng hàng bán ra có thể đại diện cho tương lai. Ông xây dự báo điều hòa mũ theo xu hướng cho số lượng hàng bán ra ở tháng thứ 7 nếu  = 0,2 ; =0,3 và số liệu bán ra trong quá khứ như sau (đơn vị: 10 Triệu đồng).</para>
+        <table id="id5466028" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Tháng (t)</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>Doanh số bán (At)</entry>
+                <entry>130</entry>
+                <entry>136</entry>
+                <entry>134</entry>
+                <entry>140</entry>
+                <entry>146</entry>
+                <entry>150</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5466206">Kết quả bài toán:</para>
+        <para id="id5466212"> Chúng ta ước lượng dự báo bắt đầu vào tháng 1 bằng dự báo sơ bộ, tức là bằng số liệu thực tế.Ta có: FT1 = A1 = 130</para>
+        <para id="id5466262"> Chúng ta ước lượng phần tử xu hướng bắt đầu. Phương pháp để ước lượng phần tử xu hướng là lấy số liệu thực tế của tháng cuối cùng trừ số liệu thực tế tháng đầu tiên, sau đó chia cho số giai đoạn trong kỳ đang xét.</para>
+        <para id="id5466288">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>T</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>A</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>6</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msub>
+                                <m:mi>A</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                            <m:mn>5</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mtext>150</m:mtext>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mtext>130</m:mtext>
+                          </m:mrow>
+                          <m:mn>5</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>4</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{1} } = {  {A rSub { size 8{6} }  - A rSub { size 8{1} } }  over  {5} } = {  {"150" - "130"}  over  {5} } =4} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5466410"> Sử dụng dự báo sơ bộ và phần tử xu hướng bắt đầu để tính dự báo doanh số bán ra trong từng tháng cho đến tháng thứ 7.</para>
+        <para id="id5466431">Dự báo theo xu hướng cho tháng thứ 2:FT2 = S1 + T1</para>
+        <para id="id5466468">S1 = FT1 +  (A1 - FT1 ) = 130 + 0,2( 130 - 130 ) = 130</para>
+        <para id="id5466520">T1 = 4</para>
+        <para id="id5466541"> FT2 = 130 + 4 = 134</para>
+        <para id="id5466568">Dự báo theo xu hướng cho tháng thứ 3: FT3 = S2 + T2</para>
+        <para id="id5466604">S2 = FT2 +  (A2 - FT2 ) = 134 + 0,2( 136 - 134 ) = 134,4</para>
+        <para id="id5466656">T2 = T1 + (FT2 - FT1 - T1 ) = 4 + 0,3 (134 - 130 - 4) = 4</para>
+        <para id="id5466716"> FT3 = S2 + T2 = 134,4 + 4 = 138,4</para>
+        <para id="id5466762">Dự báo tương tự cho các tháng 4, 5, 6, 7 ta được bảng sau:</para>
+        <table id="id5466773" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Tháng (t)</entry>
+                <entry>Doanh số bán (At)</entry>
+                <entry>St - 1</entry>
+                <entry>Tt - 1</entry>
+                <entry>FTt</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>130</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>130,00</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>136</entry>
+                <entry>130,00</entry>
+                <entry>4,00</entry>
+                <entry>134,00</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>134</entry>
+                <entry>134,40</entry>
+                <entry>4,00</entry>
+                <entry>138,40</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>140</entry>
+                <entry>137,52</entry>
+                <entry>4,12</entry>
+                <entry>141,64</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>146</entry>
+                <entry>141,31</entry>
+                <entry>3,86</entry>
+                <entry>145,17</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>150</entry>
+                <entry>145,34</entry>
+                <entry>3,76</entry>
+                <entry>149,10</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>-</entry>
+                <entry>149,28</entry>
+                <entry>3,81</entry>
+                <entry>153,09</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-601756448531">
+        <title>Dự báo dài hạn.</title>
+        <para id="id5467260">Dự báo dài hạn là ước lượng tương lai trong thời gian dài, thường hơn một năm. Dự báo dài hạn rất cần thiết trong quản trị sản xuất để trợ giúp các quyết định chiến lược về hoạch định sản phẩm, quy trình công nghệ và các phương tiện sản xuất. Ví dụ như:</para>
+        <para id="id5467283"> Thiết kế sản phẩm mới.</para>
+        <para id="id5467300"> Xác định năng lực sản xuất cần thiết là bao nhiêu ? Máy móc, thiết bị nào cần sử dụng và chúng được đặt ở đâu ?</para>
+        <para id="id5467322"> Lên lịch trình cho những nhà cung ứng theo các hợp đồng cung cấp nguyên vật liệu dài hạn.</para>
+        <para id="id5467336">Dự báo dài hạn có thể được xây dựng bằng cách vẽ một đường thẳng đi xuyên qua các số liệu quá khứ và kéo dài nó đến tương lai. Dự báo trong giai đoạn kế tiếp có thể được vẽ vượt ra khỏi đồ thị thông thường. Phương pháp tiếp cận theo kiểu đồ thị đối với dự báo dài hạn có thể dùng trong thực tế, nhưng điểm không thuận lợi của nó là vấn đề vẽ một đường tương ứng hợp lý nhất đi qua các số liệu quá khứ này.</para>
+        <para id="id5467365">Doanh số Thời gian Đường xu hướng </para>
+        <para id="id5516354">Phân tích hồi qui sẽ cung cấp cho chúng ta một phương pháp làm việc chính xác để xây dựng đường dự báo theo xu hướng.</para>
+        <para id="id5516365"> Phương pháp hồi qui tuyến tính.</para>
+        <para id="id5516382">Phân tích hồi qui tuyến tính là một mô hình dự báo thiết lập mối quan hệ giữa biến phụ thuộc với hai hay nhiều biến độc lập. Trong phần này, chúng ta chỉ xét đến một biến độc lập duy nhất. Nếu số liệu là một chuỗi theo thời gian thì biến độc lập là giai đoạn thời gian và biến phụ thuộc thông thường là doanh số bán ra hay bất kỳ chỉ tiêu nào khác mà ta muốn dự báo.</para>
+        <para id="id5516398">Mô hình này có công thức:Y = ax + b</para>
+        <para id="id5516408"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mi>n</m:mi><m:mrow><m:mo stretchy="false">∑</m:mo><m:mi>x</m:mi></m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">−</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mi>x</m:mi></m:mrow></m:mrow><m:mrow><m:mo stretchy="false">∑</m:mo><m:mi>y</m:mi></m:mrow></m:mrow><m:mrow><m:mi>n</m:mi><m:mrow><m:mrow><m:mo stretchy="false">∑</m:mo><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mo stretchy="false">∑</m:mo><m:mrow><m:mi>x</m:mi><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a= {  {n Sum {x} y -  Sum {x}  Sum {y} }  over  {n Sum {x rSup { size 8{2} } }  -  \(  Sum {x \)  rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mrow><m:mo stretchy="false">∑</m:mo><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∑</m:mo><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mi>x</m:mi></m:mrow></m:mrow><m:mrow><m:mo stretchy="false">∑</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xy</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow><m:mrow><m:mi>n</m:mi><m:mrow><m:mrow><m:mo stretchy="false">∑</m:mo><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mo stretchy="false">∑</m:mo><m:mrow><m:mi>x</m:mi><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b= {  { Sum {x rSup { size 8{2} } }  Sum {y}  -  Sum {x}  Sum { ital "xy"} }  over  {n Sum {x rSup { size 8{2} } }  -  \(  Sum {x \)  rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5516711">Trong đó : y - Biến phụ thuộc cần dự báo.</para>
+        <para id="id5516721"> x - Biến độc lập</para>
+        <para id="id5516734"> a - Độ dốc của đường xu hướng</para>
+        <para id="id5516747"> b - Tung độ gốc</para>
+        <para id="id5516761"> n - Số lượng quan sát</para>
+        <para id="id5516776">Trong trường hợp biến độc lập x được trình bày thông qua từng giai đoạn theo thời gian và chúng phải cách đều nhau ( như : 2002, 2003, 2004...) thì ta có thể điều chỉnh lại để sao cho x = 0 . Vì vậy việc tính toán sẽ trở nên đơn giản và dễ dàng hơn nhiều. </para>
+        <para id="id5516798"> Nếu có một số lẻ lượng mốc thời gian: chẳng hạn là 5, thì giá trị của x được ấn định như sau : -2, -1, 0, 1, 2 và như thế x = 0 , giá trị của x được sử dụng cho dự báo trong năm tới là +3.</para>
+        <para id="id5516827"> Nếu có một số chẳn lượng mốc thời gian: chẳng hạn là 6 thì giá trị của x được ấn định là : -5, -3, -1, 1, 3, 5. Như thế x = 0 và giá trị của x được dùng cho dự báo trong năm tới là +7.</para>
+        <para id="id5516851">Ví dụ 2-5: Một hãng sản xuất loại động cơ điện tử cho các van khởi động trong ngành công nghiệp, nhà máy hoạt động gần hết công suất suốt một năm nay. Ông J, người quản lý nhà máy nghĩ rằng sự tăng trưởng trong doanh số bán ra vẫn còn tiếp tục và ông ta muốn xây dựng một dự báo dài hạn để hoạch định nhu cầu về máy móc thiết bị trong 3 năm tới. Số lượng bán ra trong 10 năm qua được ghi lại như sau:</para>
+        <table id="id5516871" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Năm</entry>
+                <entry>Số lượng bán</entry>
+                <entry>Năm</entry>
+                <entry>Số lượng bán</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1.000</entry>
+                <entry>6</entry>
+                <entry>2.000</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>1.300</entry>
+                <entry>7</entry>
+                <entry>2.200</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>1.800</entry>
+                <entry>8</entry>
+                <entry>2.600</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>2.000</entry>
+                <entry>9</entry>
+                <entry>2.900</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>2.000</entry>
+                <entry>10</entry>
+                <entry>3.200</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5517148">Kết quả bài toán:</para>
+        <para id="id5517155"> Ta xây dựng bảng tính để thiết lập các giá trị:</para>
+        <table id="id5517167" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Năm</entry>
+                <entry>Lượng bán (y)</entry>
+                <entry>Th.gian (x)</entry>
+                <entry>x2</entry>
+                <entry>xy</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1.000</entry>
+                <entry>-9</entry>
+                <entry>81</entry>
+                <entry>-9.000</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>1.300</entry>
+                <entry>-7</entry>
+                <entry>49</entry>
+                <entry>-9.100</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>1.800</entry>
+                <entry>-5</entry>
+                <entry>25</entry>
+                <entry>-9.000</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>2.000</entry>
+                <entry>-3</entry>
+                <entry>9</entry>
+                <entry>-6.000</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>2.000</entry>
+                <entry>-1</entry>
+                <entry>1</entry>
+                <entry>-2.000</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>2.000</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>2.000</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>2.200</entry>
+                <entry>3</entry>
+                <entry>9</entry>
+                <entry>6.600</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>2.600</entry>
+                <entry>5</entry>
+                <entry>25</entry>
+                <entry>13.000</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>2.900</entry>
+                <entry>7</entry>
+                <entry>49</entry>
+                <entry>20.300</entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>3.200</entry>
+                <entry>9</entry>
+                <entry>81</entry>
+                <entry>28.800</entry>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry>21.000</entry>
+                <entry>0</entry>
+                <entry>330</entry>
+                <entry>35.600</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5517827">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>a</m:mi>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mi>n</m:mi>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">∑</m:mo>
+                                    <m:mrow>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>xy</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mrow>
+                                        <m:mo stretchy="false">∑</m:mo>
+                                        <m:mrow>
+                                          <m:mi>x</m:mi>
+                                          <m:mrow>
+                                            <m:mo stretchy="false">∑</m:mo>
+                                            <m:mi>y</m:mi>
+                                          </m:mrow>
+                                        </m:mrow>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>n</m:mi>
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">∑</m:mo>
+                                      <m:msup>
+                                        <m:mi>x</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mn>2</m:mn>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msup>
+                                    </m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mo stretchy="false">(</m:mo>
+                                  </m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">∑</m:mo>
+                                    <m:mrow>
+                                      <m:mi>x</m:mi>
+                                      <m:msup>
+                                        <m:mo stretchy="false">)</m:mo>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mn>2</m:mn>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msup>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mo stretchy="false">∑</m:mo>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>xy</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">∑</m:mo>
+                                <m:msup>
+                                  <m:mi>x</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>35</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>600</m:mtext>
+                            </m:mrow>
+                            <m:mtext>330</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>107</m:mtext>
+                      </m:mrow>
+                      <m:mi>,</m:mi>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{a= {  {n Sum { ital "xy" -  Sum {x Sum {y} } } }  over  {n Sum {x rSup { size 8{2} } }  -  \(  Sum {x \)  rSup { size 8{2} } } } } = {  { Sum { ital "xy"} }  over  { Sum {x rSup { size 8{2} } } } } = {  {"35" "." "600"}  over  {"330"} } ="107",8} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5518038">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>b</m:mi>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">∑</m:mo>
+                                    <m:msup>
+                                      <m:mi>x</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>2</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msup>
+                                  </m:mrow>
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">∑</m:mo>
+                                      <m:mi>y</m:mi>
+                                    </m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">∑</m:mo>
+                                      <m:mi>x</m:mi>
+                                    </m:mrow>
+                                  </m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">∑</m:mo>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>xy</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>n</m:mi>
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">∑</m:mo>
+                                      <m:msup>
+                                        <m:mi>x</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mn>2</m:mn>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msup>
+                                    </m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mo stretchy="false">(</m:mo>
+                                  </m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">∑</m:mo>
+                                    <m:mrow>
+                                      <m:mi>x</m:mi>
+                                      <m:msup>
+                                        <m:mo stretchy="false">)</m:mo>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mn>2</m:mn>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msup>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mo stretchy="false">∑</m:mo>
+                                <m:mi>y</m:mi>
+                              </m:mrow>
+                              <m:mi>n</m:mi>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>21</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>000</m:mtext>
+                            </m:mrow>
+                            <m:mtext>10</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>100</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{b= {  { Sum {x rSup { size 8{2} } }  Sum {y}  -  Sum {x}  Sum { ital "xy"} }  over  {n Sum {x rSup { size 8{2} } }  -  \(  Sum {x \)  rSup { size 8{2} } } } } = {  { Sum {y} }  over  {n} } = {  {"21" "." "000"}  over  {"10"} } =2 "." "100"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5518245"> Dùng phương trình hồi qui tuyến tính để dự báo hàng bán ra trong tương lai:</para>
+        <para id="id5518258">Y = ax + b = 107,8x + 2.100</para>
+        <para id="id5518266"> Để dự báo cho hàng bán ra trong 3 năm tới ta thay giá trị của x lần lượt là 11, 13, 15 vào phương trình.</para>
+        <para id="id5518281">Y11 = 107,8 . 11 + 2.100 = 3.285  3.290 đơn vị</para>
+        <para id="id5518299">Y12 = 107,8 . 13 + 2.100 = 3.501  3.500 đơn vị</para>
+        <para id="id5518316">Y13 = 107,8 . 15 + 2.100 = 3.717  3.720 đơn vị</para>
+        <para id="id5518334">Trường hợp biến độc lập không phải là biến thời gian, hồi qui tuyến tính là một nhóm các mô hình dự báo được gọi là mô hình nhân quả. Mô hình này đưa ra các dự báo sau khi thiết lập và đo lường các biến phụ thuộc với một hay nhiều biến độc lập.</para>
+        <para id="id5518350">Ví dụ 2-6: Ông B, nhà tổng quản lý của công ty kỹ nghệ chính xác nghĩ rằng các dịch vụ kỹ nghệ của công ty ông ta được cung ứng cho các công ty xây dựng thì có quan hệ trực tiếp đến số hợp đồng xây dựng trong vùng của ông ta. Ông B yêu cầu kỹ sư dưới quyền, tiến hành phân tích hồi qui tuyến tính dựa trên các số liệu quá khứ và vạch ra kế hoạch như sau :</para>
+        <para id="id5518375"> Xây dựng một phương trình hồi qui cho dự báo mức độ nhu cầu về dịch vụ của công ty ông.</para>
+        <para id="id5518389"> Sử dụng phương trình hồi qui để dự báo mức độ nhu cầu trong 4 quí tới. Ước lượng trị giá hợp đồng 4 quí tới là 260, 290, 300 và 270 (ĐVT:10 Triệu đồng).</para>
+        <para id="id5518406"> Xác định mức độ chặt chẽ, các mối liên hệ giữa nhu cầu và hợp đồng xây dựng được đưa ra.</para>
+        <para id="id5518420">Biết số liệu từng quí trong 2 năm qua cho trong bảng:(đơn vị: 10 Triệu đồng).</para>
+        <table id="id5518429" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Năm</entry>
+                <entry>Qúi</entry>
+                <entry>Nhu cầu của công ty</entry>
+                <entry>Trị giá hợp đồng thực hiện</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry>1</entry>
+                      <entry>8</entry>
+                      <entry>150</entry>
+                    </row>
+                    <row>
+                      <entry>2</entry>
+                      <entry>10</entry>
+                      <entry>170</entry>
+                    </row>
+                    <row>
+                      <entry>3</entry>
+                      <entry>15</entry>
+                      <entry>190</entry>
+                    </row>
+                    <row>
+                      <entry>4</entry>
+                      <entry>9</entry>
+                      <entry>170</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry>1</entry>
+                      <entry>12</entry>
+                      <entry>180</entry>
+                    </row>
+                    <row>
+                      <entry>2</entry>
+                      <entry>13</entry>
+                      <entry>190</entry>
+                    </row>
+                    <row>
+                      <entry>3</entry>
+                      <entry>12</entry>
+                      <entry>200</entry>
+                    </row>
+                    <row>
+                      <entry>4</entry>
+                      <entry>16</entry>
+                      <entry>220</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5518817">Kết quả bài toán:</para>
+        <para id="id5518823"> Xây dựng phương trình hồi qui.</para>
+        <para id="id5518834"> Ông A xây dựng bảng tính như sau:</para>
+        <table id="id5518852" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Thời gian</entry>
+                <entry>Nhu cầu (y)</entry>
+                <entry>Trị giá hợp đồng (x)</entry>
+                <entry>x2</entry>
+                <entry>xy</entry>
+                <entry>y2</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>8</entry>
+                <entry>150</entry>
+                <entry>22.500</entry>
+                <entry>1.200</entry>
+                <entry>64</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>10</entry>
+                <entry>170</entry>
+                <entry>28.900</entry>
+                <entry>1.700</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>15</entry>
+                <entry>190</entry>
+                <entry>36.100</entry>
+                <entry>2.850</entry>
+                <entry>225</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>9</entry>
+                <entry>170</entry>
+                <entry>28.900</entry>
+                <entry>1.530</entry>
+                <entry>81</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>12</entry>
+                <entry>180</entry>
+                <entry>32.400</entry>
+                <entry>2.160</entry>
+                <entry>144</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>13</entry>
+                <entry>190</entry>
+                <entry>36.100</entry>
+                <entry>2.470</entry>
+                <entry>169</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>12</entry>
+                <entry>200</entry>
+                <entry>40.000</entry>
+                <entry>2.400</entry>
+                <entry>144</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>16</entry>
+                <entry>220</entry>
+                <entry>48.400</entry>
+                <entry>3.520</entry>
+                <entry>256</entry>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry>95</entry>
+                <entry>1.470</entry>
+                <entry>273.300</entry>
+                <entry>17.830</entry>
+                <entry>1.183</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5519515"> Sử dụng công thức ta tính toán được hệ số a = 0,1173 ; b = -9,671 </para>
+        <para id="id5519530"> Phương trình hồi qui tìm được là:Y = 0,1173x - 9,671</para>
+        <para id="id5519544"> Dự báo nhu cầu cho 4 quí tới: Ông A dự báo nhu cầu của công ty bằng cách sử dụng phương trình trên cho 4 quí tới như sau:</para>
+        <para id="id5519559">Y1 = (0,1173 x 260) - 9,671 = 20,827;Y2 = (0,1173 x 290) - 9,671 = 24,346</para>
+        <para id="id5519578">Y3 = (0,1173 x 300 )- 9,671 = 25,519;Y4 = (0,1173 x 270) - 9,671 = 22,000</para>
+        <para id="id5519597">Dự báo tổng cộng cho năm tới là:</para>
+        <para id="id5519604">Y = Y1+ Y2 +Y3 +Y4 = 20,827+ 24,346+25,519+22,000= 92,7 930triệu đồng.</para>
+        <para id="id5519638"> Đánh giá mức độ chặt chẽ mối liên hệ của nhu cầu với số lượng hợp đồng xây dựng.</para>
+        <para id="id5519652">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>r</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>n</m:mi>
+                          <m:mrow>
+                            <m:mo stretchy="false">∑</m:mo>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>xy</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mrow>
+                                <m:mo stretchy="false">∑</m:mo>
+                                <m:mrow>
+                                  <m:mi>x</m:mi>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">∑</m:mo>
+                                    <m:mi>y</m:mi>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:msqrt>
+                          <m:mrow>
+                            <m:mo stretchy="false">[</m:mo>
+                            <m:mi>n</m:mi>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">∑</m:mo>
+                                <m:msup>
+                                  <m:mi>x</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                              </m:mrow>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mo stretchy="false">(</m:mo>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">∑</m:mo>
+                              <m:mrow>
+                                <m:mi>x</m:mi>
+                                <m:msup>
+                                  <m:mo stretchy="false">)</m:mo>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                                <m:mo stretchy="false">]</m:mo>
+                                <m:mo stretchy="false">[</m:mo>
+                                <m:mi>n</m:mi>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">∑</m:mo>
+                                    <m:msup>
+                                      <m:mi>y</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>2</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msup>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mo stretchy="false">(</m:mo>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mo stretchy="false">∑</m:mo>
+                                  <m:mrow>
+                                    <m:mi>y</m:mi>
+                                    <m:msup>
+                                      <m:mo stretchy="false">)</m:mo>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>2</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msup>
+                                  </m:mrow>
+                                </m:mrow>
+                                <m:mo stretchy="false">]</m:mo>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msqrt>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{r= {  {n Sum { ital "xy" -  Sum {x Sum {y} } } }  over  { sqrt { \[ n Sum {x rSup { size 8{2} } }  -  \(  Sum {x \)  rSup { size 8{2} }  \]  \[ n Sum {y rSup { size 8{2} } }  -  \(  Sum {y \)  rSup { size 8{2} } }  \] } } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5519870">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow/>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mn>8x</m:mn>
+                                <m:mtext>17</m:mtext>
+                                <m:mtext>.</m:mtext>
+                                <m:mrow>
+                                  <m:mtext>830</m:mtext>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>470</m:mtext>
+                                <m:mi>x</m:mi>
+                                <m:mtext>95</m:mtext>
+                              </m:mrow>
+                              <m:msqrt>
+                                <m:mrow>
+                                  <m:mo stretchy="false">(</m:mo>
+                                  <m:mn>8x</m:mn>
+                                  <m:mtext>273</m:mtext>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mtext>300</m:mtext>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:msup>
+                                      <m:mtext>1470</m:mtext>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>2</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msup>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">)</m:mo>
+                                  <m:mo stretchy="false">(</m:mo>
+                                  <m:mn>8x1</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mtext>183</m:mtext>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:msup>
+                                      <m:mtext>95</m:mtext>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>2</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msup>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                              </m:msqrt>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>990</m:mtext>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>345</m:mtext>
+                              <m:mi>,</m:mi>
+                              <m:mn>8</m:mn>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mn>0,</m:mn>
+                      </m:mrow>
+                      <m:mtext>894</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {}= {  {8x"17" "." "830" - 1 "." "470"x"95"}  over  { sqrt { \( 8x"273" "." "300" - "1470" rSup { size 8{2} }  \)  \( 8x1 "." "183" - "95" rSup { size 8{2} }  \) } } } = {  {2 "." "990"}  over  {3 "." "345",8} }  approx 0,"894"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5520062">r2 = 0,799;trong đó r là hệ số tương quan và r2 là hệ số xác định</para>
+        <para id="id5520085">Rõ ràng là số lượng hợp đồng xây dựng có ảnh hưởng khoảng 80% ( r2 = 0,799 ) của biến số được quan sát về nhu cầu hàng quí của công ty.</para>
+        <para id="id5520102">Hệ số tương quan r giải thích tầm quan trọng tương đối của mối quan hệ giữa y và x; dấu của r cho biết hướng của mối quan hệ và giá trị tuyệt đối của r chỉ cường độ của mối quan hệ, r có giá trị từ -1 +1. Dấu của r luôn luôn cùng với dấu của hệ số a. Nếu r âm chỉ ra rằng giá trị của y và x có khuynh hướng đi ngược chiều nhau, nếu r dương cho thấy giá trị của y và x đi cùng chiều nhau.</para>
+        <para id="id5520132">Dưới đây là vài giá trị của r:</para>
+        <para id="id5520143">r = -1. Quan hệ ngược chiều hoàn toàn, khi y tăng lên thì x giảm xuống và ngược lại.</para>
+        <para id="id5520152">r = +1. Quan hệ cùng chiều hoàn toàn, khi y tăng lên thì x cũng tăng và ngược lại.</para>
+        <para id="id5520161">r = 0. Không có mối quan hệ giữa x và y.</para>
+        <para id="id5520168"> Tính chất mùa vụ trong dự báo chuỗi thời gian.</para>
+        <para id="id5520186">Loại mùa vụ thông thường là sự lên xuống xảy ra trong vòng một năm và có xu hướng lặp lại hàng năm. Những vụ mùa này xảy ra có thể do điều kiện thời tiết, địa lý hoặc do tập quán của người tiêu dùng khác nhau...</para>
+        <para id="id5520201">Cách thức xây dựng dự báo với phân tích hồi qui tuyến tính khi vụ mùa hiện diện trong chuỗi số theo thời gian. Ta thực hiện các bước:</para>
+        <para id="id5520212"> Chọn lựa chuỗi số liệu quá khứ đại diện.</para>
+        <para id="id5520224"> Xây dựng chỉ số mùa vụ cho từng giai đoạn thời gian.</para>
+        <table id="id5520243" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>I</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>i</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:msub>
+                                  <m:mover accent="true">
+                                    <m:mi>y</m:mi>
+                                    <m:mo stretchy="false">ˉ</m:mo>
+                                  </m:mover>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mi>i</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:msub>
+                                  <m:mover accent="true">
+                                    <m:mi>y</m:mi>
+                                    <m:mo stretchy="false">ˉ</m:mo>
+                                  </m:mover>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>0</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{I rSub { size 8{i} } = {  { { bar  {y}} rSub { size 8{i} } }  over  { { bar  {y}} rSub { size 8{0} } } } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>Với 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>y</m:mi><m:mo stretchy="false">ˉ</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {y}} rSub { size 8{i} } } {}</m:annotation></m:semantics></m:math> - Số bình quân của các thời kỳ cùng tên 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>y</m:mi><m:mo stretchy="false">ˉ</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {y}} rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math>- Số bình quân chung của tất cả các thời kỳ trong dãy số. Ii - Chỉ số mùa vụ kỳ thứ i.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5520526"> Sử dụng các chỉ số mùa vụ để hóa giải tính chất mùa vụ của số liệu.</para>
+        <para id="id5520545"> Phân tích hồi qui tuyến tính dựa trên số liệu đã phi mùa vụ.</para>
+        <para id="id5520558"> Sử dụng phương trình hồi qui để dự báo cho tương lai.</para>
+        <para id="id5520570"> Sử dụng chỉ số mùa vụ để tái ứng dụng tính chất mùa vụ cho dự báo.</para>
+        <para id="id5520583">Ví dụ 2-7: Ông J nhà quản lý nhà máy động cơ đặc biệt đang cố gắng lập kế hoạch tiền mặt và nhu cầu nguyên vật liệu cho từng quí của năm tới. Số liệu về lượng hàng bán ra trong vòng 3 năm qua phản ánh khá tốt kiểu sản lượng mùa vụ và có thể giống như trong tương lai. Số liệu cụ thể như sau:</para>
+        <table id="id5520606" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Năm</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c4">Số lượng bán hàng quí (1.000 đơn vị)</entry>
+                    </row>
+                    <row>
+                      <entry>Q1­</entry>
+                      <entry>Q2</entry>
+                      <entry>Q3</entry>
+                      <entry>Q4</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>520</entry>
+                <entry>730</entry>
+                <entry>820</entry>
+                <entry>530</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>590</entry>
+                <entry>810</entry>
+                <entry>900</entry>
+                <entry>600</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>650</entry>
+                <entry>900</entry>
+                <entry>1.000</entry>
+                <entry>650</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5520892">Kết quả bài toán:</para>
+        <para id="id5520898"> Đầu tiên ta tính toán các chỉ số mùa vụ.</para>
+        <table id="id5520910" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Năm</entry>
+                <entry>Quí 1</entry>
+                <entry>Quí 2</entry>
+                <entry>Quí 3</entry>
+                <entry>Quí 4</entry>
+                <entry>Cả năm</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>520</entry>
+                <entry>730</entry>
+                <entry>820</entry>
+                <entry>530</entry>
+                <entry>2.600</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>590</entry>
+                <entry>810</entry>
+                <entry>900</entry>
+                <entry>600</entry>
+                <entry>2.900</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>650</entry>
+                <entry>900</entry>
+                <entry>1.000</entry>
+                <entry>650</entry>
+                <entry>3.200</entry>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry>1.760</entry>
+                <entry>2.440</entry>
+                <entry>2.720</entry>
+                <entry>1.780</entry>
+                <entry>8.700</entry>
+              </row>
+              <row>
+                <entry>Trung bình quí</entry>
+                <entry>586,67</entry>
+                <entry>813,33</entry>
+                <entry>906,67</entry>
+                <entry>593,33</entry>
+                <entry>725</entry>
+              </row>
+              <row>
+                <entry>Chỉ số mùa vụ</entry>
+                <entry>0,809</entry>
+                <entry>1,122</entry>
+                <entry>1,251</entry>
+                <entry>0,818</entry>
+                <entry>-</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5521375"> Kế tiếp,hóa giải tính chất mùa vụ của số liệu bằng cách chia giá trị của từng quí cho chỉ số mùa vụ tương ứng. Chẳng hạn : 520/0,809 = 642,8 ; 730/1,122 = 605,6 ... </para>
+        <para id="id5521392">Ta được bảng số liệu như sau:</para>
+        <table id="id5521398" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Năm</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c4">Số liệu hàng quí đã phi mùa vụ.</entry>
+                    </row>
+                    <row>
+                      <entry>Quí 1</entry>
+                      <entry>Quí 2</entry>
+                      <entry>Quí 3</entry>
+                      <entry>Quí 4</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>642,8</entry>
+                <entry>650,6</entry>
+                <entry>655,5</entry>
+                <entry>647,9</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>729,2</entry>
+                <entry>721,9</entry>
+                <entry>719,4</entry>
+                <entry>733,5</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>803,5</entry>
+                <entry>802,1</entry>
+                <entry>799,4</entry>
+                <entry>794,6</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5521675"> Chúng ta phân tích hồi qui trên cơ sở số liệu phi mùa vụ (12 quí) và xác định phương trình hồi qui.</para>
+        <table id="id5521689" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Qúi</entry>
+                <entry>x</entry>
+                <entry>y</entry>
+                <entry>x2</entry>
+                <entry>xy</entry>
+              </row>
+              <row>
+                <entry>Q11</entry>
+                <entry>1</entry>
+                <entry>642,8</entry>
+                <entry>1</entry>
+                <entry>642,8</entry>
+              </row>
+              <row>
+                <entry>Q12</entry>
+                <entry>2</entry>
+                <entry>650,6</entry>
+                <entry>4</entry>
+                <entry>1.301,2</entry>
+              </row>
+              <row>
+                <entry>Q13</entry>
+                <entry>3</entry>
+                <entry>655,5</entry>
+                <entry>9</entry>
+                <entry>1.966,5</entry>
+              </row>
+              <row>
+                <entry>Q14</entry>
+                <entry>4</entry>
+                <entry>647,9</entry>
+                <entry>16</entry>
+                <entry>2.591,6</entry>
+              </row>
+              <row>
+                <entry>Q21</entry>
+                <entry>5</entry>
+                <entry>729,3</entry>
+                <entry>25</entry>
+                <entry>3.646,5</entry>
+              </row>
+              <row>
+                <entry>Q22</entry>
+                <entry>6</entry>
+                <entry>721,9</entry>
+                <entry>36</entry>
+                <entry>4.331,4</entry>
+              </row>
+              <row>
+                <entry>Q23</entry>
+                <entry>7</entry>
+                <entry>719,4</entry>
+                <entry>49</entry>
+                <entry>5.035,8</entry>
+              </row>
+              <row>
+                <entry>Q24</entry>
+                <entry>8</entry>
+                <entry>733,5</entry>
+                <entry>64</entry>
+                <entry>5.868,0</entry>
+              </row>
+              <row>
+                <entry>Q31</entry>
+                <entry>9</entry>
+                <entry>803,5</entry>
+                <entry>81</entry>
+                <entry>7.231,5</entry>
+              </row>
+              <row>
+                <entry>Q32</entry>
+                <entry>10</entry>
+                <entry>802,1</entry>
+                <entry>100</entry>
+                <entry>8.021,0</entry>
+              </row>
+              <row>
+                <entry>Q33</entry>
+                <entry>11</entry>
+                <entry>799,4</entry>
+                <entry>121</entry>
+                <entry>8.793,4</entry>
+              </row>
+              <row>
+                <entry>Q34</entry>
+                <entry>12</entry>
+                <entry>794,6</entry>
+                <entry>144</entry>
+                <entry>8.535,2</entry>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry>78</entry>
+                <entry>8.700,5</entry>
+                <entry>650</entry>
+                <entry>58.964,9</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5522504">Xác định được hệ số a = 16,865 và b = 615,421 .</para>
+        <para id="id5522518">Phương trình có dạng:Y = 16,865x + 615,421</para>
+        <para id="id5522527"> Bây giờ chúng ta thay thế giá trị của x cho 4 quí tới bằng 13, 14, 15, 16 vào phương trình. Đây là dự báo phi mùa vụ trong 4 quí tới.</para>
+        <para id="id5522543">Y41 = (16,865 x 13) + 615,421 = 834,666</para>
+        <para id="id5522554">Y42 = (16,865 x 14) + 615,421 = 851,531</para>
+        <para id="id5522565">Y43 = (16,865 x 15) + 615,421 = 868,396</para>
+        <para id="id5522577">Y44 = (16,865 x 16) + 615,421 = 885,261</para>
+        <para id="id5522588"> Tiếp theo, ta sử dụng chỉ số mùa vụ để mùa vụ hóa các số liệu.</para>
+        <table id="id5522601" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Quí</entry>
+                <entry>Chỉ sốmùa vụ (I)</entry>
+                <entry>Dự báo phimùa vụ (Yi)</entry>
+                <entry>Dự báo mùavụ hóa (Ymv)</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>0,809</entry>
+                <entry>834,666</entry>
+                <entry>675</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>1,122</entry>
+                <entry>851,531</entry>
+                <entry>955</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>1,251</entry>
+                <entry>868,396</entry>
+                <entry>1.086</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>0,818</entry>
+                <entry>885,261</entry>
+                <entry>724</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id-757603048025">
+      <title>GIÁM SÁT VÀ kiỂm soát DỰ BÁO:</title>
+      <para id="id5522871"> Việc lựa chọn phương pháp thích hợp có thể chịu ảnh hưởng của từng nhân tố sản xuất đến dự báo. Nhân công, tiền mặt, dự trữ và lịch vận hành máy mang tính chất ngắn hạn và có thể dự báo theo phương pháp bình quân di động hay điều hòa mũ. Các nhân tố sản xuất dài hạn như là năng lực sản xuất của nhà máy, nhu cầu về vốn có thể được tiến hành dự báo bằng phương pháp khác thích hợp cho dự báo dài hạn.</para>
+      <para id="id5522898"> Các nhà quản lý được khuyên nên sử dụng nhiều phương pháp dự báo khác nhau cho nhiều loại sản phẩm khác nhau. Những nhân tố như là sản phẩm có khối lượng lớn hay chi phí cao, hay sản phẩm là hàng hóa được chế biến, hay là dịch vụ , hay là sản phẩm đang ở trong vòng đời của nó, hay là không có ảnh hưởng đến việc lựa chọn phương pháp dự báo.</para>
+      <para id="id5522918"> Tuy nhiên, trong thực tế, nhiều lúc dự báo không mang lại hiệu quả mong muốn vì những lý do sau:</para>
+      <para id="id5522932"> Không có sự tham gia của nhiều người vào dự báo. Những cố gắng cá nhân là quan trọng, nhưng cần sự kết hợp của nhiều người để nắm các thông tin khác có liên quan. </para>
+      <para id="id5522952"> Thất bại do không nhận thức được rằng dự báo là một phần rất quan trọng trong việc hoạch định kinh doanh.</para>
+      <para id="id5522969"> Thất bại do nhận thức rằng dự báo luôn là sai. Ước lượng cho nhu cầu tương lai thì được xem là có sai lầm và số sai lầm và mức độ sai lầm phụ thuộc vào loại dự báo , thường lớn đối với loại dự báo dài hạn hay thời hạn cực ngắn.</para>
+      <para id="id5522990"> Thất bại do nhận thức rằng dự báo luôn đúng. Các tổ chức có thể dự báo nhu cầu về nguyên vật liệu thô sẽ được dùng để sản xuất - sản phẩm cuối cùng. Nhu cầu này không thể dự báo đúng, bởi vì nó được tính toán ra từ sản phẩm hoàn chỉnh . Dự báo qua nhiều sự việc có thể dẫn đến việc quá tải cho hệ thống dự báo và làm cho nó trở nên tốn kém tiền bạc và thời gian.</para>
+      <para id="id5523010"> Thất bại trong việc sử dụng phương pháp dự báo không thích hợp.</para>
+      <para id="id5523022"> Thất bại trong việc theo dõi kết quả của các mô hình dự báo để có thể điều chỉnh tính chính xác của dự báo.</para>
+      <para id="id5523037"> Làm thế nào để theo dõi và quản lý mô hình dự báo.</para>
+      <para id="id5523050">Để theo dõi và quản lý là ấn định giới hạn trên và giới hạn dưới, cho phép kết quả của dự báo có thể sai lệch trước khi thay đổi các thông số của mô hình dự báo. Người ta gọi nó là dấu hiệu quản lý hay là tín hiệu theo dõi.</para>
+      <para id="id5523064">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>Dáúu</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow>
+                      <m:mtext> hiãûu quaín lyï </m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mtext>Täøng âaûi säú cuía n giai âoaûn</m:mtext>
+                        <m:mtext>Âäü lãûch tuyãût âäúi bçnh quán cuía n giai âoaûn</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ ital "Dáúu"" hiãûu quaín lyï "= {  {"Täøng âaûi säú cuía n giai âoaûn"}  over  {"Âäü lãûch tuyãût âäúi bçnh quán cuía n giai âoaûn"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5523136">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>Dáúu hiãûu quaín lyï </m:mtext>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:mfenced open="" close="">
+                          <m:mtext>Nhu cáöu thæûc tãú - Nhu cáöu dæû baïo</m:mtext>
+                        </m:mfenced>
+                      </m:mrow>
+                      <m:mtext>MAD</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"Dáúu hiãûu quaín lyï "= {  { Sum cSub { size 8{i=1} }  cSup { size 8{n} }  { left ("Nhu cáöu thæûc tãú - Nhu cáöu dæû baïo" right )} }  over  {"MAD"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5523236">Dấu hiệu quản lý đo lường sai số dự báo tích lũy qua n giai đoạn theo MAD.</para>
+      <para id="id5523248">Ví dụ: Nếu tổng sai số của 12 giai đoạn là dương 1.000 đơn vị và MAD cũng trong 12 giai đoạn là 250 đơn vị thì dấu hiệu quản lý sẽ là +4. Con số này chỉ rõ rằng số liệu thực tế lớn hơn dự báo con số tổng cộng là 4 lần MAD qua 12 giai đoạn như thế là cao. Ngược lại, nếu dấu hiệu quản lý là -4 thì số liệu thực tế nhỏ hơn dự báo là -4 làn MAD qua 12 giai đoạn là quá thấp. Nếu dấu hiệu quản lý tiến gần đến không , điều này cho thấy số liệu thực tế nằm trên và dưới dự báo là như nhau, mô hình đó cho ta kết quả tốt.</para>
+      <figure id="id5523285">
+        <media id="id4892944" alt=""><image src="../../media/graphics1-1637.png" mime-type="image/png" height="257" width="493"/></media>
+      </figure>
+      <para id="id5523308">Giá trị của dấu hiệu dự báo là chỗ nó có thể được sử dụng để đưa ra các giá trị mới cho thông số của các mô hình, như thế mới có thể chỉnh lý kết quả của mô hình.</para>
+      <para id="id5523325">Nếu sự giới hạn cho dấu hiệu quản lý được ấn định quá thấp thì các thông số của mô hình dự báo cần được sửa đổi thường xuyên. Nhưng nếu giới hạn cho dấu hiệu quản lý được ấn định quá cao thì các thông số của mô hình dự báo sẽ ít thay đổi và như thế sẽ xảy ra dự báo không chính xác.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,865 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tóm lược công thức và bài tập cuối chương</title>
+  <metadata>
+  <md:content-id>m30054</md:content-id><md:title>Tóm lược công thức và bài tập cuối chương</md:title>
+  <md:abstract/>
+  <md:uuid>d11e7fbb-2a07-4097-99c7-21582b085782</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-148648671482">
+      <title>CÂU HỎI ÔN TẬP</title>
+      <para id="id20816640">1. Hãy cho biết mục đích của việc xác định địa điểm nhà máy sản xuất, kinh doanh.</para>
+      <para id="id20816648">2. Hãy nêu quy trình tổ chức xác định địa điểm nhà máy.</para>
+      <para id="id20816655">3. Hãy nêu các nhân tố ảnh hưởng đến việc chọn vùng và địa điểm cụ thể của nhà máy.</para>
+      <para id="id20816663">4. Cho biết các phương pháp xác định địa điểm nhà máy.</para>
+    </section>
+    <section id="id-043402772145">
+      <title>CÔNG THỨC ÁP DỤNG.</title>
+      <para id="id20816679"> Phương pháp xác định toạ độ trung tâm</para>
+      <para id="id20816691">Công thức tính toán như sau:</para>
+      <para id="id20816698">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>X</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mi>t</m:mi>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msub>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>X</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>Q</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{X rSub { size 8{t} } = {  { Sum cSub { size 8{i=1} }  cSup { size 8{n} }  {X rSub { size 8{i} } Q rSub { size 8{i} } } }  over  { Sum cSub { size 8{i=1} }  cSup { size 8{n} }  {Q rSub { size 8{i} } } } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>Y</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mi>t</m:mi>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msub>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>Y</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>Q</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{Y rSub { size 8{t} } = {  { Sum cSub { size 8{i=1} }  cSup { size 8{n} }  {Y rSub { size 8{i} } Q rSub { size 8{i} } } }  over  { Sum cSub { size 8{i=1} }  cSup { size 8{n} }  {Q rSub { size 8{i} } } } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id21499254">Trong đó:Xt − là hoành độ x của điểm trung tâm</para>
+      <para id="id21499273">Yt − là trung độ y của điểm trung tâm</para>
+      <para id="id21499298">Xi − là hoành độ x của địa điểm i</para>
+      <para id="id21499317">Yi − là tung độ y của địa điểm i</para>
+      <para id="id21499337">Qi − Khối lượng hàng hoá cần vận chuyển từ điểm tung tâm tới điểm i</para>
+      <para id="id21499358"> Xác định địa điểm bằng phương pháp bài toán vận tải.</para>
+      <para id="id21499371">Mô hình tổng quát của bài toán vận tải.</para>
+      <para id="id21499378">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>Z</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>m</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:mrow>
+                          <m:munderover>
+                            <m:mo stretchy="false">∑</m:mo>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mi>j</m:mi>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>n</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:munderover>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>c</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>ij</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msub>
+                              <m:mi>x</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>ij</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mo stretchy="false">→</m:mo>
+                    <m:mtext>min</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{Z= Sum cSub { size 8{i=1} }  cSup { size 8{m} }  { Sum cSub { size 8{j=1} }  cSup { size 8{n} }  {c rSub { size 8{ ital "ij"} } x rSub { size 8{ ital "ij"} } } }  rightarrow "min"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id20720816">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:munderover>
+                                  <m:mo stretchy="false">∑</m:mo>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mrow>
+                                        <m:mi>j</m:mi>
+                                        <m:mo stretchy="false">=</m:mo>
+                                        <m:mn>1</m:mn>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mi>n</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:munderover>
+                                <m:msub>
+                                  <m:mi>x</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>ij</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                              <m:mo stretchy="false">≤</m:mo>
+                              <m:msub>
+                                <m:mi>a</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>i</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mtext>       i</m:mtext>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mn>1,2,</m:mn>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mi>m</m:mi>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>m</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>x</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>ij</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">≥</m:mo>
+                          <m:msub>
+                            <m:mi>b</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>j</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>       j</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>1,2,</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>,n</m:mtext>
+                      <m:mrow/>
+                    </m:mrow>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ Sum cSub { size 8{j=1} }  cSup { size 8{n} }  {x rSub { size 8{ ital "ij"} } }  &lt;= a rSub { size 8{i} } "       i"=1,2, "."  "."  "." ,m}  {} # 
+ Sum cSub { size 8{i=1} }  cSup { size 8{m} }  {x rSub { size 8{ ital "ij"} }  &gt;= b rSub { size 8{j} } } "       j"="1,2," "."  "."  "." ",n" {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id21482773">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>x</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>ij</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">≥</m:mo>
+                      <m:mn>0</m:mn>
+                    </m:mrow>
+                    <m:mtext/>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>1,2,</m:mtext>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mtext>,m  ;  j</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>1,2,</m:mtext>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>,n</m:mtext>
+                    <m:mo stretchy="false">)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{x rSub { size 8{ ital "ij"} }  &gt;= 0"    " \( i="1,2," "."  "."  "." ",m  ;  j"="1,2," "."  "."  "." ",n" \) } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+    </section>
+    <section id="id-429004997722">
+      <title>BÀI TẬP.</title>
+      <para id="id21470424">Bài 1: Công ty X hiện có 2 cơ sở sản xuất đặt tại địa điểm A và B. Sản phẩm của 2 cơ sở sản xuất chủ yếu cung cấp cho 3 địa điểm là I, II, III. Do nhu cầu thị trường ngày càng gia tăng, nên công ty quyết định sẽ xây dựng thêm một cơ sở sản xuất nữa tại địa điểm C hoặc D. Biết chi phí sản xuất, chi phí vận chuyển từ cơ sở sản xuất đến từng nơi tiêu thụ như sau:</para>
+      <table id="id21470445" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">Cơ sở sản xuất</entry>
+              <entry>CPSX Trđ/Tấn</entry>
+              <entrytbl namest="c4" nameend="c6" cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c3">CPVC (Trđ/Tấn)</entry>
+                  </row>
+                  <row>
+                    <entry>I</entry>
+                    <entry>II</entry>
+                    <entry>III</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>Sản lượng(Tấn/ngày)</entry>
+            </row>
+            <row>
+              <entry>Hiện có</entry>
+              <entrytbl namest="c2" nameend="c7" cols="6">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <tbody>
+                  <row>
+                    <entry>A</entry>
+                    <entry>8,2</entry>
+                    <entry>0,8</entry>
+                    <entry>0,6</entry>
+                    <entry>0,9</entry>
+                    <entry>18</entry>
+                  </row>
+                  <row>
+                    <entry>B</entry>
+                    <entry>7,3</entry>
+                    <entry>1,0</entry>
+                    <entry>1,1</entry>
+                    <entry>1,4</entry>
+                    <entry>26</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Dự kiến</entry>
+              <entrytbl namest="c2" nameend="c7" cols="6">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <tbody>
+                  <row>
+                    <entry>C</entry>
+                    <entry>7,4</entry>
+                    <entry>0,9</entry>
+                    <entry>1,1</entry>
+                    <entry>1,2</entry>
+                    <entry>10</entry>
+                  </row>
+                  <row>
+                    <entry>D</entry>
+                    <entry>7,0</entry>
+                    <entry>1,3</entry>
+                    <entry>1,2</entry>
+                    <entry>1,0</entry>
+                    <entry>10</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c3">Nhu cầu (Tấn/ngày)</entry>
+              <entry>12</entry>
+              <entry>14</entry>
+              <entry>28</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21497704">Hãy cho biết địa điểm C hay D được chọn để xây dựng cơ sở mới?</para>
+      <section id="id-804206561664">
+        <title>Lời giải</title>
+        <para id="id21497720"> Đầu tiên, giả sử rằng nhà máy xây dựng tại điểm C sẽ được kết hợp với 2 nhà máy hiện có là A và B. Ta thiết lập được mô hình bài toán qui hoạch tuyến tính có dạng như sau.</para>
+        <para id="id21497738">Gọi xj (j=1,2,...,9) lần lượt là số lượng sản phẩm của từng nhà máy sản xuất được vận chuyển đến từng nơi tiêu thụ.</para>
+        <para id="id21497748">ĐK1: Z = 9x1 + 8,8x2 + 9,1x3 + 8,3x4 +8,4x5 + 8,7x6 + 9,3x7 + 8,5x8 + 8,6x9  min</para>
+        <table id="id21497809" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>ĐK2:</entry>
+                <entry>x1</entry>
+                <entry>+</entry>
+                <entry>x2</entry>
+                <entry>+</entry>
+                <entry>x3</entry>
+                <entry></entry>
+                <entry>18</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>x4</entry>
+                <entry>+</entry>
+                <entry>x5</entry>
+                <entry>+</entry>
+                <entry>x6</entry>
+                <entry></entry>
+                <entry>26</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>x7</entry>
+                <entry>+</entry>
+                <entry>x8</entry>
+                <entry>+</entry>
+                <entry>x9</entry>
+                <entry></entry>
+                <entry>10</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>x1</entry>
+                <entry>+</entry>
+                <entry>x4</entry>
+                <entry>+</entry>
+                <entry>x7</entry>
+                <entry></entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>x2</entry>
+                <entry>+</entry>
+                <entry>x5</entry>
+                <entry>+</entry>
+                <entry>x8</entry>
+                <entry></entry>
+                <entry>14</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>x3</entry>
+                <entry>+</entry>
+                <entry>x6</entry>
+                <entry>+</entry>
+                <entry>x9</entry>
+                <entry></entry>
+                <entry>28</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21121322">ĐK3: xj  0 (j=1,2,...,9)</para>
+        <para id="id21121342"> Giải bài toán bằng phương pháp bài toán vận tải ta có kết quả như sau.</para>
+        <para id="id21121361">x1 = x5 = x6 = x7 = 0 ;x2 = 14 ;x3 = 4 ;x4= 12 ;x8 = 14 ;x9 = 10 </para>
+        <para id="id21121428">và Z = 467 triệu đồng.</para>
+        <para id="id21121436"> Tương tự như vậy, ta giả sử nhà máy được xây dựng tại điểm D, kết hợp với 2 nhà máy hiện có, sau đó giải tìm được kết quả như sau.</para>
+        <para id="id21121452">x1 = x5 = x6 = x7 = 0 ;x2 = 14 ;x3 = 4 ;x4= 12 ;x8 = 14 ;x9 = 10 </para>
+        <para id="id21459905">và Z = 461 triệu đồng.</para>
+        <para id="id21459913">Kết luận: ta sẽ chọn địa điểm D để xây dựng thêm nhà máy mới, vì chi phí sản xuất vận chuyển khối lượng hàng hóa từ các nhà máy đến nơi tiêu thụ là thấp nhất.</para>
+        <para id="id21459926">Bài 2: Công ty dự định xây dựng thêm một nhà kho để tăng cường khả năng phân phối. Công ty hiện thời đang có 3 nhà kho (A,B,C). Có 2 địa điểm đang được xem xét cho các nhà kho mới là D và E. Chi phí vận chuyển trên đơn vị sản phẩm từ nhà máy chế tạo đến từng nhà kho, nhu cầu hàng năm của nhà kho, năng lực sản xuất hàng năm được cho như bảng số liệu:</para>
+        <table id="id21459946" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Địa điểmNhà máy</entry>
+                <entrytbl namest="c2" nameend="c6" cols="5">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c5">CP VC đến nhà kho (1.000đồng/sản phẩm/km)</entry>
+                    </row>
+                    <row>
+                      <entry>A</entry>
+                      <entry>B</entry>
+                      <entry>C</entry>
+                      <entry>D</entry>
+                      <entry>E</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>Năng lực hàng năm</entry>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry>3,00</entry>
+                <entry>3,50</entry>
+                <entry>2,00</entry>
+                <entry>4,00</entry>
+                <entry>3,15</entry>
+                <entry>50.000</entry>
+              </row>
+              <row>
+                <entry>Y</entry>
+                <entry>1,50</entry>
+                <entry>1,75</entry>
+                <entry>3,25</entry>
+                <entry>2,75</entry>
+                <entry>2,50</entry>
+                <entry>50.000</entry>
+              </row>
+              <row>
+                <entry>NC năm</entry>
+                <entry>25.000</entry>
+                <entry>25.000</entry>
+                <entry>25.000</entry>
+                <entry>25.000</entry>
+                <entry>25.000</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21468212">Nếu như công ty chỉ chọn một địa điểm nữa và muốn cực tiểu hóa chi phí vận chuyển hàng từ 2 nhà máy đến 4 nhà kho.</para>
+        <para id="id21468223">a. Xây dựng mô hình toán học để đánh giá hiệu quả của từng vị trí.</para>
+        <para id="id21468231">b. Chi phí vận chuyển sản phẩm là bao nhiêu nếu chọn D, chọn E ?</para>
+        <para id="id21468240">c. Có bao nhiêu đơn vị sản phẩm sẽ được chuyển từ từng nhà máy đến các nhà kho?</para>
+        <para id="id21468249">Bài 3: Công ty M đang cố gắng quyết định lựa chọn giữa 2 vị trí C và D cho nhà máy mới của công ty. Hiện tại có 2 nhà máy A và B, công ty muốn chọn một địa điểm mới để xây dựng nhà máy nhằm cực tiểu hóa khoảng cách đi lại từ 4 trung tâm dân cư 1, 2, 3, 4 đến 3 địa điểm nhà máy. Năng lực sản xuất của từng nhà máy, số dân cư tối thiểu mong muốn có nhu cầu về sản phẩm trong từng trung tâm dân cư/năm, và khoảng cách từ trung tâm dân cư đến từng nhà máy (Km) cho như sau:</para>
+        <table id="id21468279" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Trung tâmdân cư</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c4">Khoảng cách từ trung tâm dân cư đến nhà máy sản xuất</entry>
+                    </row>
+                    <row>
+                      <entry>A</entry>
+                      <entry>B</entry>
+                      <entry>C</entry>
+                      <entry>D</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>Nhu cầusản phẩm của dân cư</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1,0</entry>
+                <entry>1,0</entry>
+                <entry>2,0</entry>
+                <entry>2,0</entry>
+                <entry>10.000</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>1,0</entry>
+                <entry>1,5</entry>
+                <entry>2,5</entry>
+                <entry>2,5</entry>
+                <entry>20.000</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>1,0</entry>
+                <entry>1,0</entry>
+                <entry>1,0</entry>
+                <entry>0,5</entry>
+                <entry>20.000</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>3,0</entry>
+                <entry>2,5</entry>
+                <entry>2,0</entry>
+                <entry>2,0</entry>
+                <entry>10.000</entry>
+              </row>
+              <row>
+                <entry>Năng lực củanhà máy</entry>
+                <entry>20.000</entry>
+                <entry>20.000</entry>
+                <entry>20.000</entry>
+                <entry>20.000</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20890666">a. Xây dựng hàm mục tiêu và các ràng buộc của bài toán.</para>
+        <para id="id20890674">b. Có bao nhiêu sản phẩm của từng nhà máy được tiêu thụ ở từng trung tâm dân cư?</para>
+        <para id="id20890683">Bài 4: Nhà máy bia X có kho phân phối đặt ở các toạ độ (54;40) kho này cung cấp hàng hoá cho 6 đại lý, toạ độ các đại lý và lượng hàng hoá vận chuyển cho như sau.</para>
+        <table id="id20890700" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Các đại lý</entry>
+                <entry>Toạ độ (x;y)</entry>
+                <entry>Lượng vận chuyển/tháng</entry>
+              </row>
+              <row>
+                <entry>Đại lý 1</entry>
+                <entry>(58;54)</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>Đại lý 2</entry>
+                <entry>(60;40)</entry>
+                <entry>400</entry>
+              </row>
+              <row>
+                <entry>Đại lý 3</entry>
+                <entry>(22;76)</entry>
+                <entry>200</entry>
+              </row>
+              <row>
+                <entry>Đại lý 4</entry>
+                <entry>(69;52)</entry>
+                <entry>300</entry>
+              </row>
+              <row>
+                <entry>Đại lý 5</entry>
+                <entry>(39;14)</entry>
+                <entry>300</entry>
+              </row>
+              <row>
+                <entry>Đại lý 6</entry>
+                <entry>(84;14)</entry>
+                <entry>100</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20890951">Nhà máy muốn thẩm tra lại xem vị trí của kho này có còn phù hợp với hiện nay hay nữa không?</para>
+      </section>
+    </section>
+  </content>
+</document>

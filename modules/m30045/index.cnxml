@@ -1,0 +1,3058 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tóm lược công thức và bài tập cuối chương</title>
+  <metadata>
+  <md:content-id>m30045</md:content-id><md:title>Tóm lược công thức và bài tập cuối chương</md:title>
+  <md:abstract/>
+  <md:uuid>8f52a262-0b23-4778-8aa9-bf28ac540f69</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-50892041527">
+      <title>CÂU HỎI ÔN TẬP.</title>
+      <list id="id22380109" list-type="enumerated">
+        <item>Mục tiêu của hoạch định tổng hợp là gì?</item>
+        <item>Các đơn vị sản xuất có nhất thiết phải hoạch tổng hợp trong một khoảng thời gian giống nhau hay không?</item>
+        <item>Hãy nêu ưu điểm, nhược điểm của các kế hoạch đơn thuần?</item>
+        <item>Để hoạch định sản xuất tổng hợp thì cần nắm những thông tin quan trọng gì?</item>
+        <item>Hãy cho biết lý do tại sao chúng ta phải xây dựng lịch trình sản xuất chính?</item>
+      </list>
+    </section>
+    <section id="id-559322730485">
+      <title>CÔNG THỨC ÁP DỤNG.</title>
+      <para id="id21863607"> Các bước hoạch định tổng hợp.</para>
+      <para id="id22518502">- Dự báo doanh số bán cho từng sản phẩm với số lượng bán trong từng thời kỳ.</para>
+      <para id="id21865018">- Tập hợp tất cả dự báo sản phẩm riêng lẻ thành nhu cầu tổng hợp.</para>
+      <para id="id21075926">- Biến đổi nhu cầu tổng hợp của từng thời kỳ thành lao động, vật liệu, máy móc và các tiện ích khác của năng lực sản xuất.</para>
+      <para id="id21059757">- Xây dựng sơ đồ nguồn lực chọn lựa việc cung cấp năng lực sản xuất cần thiết để hỗ trợ cho nhu cầu tổng hợp tăng dần.</para>
+      <para id="id22383258">- Lựa chọn một kế hoạch về năng lực sản xuất trong số những giải pháp đề ra phù hợp với nhu cầu tổng hợp và mục tiêu của đơn vị.</para>
+      <para id="id21875347"> Một số kế hoạch đơn thuần.</para>
+      <para id="id21591787"> Kế hoạch tổng hợp thích ứng với nhu cầu.</para>
+      <para id="id21928081"> Kế hoạch ổn định mức năng lực sản xuất.</para>
+      <para id="id20990425"> Kế hoạch điều chỉnh bằng mức tồn kho.</para>
+      <para id="id22164084"> Kế hoạch điều chỉnh bằng phân phối đơn hàng còn lại.</para>
+      <para id="id22139959"> Kế hoạch điều chỉnh giờ làm thêm hay hợp đồng phụ.</para>
+      <para id="id21939336"> Dùng mô hình toán học cho hoạch định tổng hợp.</para>
+      <para id="id21841496">Chúng ta có thể kết hợp nhiều kế hoạch đơn thuần ở trên để có một kế hoạch tổng hợp cho phù hợp với điều kiện và mục tiêu của đơn vị.</para>
+      <para id="id22477763"> Mục tiêu của lịch trình sản xuất chính.</para>
+      <para id="id22230562">- Lập lịch trình các thành phần phải hoàn tất một cách nhanh chóng khi đã ký kết hợp đồng với khách hàng.</para>
+      <para id="id21004979">- Điều chỉnh lịch trình tránh quá tải hay dưới tải để sử dụng những phương tiện sản xuất một cách hữu hiệu nhất.</para>
+    </section>
+    <section id="id-912715482964">
+      <title>BÀI TẬP CÓ LỜI GIẢI. </title>
+      <para id="id22431747">Bài 1: Một xí nghiệp sản xuất 2 loại sản phẩm X, Y bán trên thị trường, để thuận lợi cho việc tổ chức sản xuất của xí nghiệp trong 6 tháng đầu năm, ông giám đốc xí nghiệp quyết định nghiên cứu thị trường và xác định được khả năng tiêu thụ 2 loại sản phẩm này như sau: (ĐVT: sản phẩm)</para>
+      <table id="id21868567" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Sản phẩm</entry>
+              <entry>Tháng 1</entry>
+              <entry>Tháng 2</entry>
+              <entry>Tháng 3</entry>
+              <entry>Tháng 4</entry>
+              <entry>Tháng 5</entry>
+              <entry>Tháng 6</entry>
+            </row>
+            <row>
+              <entry>XY</entry>
+              <entry>5.5003.600</entry>
+              <entry>5.1003.800</entry>
+              <entry>4.8003.000</entry>
+              <entry>4.8002.800</entry>
+              <entry>5.0003.100</entry>
+              <entry>5.0003.500</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22477877">Qua tính toán, đơn vị ước tính các khoản chi phí phát sinh:</para>
+      <para id="id21112298">-Hao phí thời gian trung bình để sản xuất ra một sản phẩm X mất 20 phút và sản phẩm Y mất 30 phút.</para>
+      <para id="id22282649">-Tiền lương của công nhân tính theo thời gian, mỗi công nhân sản xuất trong giờ là 8.000 đồng/giờ, nếu làm việc thêm giờ thì tiền lương bằng 1,3 lần lương sản xuất trong giờ.</para>
+      <para id="id21833995">-Xí nghiệp có 18 công nhân làm việc mỗi tháng 22 ngày (trong đó khả năng sản xuất sản phẩm X chiếm 50% năng lực). Họ có đủ khả năng sản xuất thêm giờ để đáp ứng nhu cầu khách hàng.</para>
+      <para id="id21024426">-Hiện tại lượng hàng tồn kho của tháng 12 năm trước để lại đối với sản phẩm X là 800 sản phẩm, và sản phẩm Y là 500 sản phẩm.</para>
+      <para id="id22274451">Chính sách của xí nghiệp là muốn đáp ứng đầy đủ nhu cầu và có chủ trương không để cho thiếu hụt hàng hóa xảy ra.</para>
+      <para id="id22114084">Ông giám đốc vạch ra 2 phương án:</para>
+      <para id="id21837981">Phương án 1: Xí nghiệp giữ mức sản xuất cố định hàng tháng bằng với năng lực sản xuất thực tế của xí nghiệp. Biết chi phí bảo quản hàng tồn kho sản phẩm X là 2.500 đồng/sản phẩm/tháng, sản phẩm Y là 2.000 đồng/sản phẩm/tháng.</para>
+      <para id="id21932005">Phương án 2: Xí nghiệp muốn sản xuất đáp ứng theo nhu cầu của thị trường, khi nhu cầu giảm xuống thì không được sa thải công nhân, nhưng được phép có giờ rổi (tạm nghỉ việc), mỗi giờ rổi việc công nhân được hưởng 60% lương chính thức. Hãy lập biểu tính toán và xác định phương án thực hiện có lợi. </para>
+      <para id="id22439191">Bài giải</para>
+      <para id="id22487387"> Trước tiên ta xác định năng lực sản xuất của xí nghiệp dựa trên lực lượng lao động hiện có.</para>
+      <para id="id21552279">-Khả năng của xí nghiệp có thể sản xuất được mỗi tháng là.</para>
+      <para id="id21589998">18 công nhân * 22 ngày/tháng * 8 giờ/ngày = 3.168 giờ/tháng</para>
+      <para id="id21500906">-Trong năng lực đó, khả năng sản xuất sản phẩm X chiếm 50% tương ứng số giờ sản xuất là:3.168 giờ * 50% = 1.584 giờ </para>
+      <para id="id22446213">-Dựa vào số giờ sản xuất sản phẩm X ta biết được số lượng sản phẩm X và Y là: </para>
+      <para id="id21881919">Khả năng sản xuất sản phẩm X:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:msup><m:mtext>584</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>giåì</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">∗</m:mo><m:msup><m:mtext>60</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ph</m:mtext></m:mrow></m:mstyle><m:mtext>uït</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow><m:msup><m:mtext>20</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mtext>phuït</m:mtext></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>752</m:mtext><m:mtext> saín pháøm</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1 "." "584" rSup { size 8{ ital "giåì"} } *"60" rSup { size 8{ ital "ph""uït"} } }  over  {"20" rSup { size 8{"phuït"} } } } =4 "." "752"" saín pháøm"} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id22250562">Khả năng sản xuất sản phẩm Y:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:msup><m:mtext>584</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>giåì</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">∗</m:mo><m:msup><m:mtext>60</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ph</m:mtext></m:mrow></m:mstyle><m:mtext>uït</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow><m:msup><m:mtext>30</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mtext>phuït</m:mtext></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>168</m:mtext><m:mtext> saín pháøm</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1 "." "584" rSup { size 8{ ital "giåì"} } *"60" rSup { size 8{ ital "ph""uït"} } }  over  {"30" rSup { size 8{"phuït"} } } } =3 "." "168"" saín pháøm"} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id22242886"> Phương án 1: Giữ mức sản xuất cố định hàng tháng với X là 4.752 sản phẩm; và Y là 3.168 sản phẩm trong kỳ kế hoạch 6 tháng.</para>
+      <para id="id21838084">-Lượng hàng tồn kho của tháng 12 năm trước để lại cho tháng 1 đối với sản phẩm X là 800 sản phẩm; Y là 500 sản phẩm. Nếu khả năng không đủ đáp ứng nhu cầu thì ta tăng thêm giờ sản xuất.</para>
+      <para id="id21838089">-Ta thiết lập được bảng tính toán như sau.</para>
+      <table id="id21583288" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Tháng</entry>
+              <entrytbl namest="c2" nameend="c9" cols="8">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <colspec colnum="7" colname="c7"/>
+                <colspec colnum="8" colname="c8"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c2">Nhu cầu</entry>
+                    <entry namest="c3" nameend="c4">Sản xuất</entry>
+                    <entry namest="c5" nameend="c6">TK cuối kỳ</entry>
+                    <entry namest="c7" nameend="c8">Làm thêm</entry>
+                  </row>
+                  <row>
+                    <entry>X</entry>
+                    <entry>Y</entry>
+                    <entry>X</entry>
+                    <entry>Y</entry>
+                    <entry>X</entry>
+                    <entry>Y</entry>
+                    <entry>X</entry>
+                    <entry>Y</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>123456</entry>
+              <entry>5.5005.1004.8004.9005.0005.000</entry>
+              <entry>3.6003.8003.0002.8003.1003.500</entry>
+              <entry>4.7524.7524.7524.7524.7524.752</entry>
+              <entry>3.1683.1683.1683.1683.1683.168</entry>
+              <entry>52-----</entry>
+              <entry>68-168536604272</entry>
+              <entry>-29648148248248</entry>
+              <entry>-564----</entry>
+            </row>
+            <row>
+              <entry>Tổng</entry>
+              <entry/>
+              <entry/>
+              <entry>28.512</entry>
+              <entry>19.008</entry>
+              <entry>52</entry>
+              <entry>1.648</entry>
+              <entry>988</entry>
+              <entry>564</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22137085">-Chi phí trả lương cho công nhân trong giờ để sản xuất sản phẩm X và Y là.</para>
+      <para id="id21643261">3.168 giờ/tháng * 8.000 đồng/giờ * 6 tháng = 152.064.000 đồng.</para>
+      <para id="id21933657">-Chi phí trả lương cho công nhân làm ngoài giờ:</para>
+      <para id="id22022362">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>X</m:mi>
+                    <m:mi>:</m:mi>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>988</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>saínpháøm</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">∗</m:mo>
+                          <m:msup>
+                            <m:mtext>20</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>ph</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mtext>uït</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mtext>60</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>phuït</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mtext>000</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>âäöng/giåì</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:msup>
+                          <m:mn>1,3</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>láön</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>425</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>000</m:mtext>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>âäöng</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{X: {  {"988" rSup { size 8{ ital "saínpháøm"} } *"20" rSup { size 8{ ital "ph""uït"} } }  over  {"60" rSup { size 8{"phuït"} } } } *8 "." "000" rSup { size 8{"âäöng/giåì"} } *1,3 rSup { size 8{"láön"} } =3 "." "425" "." "000" ital "âäöng"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id21835288">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>Y</m:mi>
+                    <m:mi>:</m:mi>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>564</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>saínpháøm</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">∗</m:mo>
+                          <m:msup>
+                            <m:mtext>30</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>ph</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mtext>uït</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mtext>60</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>phuït</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mtext>000</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>âäöng/giåì</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:msup>
+                          <m:mn>1,3</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>láön</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>932</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>800</m:mtext>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>âäöng</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{Y: {  {"564" rSup { size 8{ ital "saínpháøm"} } *"30" rSup { size 8{ ital "ph""uït"} } }  over  {"60" rSup { size 8{"phuït"} } } } *8 "." "000" rSup { size 8{"âäöng/giåì"} } *1,3 rSup { size 8{"láön"} } =2 "." "932" "." "800" ital "âäöng"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id21868291">-Chi phí tồn trữ sản phẩm:</para>
+      <para id="id22028409">X: 52 sản phẩm * 2.500 đồng/sản phẩm/tháng = 130.000 đồng</para>
+      <para id="id20993102">Y: 1.648 sản phẩm * 2.000 đồng/sản phẩm/tháng = 3.296.000 đồng</para>
+      <para id="id22318639"> Tổng chi phí thực hiện phương án này là:</para>
+      <para id="id21936070">TC1 = 152.000.000 + (3.425.000 + 2.932.800) + (130.000 + 3.296.000) = 161.847.000 đồng.</para>
+      <para id="id21852621"> Phương án 2: Xí nghiệp sản xuất số lượng sản phẩm bằng với nhu cầu phát sinh hàng tháng. Nếu thiếu hàng, yêu cầu công nhân làm thêm giờ; nếu thừa thì cho công nhân tạm nghỉ nhưng được hưởng 60% lương chính thức.</para>
+      <para id="id22148084">-Biết lượng hàng tồn kho còn lại X là 800 sản phẩm; Y là 500 sản phẩm.</para>
+      <para id="id21761359">-Năng lực sản xuất của xí nghiệp đối với X là 4.752 sản phẩm; Y là 3.168 sản phẩm.</para>
+      <para id="id21643319">-Ta thiết lập được bảng tính toán qua các tháng như sau.</para>
+      <table id="id21873481" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Tháng</entry>
+              <entrytbl namest="c2" nameend="c9" cols="8">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <colspec colnum="7" colname="c7"/>
+                <colspec colnum="8" colname="c8"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c2">Nhu cầu</entry>
+                    <entry namest="c3" nameend="c4">Sản xuất</entry>
+                    <entry namest="c5" nameend="c6">Làm thêm</entry>
+                    <entry namest="c7" nameend="c8">Rổi việc</entry>
+                  </row>
+                  <row>
+                    <entry>X</entry>
+                    <entry>Y</entry>
+                    <entry>X</entry>
+                    <entry>Y</entry>
+                    <entry>X</entry>
+                    <entry>Y</entry>
+                    <entry>X</entry>
+                    <entry>Y</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>123456</entry>
+              <entry>5.5005.1004.8004.9005.0005.000</entry>
+              <entry>3.6003.8003.0002.8003.1003.500</entry>
+              <entry>4.7004.7524.7524.7524.7524.752</entry>
+              <entry>3.1003.1683.0002.8003.1003.168</entry>
+              <entry>-34848148248248</entry>
+              <entry>-632---332</entry>
+              <entry>52-----</entry>
+              <entry>68-16836868-</entry>
+            </row>
+            <row>
+              <entry>Tổng</entry>
+              <entry/>
+              <entry/>
+              <entry>28.460</entry>
+              <entry>18.336</entry>
+              <entry>1.040</entry>
+              <entry>964</entry>
+              <entry>52</entry>
+              <entry>672</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21076048">-Chi phí trả lương trong giờ:</para>
+      <para id="id21851142">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>X</m:mi>
+                    <m:mi>:</m:mi>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>28</m:mtext>
+                          <m:mtext>.</m:mtext>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mtext>460</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>saínphámR</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">∗</m:mo>
+                            <m:msup>
+                              <m:mtext>20</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>ph</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                    <m:mtext>uït</m:mtext>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mtext>60</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>phuït</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mtext>000</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>âäöng/giåì</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>75</m:mtext>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>893</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>333</m:mtext>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>âäöng</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{X: {  {"28" "." "460" rSup { size 8{ ital "saínphámR"} } *"20" rSup { size 8{ ital "ph""uït"} } }  over  {"60" rSup { size 8{"phuït"} } } } *8 "." "000" rSup { size 8{"âäöng/giåì"} } ="75" "." "893" "." "333" ital "âäöng"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id21829425">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>Y</m:mi>
+                    <m:mi>:</m:mi>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>18</m:mtext>
+                          <m:mtext>.</m:mtext>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mtext>336</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>saínpháøm</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">∗</m:mo>
+                            <m:msup>
+                              <m:mtext>30</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>ph</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                    <m:mtext>uït</m:mtext>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mtext>60</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>phuït</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mtext>000</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>âäöng/giåì</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>73</m:mtext>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>344</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>000</m:mtext>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>âäöng</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{Y: {  {"18" "." "336" rSup { size 8{ ital "saínpháøm"} } *"30" rSup { size 8{ ital "ph""uït"} } }  over  {"60" rSup { size 8{"phuït"} } } } *8 "." "000" rSup { size 8{"âäöng/giåì"} } ="73" "." "344" "." "000" ital "âäöng"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id21995413">-Chi phí trả lương ngoài giờ:</para>
+      <para id="id21995420">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>X</m:mi>
+                    <m:mi>:</m:mi>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                          <m:mtext>.</m:mtext>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mtext>040</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>saínphaáøm</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">∗</m:mo>
+                            <m:msup>
+                              <m:mtext>20</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>ph</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                    <m:mtext>uït</m:mtext>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mtext>60</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>phuït</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mtext>000</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>âäöng/giåì</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:msup>
+                          <m:mn>1,3</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>láön</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>605</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>333</m:mtext>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>âäöng</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{X: {  {1 "." "040" rSup { size 8{ ital "saínphaáøm"} } *"20" rSup { size 8{ ital "ph""uït"} } }  over  {"60" rSup { size 8{"phuït"} } } } *8 "." "000" rSup { size 8{"âäöng/giåì"} } *1,3 rSup { size 8{"láön"} } =3 "." "605" "." "333" ital "âäöng"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id21622800">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>Y</m:mi>
+                    <m:mi>:</m:mi>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>964</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>saínphaáøm</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">∗</m:mo>
+                          <m:msup>
+                            <m:mtext>30</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>ph</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mtext>uït</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mtext>60</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>phuït</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mtext>000</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>âäöng/giåì</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:msup>
+                          <m:mn>1,3</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>láön</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>012</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>800</m:mtext>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>âäöng</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{Y: {  {"964" rSup { size 8{ ital "saínphaáøm"} } *"30" rSup { size 8{ ital "ph""uït"} } }  over  {"60" rSup { size 8{"phuït"} } } } *8 "." "000" rSup { size 8{"âäöng/giåì"} } *1,3 rSup { size 8{"láön"} } =5 "." "012" "." "800" ital "âäöng"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id21619765">-Chi phí lương cho công nhân tạm nghỉ:</para>
+      <para id="id21059721">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>X</m:mi>
+                    <m:mi>:</m:mi>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>52</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>saínphaáøm</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">∗</m:mo>
+                          <m:msup>
+                            <m:mtext>20</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>ph</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mtext>uït</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mtext>60</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>phuït</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mtext>000</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>âäöng/giåì</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mtext>60</m:mtext>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mtext/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>83</m:mtext>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>200</m:mtext>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>âäöng</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{X: {  {"52" rSup { size 8{ ital "saínphaáøm"} } *"20" rSup { size 8{ ital "ph""uït"} } }  over  {"60" rSup { size 8{"phuït"} } } } *8 "." "000" rSup { size 8{"âäöng/giåì"} } *"60"%="83" "." "200" ital "âäöng"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id21891892">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>Y</m:mi>
+                    <m:mi>:</m:mi>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>672</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>saínpháøm</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">∗</m:mo>
+                          <m:msup>
+                            <m:mtext>30</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>ph</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mtext>uït</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mtext>60</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>phuït</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mtext>000</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>âäöng/giåì</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mtext>60</m:mtext>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mtext/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>612</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>800</m:mtext>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>âäöng</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{Y: {  {"672" rSup { size 8{ ital "saínpháøm"} } *"30" rSup { size 8{ ital "ph""uït"} } }  over  {"60" rSup { size 8{"phuït"} } } } *8 "." "000" rSup { size 8{"âäöng/giåì"} } *"60"%=1 "." "612" "." "800" ital "âäöng"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id21931753"> Tổng chi phí thực hiện phương án này là:</para>
+      <para id="id20973174">TC2 = (75.893.333 + 73.344.000) + (3.605.333 + 5.012.800) + (83.200 + 1.612.800) </para>
+      <para id="id22470211"> = 159.551.466 đồng.</para>
+      <para id="id22403370"> So sánh 2 phương án sản xuất, ta thấy phương án 2 có chi phí thấp hơn phương án 1 với số tiền tiết kiệm được là:</para>
+      <para id="id22289071">161.847.000 - 159.551.466 = 2.295.534 đồng</para>
+      <para id="id22289079">Như vậy ta nên chọn phương án 2 để thực hiện.</para>
+      <para id="id22348349">Bài 2: Phân xưởng của công ty C sản xuất sản phẩm X để vận chuyển đến các công ty kinh doanh. Ông A, nhà hoạch định sản xuất ở phân xưởng nói trên, lên kế hoạch tổng hợp cho năm tới dựa vào số liệu dự báo của văn phòng công ty. Phân xưởng hiện đang sản xuất 3 dạng của sản phẩm X (là X1 , X2 và X3) có một số khác biệt về đặc tính nhưng mỗi sản phẩm có lượng hao phí giống nhau về giờ lao động để sản xuất. Số liệu sản phẩm X được dự báo như sau:</para>
+      <table id="id22173051" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Sản phẩm</entry>
+              <entrytbl namest="c2" nameend="c5" cols="4">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c4">Số liệu dự báo (1.000 sản phẩm)</entry>
+                  </row>
+                  <row>
+                    <entry>Qúi 1</entry>
+                    <entry>Qúi 2</entry>
+                    <entry>Qúi 3</entry>
+                    <entry>Qúi 4</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>X1</entry>
+              <entry>10,3</entry>
+              <entry>11,4</entry>
+              <entry>13,9</entry>
+              <entry>9,3</entry>
+            </row>
+            <row>
+              <entry>X2</entry>
+              <entry>6,1</entry>
+              <entry>5,4</entry>
+              <entry>7,8</entry>
+              <entry>6,7</entry>
+            </row>
+            <row>
+              <entry>X3</entry>
+              <entry>3,0</entry>
+              <entry>1,4</entry>
+              <entry>4,2</entry>
+              <entry>5,7</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21471516">Năng lực máy móc hiện có dồi dào để sản xuất theo yêu cầu dự báo và mỗi sản phẩm cần 5 giờ lao động. Hãy tính:</para>
+      <para id="id21833460">a. Nhu cầu tổng hợp của sản phẩm X cho mỗi quí.</para>
+      <para id="id21471524">b. Số giờ lao động tổng hợp cho mỗi qúi.</para>
+      <para id="id22138769">c. Nếu mỗi công nhân làm việc 520 giờ/qúi thì cần phải có bao nhiêu công nhân cho mỗi qúi.</para>
+      <para id="id22464808">d. Nếu chi phí cho việc thuê thêm mỗi công nhân là 0,2 triệu đồng (chi phí đào tạo, huấn luyện, tập việc lúc ban đầu), chi phí cho thôi việc là 0,25 triệu đồng/công nhân và chi phí tồn trữ là 1,5 triệu đồng/1.000 sản phẩm/qúi (công ty làm việc 65 ngày/qúi). Hãy tính kế hoạch tổng hợp cho năm tới theo:</para>
+      <para id="id21171228"> Nhu cầu (giả sử năng lực ban đầu thích ứng với quí 1).</para>
+      <para id="id21884861"> Mức năng lực trung bình.</para>
+      <section id="id-10956430835">
+        <title>Bài giải</title>
+        <para id="id21587750">a. Xác định nhu cầu tổng hợp cho mỗi quí.</para>
+        <para id="id21075764">- Theo thông tin đề bài cho biết, để chế tạo một sản phẩm X các loại đều tiêu hao một lượng lao động như nhau là 5 giờ. Do đó, ta có thể xác định lượng nhu cầu tổng hợp như sau.</para>
+        <figure id="id22129960">
+          <media id="id1170198509471" alt=""><image src="../../media/graphics1-f5a4.png" mime-type="image/png" height="154" width="448"/></media>
+        </figure>
+        <para id="id22039832">b. Xác định số giờ lao động tổng hợp cho từng quí, thông qua bảng tính sau (mỗi sản phẩm mất 5 giờ lao động).</para>
+        <table id="id22145354" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Sản phẩm</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c4">Số liệu dự báo (1.000 sản phẩm)</entry>
+                    </row>
+                    <row>
+                      <entry>Qúi 1</entry>
+                      <entry>Qúi 2</entry>
+                      <entry>Qúi 3</entry>
+                      <entry>Qúi 4</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>X1X2X3</entry>
+                <entry>10,36,13,0</entry>
+                <entry>11,45,41,4</entry>
+                <entry>13,97,84,2</entry>
+                <entry>9,36,75,7</entry>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry>19,4</entry>
+                <entry>18,2</entry>
+                <entry>25,9</entry>
+                <entry>21,7</entry>
+              </row>
+              <row>
+                <entry>Giờ lao động</entry>
+                <entry>97.000</entry>
+                <entry>91.000</entry>
+                <entry>129.500</entry>
+                <entry>108.500</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21120267">c. Nếu mỗi công nhân làm việc 520 giờ/quí thì ta cần số công nhân ở mỗi quí để đảm bảo sản xuất đủ số lượng sản phẩm theo dự báo là.</para>
+        <para id="id22470634">- 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Säú cäng nhán cáön åí quê 1: </m:mtext><m:mrow><m:mfrac><m:mrow><m:mtext>97</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext></m:mrow><m:mtext>520</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>187</m:mtext></m:mrow><m:mtext> cäng nhán</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Säú cäng nhán cáön åí quê 1: " {  {"97" "." "000"}  over  {"520"} } ="187"" cäng nhán"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id21933710">- 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Säú cäng nhán cáön åí quê 2: </m:mtext><m:mrow><m:mfrac><m:mrow><m:mtext>91</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext></m:mrow><m:mtext>520</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>175</m:mtext></m:mrow><m:mtext> cäng nhán</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Säú cäng nhán cáön åí quê 2: " {  {"91" "." "000"}  over  {"520"} } ="175"" cäng nhán"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id21571386">- 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Säú cäng nhán cáön åí quê 3: </m:mtext><m:mrow><m:mfrac><m:mrow><m:mtext>129</m:mtext><m:mtext>.</m:mtext><m:mtext>500</m:mtext></m:mrow><m:mtext>520</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>250</m:mtext></m:mrow><m:mtext> cäng nhán</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Säú cäng nhán cáön åí quê 3: " {  {"129" "." "500"}  over  {"520"} } ="250"" cäng nhán"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id22355398">- 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Säú cäng nhán cáön åí quê 4: </m:mtext><m:mrow><m:mfrac><m:mrow><m:mtext>108</m:mtext><m:mtext>.</m:mtext><m:mtext>500</m:mtext></m:mrow><m:mtext>520</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>209</m:mtext></m:mrow><m:mtext> cäng nhán</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Säú cäng nhán cáön åí quê 4: " {  {"108" "." "500"}  over  {"520"} } ="209"" cäng nhán"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id22352545">d. Ta thiết lập các kế hoạch tổng hợp theo:</para>
+        <para id="id22352550"> Theo nhu cầu (Năng lực ban đầu thích ứng với quí 1).(ĐVT: Công nhân)</para>
+        <table id="id21523044" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Quí</entry>
+                <entry>Nhu cầu</entry>
+                <entry>Sản xuất</entry>
+                <entry>Thuê thêm</entry>
+                <entry>Giảm công nhân</entry>
+              </row>
+              <row>
+                <entry>1234</entry>
+                <entry>187175250209</entry>
+                <entry>187175250209</entry>
+                <entry>--75-</entry>
+                <entry>-12-41</entry>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry/>
+                <entry/>
+                <entry>75</entry>
+                <entry>43</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20977862"> Tổng chi phí phát sinh gồm chi phí thuê thêm và chi phí thôi việc.</para>
+        <para id="id22303652">- Chi phí thuê thêm:75 công nhân * 0,2 triệu đồng/công nhân = 15 triệu đồng.</para>
+        <para id="id22456753">- Chi phí cho thôi việc: 53 công nhân * 0,25 tr đ/cn = 13,25 triệu đồng</para>
+        <para id="id21651892"> Tổng chi phí thực hiện kế hoạch này là:</para>
+        <para id="id22262519">TC1 = 15 + 13,25 = 28,25 triệu đồng.</para>
+        <para id="id21858067"> Sản xuất theo mức năng lực trung bình.</para>
+        <para id="id22132887">- Năng lực sản xuất trung bình hàng quí:</para>
+        <para id="id22399040">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mtext>19</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mrow>
+                              <m:mtext>400</m:mtext>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext>18</m:mtext>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mrow>
+                              <m:mtext>200</m:mtext>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext>25</m:mtext>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mrow>
+                              <m:mtext>900</m:mtext>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext>21</m:mtext>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>700</m:mtext>
+                          </m:mrow>
+                          <m:mn>4</m:mn>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>21</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>300</m:mtext>
+                      <m:mtext> saín pháøm</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {"19" "." "400"+"18" "." "200"+"25" "." "900"+"21" "." "700"}  over  {4} } ="21" "." "300"" saín pháøm"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21855690">- Ta xác định được bảng tính toán như sau:</para>
+        <para id="id21864887">(ĐVT: sản phẩm)</para>
+        <table id="id21057086" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Quí</entry>
+                <entry>Nhu cầu</entry>
+                <entry>Sản xuất</entry>
+                <entry>Phát sinh</entry>
+                <entry>Tồn kho cuối kỳ</entry>
+              </row>
+              <row>
+                <entry>1234</entry>
+                <entry>19.40018.20025.90021.700</entry>
+                <entry>21.30021.30021.30021.300</entry>
+                <entry>+1.900+3.600-4.600- 400</entry>
+                <entry>1.9005.000400-</entry>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>7.300</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21884907">- Tổng chi phí phát sinh thêm là:</para>
+        <para id="id21777366">7,3 ngàn sản phẩm * 1,5 trđ/1000sản phẩm/tháng = 10,95 triệu đồng</para>
+        <para id="id20878754">So sánh 2 kế hoạch, thì ta chọn kế hoạch 2 với chi phí thấp nhất là 10,95 trđ.</para>
+        <para id="id21882832">Bài 3: Một xí nghiệp sản xuất 2 loại sản phẩm X, Y để tồn kho và phân phối dần. Theo số liệu của phòng kinh doanh, người ta xác định được các đơn đặt hàng của khách hàng trong 6 tuần tới như bảng sau. (ĐVT: sản phẩm)</para>
+        <table id="id22170053" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Sản phẩm</entry>
+                <entry>Đơn đặt hàng của khách hàng</entry>
+                <entrytbl namest="c3" nameend="c8" cols="6">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c6">Tuần</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                      <entry>2</entry>
+                      <entry>3</entry>
+                      <entry>4</entry>
+                      <entry>5</entry>
+                      <entry>6</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry>Cty kinh doanh tổng hợpCty thương mại RĐại lý phân phối 1Cửa hàng tổng hợp B</entry>
+                <entry>-100-100</entry>
+                <entry>50--50</entry>
+                <entry>-60100-</entry>
+                <entry>60-5050</entry>
+                <entry>----</entry>
+                <entry>-403050</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Tổng</entry>
+                <entry>200</entry>
+                <entry>100</entry>
+                <entry>160</entry>
+                <entry>160</entry>
+                <entry>-</entry>
+                <entry>120</entry>
+              </row>
+              <row>
+                <entry>Y</entry>
+                <entry>Cty thương mại HĐại lý phân phối 2Cty kinh doanh tổng hợpCửa hàng tổng hợp B</entry>
+                <entry>--40-</entry>
+                <entry>----</entry>
+                <entry>50302020</entry>
+                <entry>208070-</entry>
+                <entry>-8060100</entry>
+                <entry>100-10040</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Tổng</entry>
+                <entry>40</entry>
+                <entry>-</entry>
+                <entry>120</entry>
+                <entry>170</entry>
+                <entry>240</entry>
+                <entry>240</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id22232114">Hiện tại đơn vị còn tồn kho của tuần trước để lại là 40 sản phẩm X và 60 sản phẩm Y, lượng tồn kho an toàn của X là 20 sản phẩm, của Y là 10 sản phẩm. Hao phí thời gian để chế tạo được 1 sản phẩm hoàn chỉnh X mất 10 phút; Y mất 20 phút. Kích thước lô sản phẩm X là 420 sản phẩm, Y là 200 sản phẩm. Năng lực sản xuất tối đa của sản xuất là 70 giờ/tuần. Yêu cầu:</para>
+        <para id="id22359700">a. Xác định lịch trình sản xuất chính cho 2 loại sản phẩm trên.</para>
+        <para id="id22359708">b. Năng lực sản xuất của xí nghiệp có phù hợp với lịch trình sản xuất chính ở câu a không? Công suất thực tế trong kỳ (6 tuần lễ) đạt được bao nhiêu %?</para>
+        <para id="id19886792">Bài giải</para>
+        <para id="id21875418"> Đầu tiên ta xác định nhu cầu tổng hợp cho từng loại sản phẩm, lấy tổng nhu cầu đối chiếu với tồn kho ban đầu và xác định tồn kho cuối kỳ của tuần lễ nào dưới mức tồn kho an toàn thì yêu cầu phải sản xuất thêm. Ta xác định được mức yêu cầu sản xuất cho từng sản phẩm như sau:</para>
+        <table id="id22463512" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Sảnphẩm</entry>
+                <entry>Chỉ tiêu</entry>
+                <entrytbl namest="c3" nameend="c8" cols="6">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c6">Tuần</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                      <entry>2</entry>
+                      <entry>3</entry>
+                      <entry>4</entry>
+                      <entry>5</entry>
+                      <entry>6</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sxTồn kho cuối kỳ</entry>
+                <entry>20040420260</entry>
+                <entry>100260-160</entry>
+                <entry>160160420420</entry>
+                <entry>160420-260</entry>
+                <entry>-260-260</entry>
+                <entry>120260-140</entry>
+              </row>
+              <row>
+                <entry>Y</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sxTồn kho cuối kỳ</entry>
+                <entry>4060-20</entry>
+                <entry>-20-20</entry>
+                <entry>12020200100</entry>
+                <entry>170100200130</entry>
+                <entry>24013020090</entry>
+                <entry>2409020050</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21639862"> Ta có lịch trình sản xuất chính cho 2 loại sản phẩm trên như sau:</para>
+        <table id="id22274518" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Tuần</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>Sản phẩm XSản phẩm Y</entry>
+                <entry>420-</entry>
+                <entry>--</entry>
+                <entry>420200</entry>
+                <entry>-200</entry>
+                <entry>-200</entry>
+                <entry>-200</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id22358070"> Ta qui đổi năng lực sản xuất thực tế của sản phẩm X, Y ra đơn vị tính là thời gian (phút). Ta có:</para>
+        <table id="id22487220" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Tuần</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>Sản phẩm XSản phẩm Y</entry>
+                <entry>4.200-</entry>
+                <entry>--</entry>
+                <entry>4.2004.000</entry>
+                <entry>-4.000</entry>
+                <entry>-4.000</entry>
+                <entry>-4.000</entry>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry>4.200</entry>
+                <entry>-</entry>
+                <entry>8.200</entry>
+                <entry>4.000</entry>
+                <entry>4.000</entry>
+                <entry>4.000</entry>
+              </row>
+              <row>
+                <entry>Năng lực xí nghiệp</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21838078"> Qua lịch trình trên ta nhận thấy ở tuần lễ thứ 3, thời gian sản xuất thực tế vượt quá năng lực sản xuất của xí nghiệp (quá tải). Trong khi đó ở tuần thứ 2 không sản xuất, do đó ta điều chỉnh lô sản xuất sản phẩm X hoặc lô sản phẩm Y được sản xuất vào tuần thứ 2 để tồn kho qua tuần thứ 3 tiêu thụ. Lúc này lịch trình sản xuất chính như sau:</para>
+        <table id="id22123845" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Tuần</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>Tổng</entry>
+              </row>
+              <row>
+                <entry>Sản phẩm XSản phẩm Y</entry>
+                <entry>4.200-</entry>
+                <entry>4.200-</entry>
+                <entry>-4.000</entry>
+                <entry>-4.000</entry>
+                <entry>-4.000</entry>
+                <entry>-4.000</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+                <entry>4.000</entry>
+                <entry>4.000</entry>
+                <entry>4.000</entry>
+                <entry>4.000</entry>
+                <entry>24.400</entry>
+              </row>
+              <row>
+                <entry>Năng lực xí nghiệp</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+                <entry>4.200</entry>
+                <entry>25.200</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21572315"> Công suất thực tế của xí nghiệp đạt được trong kỳ (6 tuần lễ) là:</para>
+        <para id="id21872924">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>24</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>400</m:mtext>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mtext>25</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>200</m:mtext>
+                            </m:mrow>
+                          </m:mfrac>
+                          <m:mo stretchy="false">∗</m:mo>
+                          <m:mtext>100</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>96</m:mtext>
+                      </m:mrow>
+                      <m:mi>,</m:mi>
+                      <m:mtext>83</m:mtext>
+                      <m:mtext/>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {"24" "." "400"}  over  {"25" "." "200"} } *"100"="96","83"%} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21003282">Bài 4: Xí nghiệp sản xuất 3 loại sản phẩm A, B, C cung cấp cho khách hàng theo lịch như sau:</para>
+        <table id="id22262549" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Tuần</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+              </row>
+              <row>
+                <entry>Sản phẩm ASản phẩm BSản phẩm C</entry>
+                <entry>500200-</entry>
+                <entry>--400</entry>
+                <entry>200200-</entry>
+                <entry>-60050</entry>
+                <entry>300100-</entry>
+                <entry>--200</entry>
+                <entry>400750100</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21643508">Chi phí chuyển đổi máy móc thiết bị từ sản xuất sản phẩm này sang sản xuất sản phẩm khác là 200.000 đồng/1 lần chuyển (nếu tuần này đang sản xuất sản phẩm A, tuần sau lại nối tiếp sản xuất sản phẩm A thì không tốn chi phí chuyển đổi máy móc thiết bị, nhưng chuyển qua sản xuất sản phẩm khác thì phải tốn chi phí chuyển máy móc). Biết năng lực sản xuất chung của nhà máy là 200 giờ/tuần. Biết thêm các thông tin khác như dưới đây:</para>
+        <table id="id21018755" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Chỉ tiêu</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">Sản phẩm</entry>
+                    </row>
+                    <row>
+                      <entry>A</entry>
+                      <entry>B</entry>
+                      <entry>C</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Tồn kho đầu kỳ (sản phẩm)Tồn kho an toàn (sản phẩm)Kích thước lô hàng (sản phẩm)Thời gian sản xuất 1 sản phẩm (phút)Chi phí tồn trữ (đồng/sản phẩm/tuần)</entry>
+                <entry>50020300151.500</entry>
+                <entry>15010150202.000</entry>
+                <entry>30030400301.800</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id22072326">a. Hãy xác định lịch trình sản xuất chính.</para>
+        <para id="id21637603">b. Xác định tổng chi phí thực hiện sao cho tổng chi thấp nhất.</para>
+        <para id="id22423030">Bài giải</para>
+        <para id="id22423033">a. Xác định lịch trình sản xuất chính.</para>
+        <para id="id22274624"> Từ thông tin của đề bài, ta đã có được nhu cầu tổng hợp cho từng sản phẩm A, B, C ở 7 tuần lễ tới. Do đó, ta chỉ tính yêu cầu sản xuất cho từng sản phẩm A, B, C cụ thể ở từng tuần như sau:</para>
+        <table id="id21910081" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>Sản phẩm</entry>
+                <entry>Chỉ tiêu</entry>
+                <entrytbl namest="c3" nameend="c9" cols="7">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c7">Tuần</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                      <entry>2</entry>
+                      <entry>3</entry>
+                      <entry>4</entry>
+                      <entry>5</entry>
+                      <entry/>
+                      <entry/>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>A</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>500500300300</entry>
+                <entry>-300-300</entry>
+                <entry>200300-100</entry>
+                <entry>-100-100</entry>
+                <entry>300100300100</entry>
+                <entry>-100-100</entry>
+                <entry>700100600300</entry>
+              </row>
+              <row>
+                <entry>B</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>200150150100</entry>
+                <entry>-100-100</entry>
+                <entry>20010015050</entry>
+                <entry>2005060050</entry>
+                <entry>10050150100</entry>
+                <entry>-100-100</entry>
+                <entry>750100750100</entry>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>-300-300</entry>
+                <entry>400300400300</entry>
+                <entry>-300-300</entry>
+                <entry>50300-250</entry>
+                <entry>-250-250</entry>
+                <entry>200250-50</entry>
+                <entry>10050400350</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21589275"> Theo lịch trình trên ta có nhận xét:</para>
+        <para id="id22028417"> Đối với sản phẩm A ở tuần 1 ta phải sản xuất thêm 1 lô 300 sản phẩm, vì nếu giao hàng bằng lượng tồn kho của kỳ trước để lại mà không sản xuất thì không còn hàng tồn kho, trong khi đó lượng hàng tồn kho an toàn của sản phẩm là 20, sẽ dưới mức tồn kho an toàn. Do đó phải sản xuất thêm 1 lô sản phẩm A. Ở tuần 7, nếu ta sản xuất 1 lô thì không đủ lượng hàng để giao cho khách hàng, để đảm bảo đủ lượng hàng thì ta phải sản xuất liên tục 2 lô sản phẩm A.</para>
+        <para id="id22067059"> Đối với sản phẩm B cũng vậy, ở tuần thứ 4 ta phải sản xuất liên tục 4 lô và ở tuần thứ 7 ta sản xuất liên tục 5 lô sản phẩm B.</para>
+        <para id="id21873241"> Từ lịch trình sơ bộ ở trên, ta có thể tổng hợp thành lịch trình như sau.</para>
+        <para id="id20999963">(ĐVT: sản phẩm)</para>
+        <table id="id21085482" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Tuần</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+              </row>
+              <row>
+                <entry>Sản phẩm ASản phẩm BSản phẩm C</entry>
+                <entry>300150-</entry>
+                <entry>--400</entry>
+                <entry>-150-</entry>
+                <entry>-600-</entry>
+                <entry>300150-</entry>
+                <entry>---</entry>
+                <entry>600750400</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21931140"> Ta qui đổi lịch trình này từ yêu cầu sản xuất dưới dạng sản phẩm ra yêu cầu sản xuất dưới dạng thời gian (giờ) cần thiết để có được sản phẩm A, B, C.</para>
+        <table id="id21938883" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>Tuần</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>Tổng</entry>
+              </row>
+              <row>
+                <entry>Sản phẩm ASản phẩm BSản phẩm C</entry>
+                <entry>7550-</entry>
+                <entry>--200</entry>
+                <entry>-50-</entry>
+                <entry>-200-</entry>
+                <entry>7550-</entry>
+                <entry>---</entry>
+                <entry>150250200</entry>
+                <entry>300600400</entry>
+              </row>
+              <row>
+                <entry>Tổng thời gian</entry>
+                <entry>125</entry>
+                <entry>200</entry>
+                <entry>50</entry>
+                <entry>200</entry>
+                <entry>125</entry>
+                <entry>-</entry>
+                <entry>600</entry>
+                <entry>1.300</entry>
+              </row>
+              <row>
+                <entry>Năng lực SX</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>1.400</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id22250504"> Theo lịch trình thời gian ta có nhận xét như sau:</para>
+        <para id="id21023714"> Trong 6 tuần lễ đầu thì nhu cầu sản xuất thực tế luôn nhỏ hơn năng lực sản xuất của xí nghiệp, do đó nó dưới tải.</para>
+        <para id="id21666320"> Riêng tuần thứ 7, nhu cầu sản xuất thực tế gấp 3 lần năng lực sản xuất của xí nghiệp, do đó nó quá tải. Để đảm bảo có đủ hàng hóa đáp ứng cho khách hàng đúng lịch, thì ta phải chuyển một số lô sản phẩm được sản xuất ở các tuần trước đó.</para>
+        <para id="id22475063"> Nếu ta chuyển lô sản phẩm sản xuất càng xa với lịch giao hàng thì phát sinh chi phí tồn trữ càng cao, mặt khác, chi phí tồn trữ của sản phẩm nào càng lớn cũng làm cho tổng chi phí tồn trữ càng lớn.</para>
+        <para id="id21552255"> Trong bài toán này, chúng ta còn phải tính toán chi phí sao cho việc thực hiện có chi phí thấp nhất. </para>
+        <para id="id21889345">Các khả năng điều chỉnh lịch trình có thể xảy ra như sau:</para>
+        <para id="id22326110"> Khả năng thứ 1: Ta điều chỉnh như sau:</para>
+        <table id="id22131923" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>Tuần</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>Tổng</entry>
+              </row>
+              <row>
+                <entry>Sản phẩm ASản phẩm BSản phẩm C</entry>
+                <entry>7550-</entry>
+                <entry>--200</entry>
+                <entry>75100-</entry>
+                <entry>-200-</entry>
+                <entry>15050-</entry>
+                <entry>-200-</entry>
+                <entry>--200</entry>
+                <entry>300600400</entry>
+              </row>
+              <row>
+                <entry>Tổng thời gian</entry>
+                <entry>125</entry>
+                <entry>200</entry>
+                <entry>175</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>1.300</entry>
+              </row>
+              <row>
+                <entry>Năng lực SX</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>1.400</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21076091">-Sản phẩm A: lô ở tuần 5 lên sản xuất ở tuần thứ 3; 2 lô ở tuần 7 được sản xuất ở tuần 5.</para>
+        <para id="id22157243">-Sản phẩm B: 1 lô ở tuần 7 được sản xuất ở tuần 3; 4 lô còn lại ở tuần 7 được sản xuất ở tuần thứ 6.</para>
+        <para id="id21075653">Xác định chi phí thực hiện khả năng này:</para>
+        <para id="id22152672">-Chi phí thực hiện chuyển đổi máy móc thiết bị phát sinh theo hướng mũi tên ghi trên lịch trình.</para>
+        <para id="id22152681">7 lần chuyển * 200.000 đồng/1 lần chuyển = 1.400.000 đồng.</para>
+        <para id="id22123788">-Chi phí tồn trữ của 3 loại sản phẩm được tính toán như sau:</para>
+        <para id="id22169977">A:3.100 sản phẩm * 1.500 đồng/sản phẩm/tuần = 4.650.000 đồng</para>
+        <para id="id21837498">B:1.800 sản phẩm * 2.000 đồng/sản phẩm/tuần = 3.600.000 đồng</para>
+        <para id="id22196237">C:1.800 sản phẩm * 1.800 đồng/sản phẩm/tuần = 3.240.000 đồng</para>
+        <para id="id22368811">Tổng chi phí tồn trữ sản phẩm:11.490.000 đồng.</para>
+        <para id="id20999853">­ Tổng chi phí khả năng này là: 1.400.000 + 11.490.000 = 12.890.000 đồng.</para>
+        <table id="id21869614" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>Sản phẩm</entry>
+                <entry>Chỉ tiêu</entry>
+                <entrytbl namest="c3" nameend="c9" cols="7">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c7">Tuần</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                      <entry>2</entry>
+                      <entry>3</entry>
+                      <entry>4</entry>
+                      <entry>5</entry>
+                      <entry>6</entry>
+                      <entry>7</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>Tổng</entry>
+              </row>
+              <row>
+                <entry>A</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>500500300300</entry>
+                <entry>-300-300</entry>
+                <entry>200300300400</entry>
+                <entry>-400-400</entry>
+                <entry>300400600700</entry>
+                <entry>-700-700</entry>
+                <entry>400700-300</entry>
+                <entry>3.100</entry>
+              </row>
+              <row>
+                <entry>B</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>200150150100</entry>
+                <entry>-100-100</entry>
+                <entry>200100300200</entry>
+                <entry>600200600200</entry>
+                <entry>100200150250</entry>
+                <entry>-250600850</entry>
+                <entry>750850-100</entry>
+                <entry>1.800</entry>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>-300-300</entry>
+                <entry>400300400300</entry>
+                <entry>-300-300</entry>
+                <entry>50300-250</entry>
+                <entry>-250-250</entry>
+                <entry>200250-50</entry>
+                <entry>10050400350</entry>
+                <entry>1.800</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id22125179"> Khả năng thứ 2: Ta điều chỉnh như sau:</para>
+        <table id="id21790541" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>Tuần</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>Tổng</entry>
+              </row>
+              <row>
+                <entry>Sản phẩm ASản phẩm BSản phẩm C</entry>
+                <entry>7550-</entry>
+                <entry>--200</entry>
+                <entry>15050-</entry>
+                <entry>-200-</entry>
+                <entry>75100-</entry>
+                <entry>-200-</entry>
+                <entry>--200</entry>
+                <entry>300600400</entry>
+              </row>
+              <row>
+                <entry>Tổng thời gian</entry>
+                <entry>125</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>175</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>1.300</entry>
+              </row>
+              <row>
+                <entry>Năng lực SX</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>1.400</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id22157377">-Sản phẩm A: 2 lô ở tuần 7 lên sản xuất ở tuần thứ 3. </para>
+        <para id="id22455701">-Sản phẩm B: 1 lô ở tuần 7 được sản xuất ở tuần 5; 4 lô còn lại ở tuần 7 được sản xuất ở tuần thứ 6.</para>
+        <para id="id17331571">Xác định chi phí thực hiện khả năng này:</para>
+        <para id="id17331579">-Chi phí thực hiện chuyển đổi máy móc thiết bị phát sinh theo hướng mũi tên ghi trên lịch trình.</para>
+        <para id="id17892008">7 lần chuyển * 200.000 đồng/1 lần chuyển = 1.400.000 đồng.</para>
+        <para id="id22059241">-Chi phí tồn trữ của 3 loại sản phẩm được tính toán như sau:</para>
+        <para id="id13301585">A:3.700 sản phẩm * 1.500 đồng/sản phẩm/tuần = 5.550.000 đồng</para>
+        <para id="id15891536">B:1.500 sản phẩm * 2.000 đồng/sản phẩm/tuần = 3.000.000 đồng</para>
+        <para id="id22326129">C:1.800 sản phẩm * 1.800 đồng/sản phẩm/tuần = 3.240.000 đồng</para>
+        <para id="id21836974">Tổng chi phí tồn trữ sản phẩm:11.790.000 đồng.</para>
+        <para id="id22036821">­­­­ Tổng chi phí khả năng này là: 1.400.000 + 11.790.000 = 13.190.000 đồng.</para>
+        <table id="id17172045" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>Sản phẩm</entry>
+                <entry>Chỉ tiêu</entry>
+                <entrytbl namest="c3" nameend="c10" cols="8">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c8">Tuần</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                      <entry>2</entry>
+                      <entry>3</entry>
+                      <entry>4</entry>
+                      <entry>5</entry>
+                      <entry>6</entry>
+                      <entry>7</entry>
+                      <entry>Tổng</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>A</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>500500300300</entry>
+                <entry>-300-300</entry>
+                <entry>200300600700</entry>
+                <entry>-700-700</entry>
+                <entry>300700300700</entry>
+                <entry>-700-700</entry>
+                <entry>400700-300</entry>
+                <entry>3.700</entry>
+              </row>
+              <row>
+                <entry>B</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>200150150100</entry>
+                <entry>-100-100</entry>
+                <entry>20010015050</entry>
+                <entry>6005060050</entry>
+                <entry>10050300250</entry>
+                <entry>-250600850</entry>
+                <entry>750850-100</entry>
+                <entry>1.500</entry>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>-300-300</entry>
+                <entry>400300400300</entry>
+                <entry>-300-300</entry>
+                <entry>50300-250</entry>
+                <entry>-250-250</entry>
+                <entry>200250-50</entry>
+                <entry>10050400350</entry>
+                <entry>1.800</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id22271586"> Khả năng thứ 3: Ta điều chỉnh như sau:</para>
+        <table id="id21879169" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>Tuần</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>Tổng</entry>
+              </row>
+              <row>
+                <entry>Sản phẩm ASản phẩm BSản phẩm C</entry>
+                <entry>7550-</entry>
+                <entry>--200</entry>
+                <entry>75100-</entry>
+                <entry>-200-</entry>
+                <entry>15050-</entry>
+                <entry>--200</entry>
+                <entry>-200-</entry>
+                <entry>300600400</entry>
+              </row>
+              <row>
+                <entry>Tổng thời gian</entry>
+                <entry>125</entry>
+                <entry>200</entry>
+                <entry>175</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>1.300</entry>
+              </row>
+              <row>
+                <entry>Năng lực sản xuất </entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>200</entry>
+                <entry>1.400</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id22470023">-Sản phẩm A: lô ở tuần 5 lên sản xuất ở tuần thứ 3; 2 lô ở tuần 7 được sản xuất ở tuần 5.</para>
+        <para id="id22470033">-Sản phẩm B: 1 lô ở tuần 7 được sản xuất ở tuần 3; 4 lô còn lại ở tuần 7 được sản xuất ở tuần thứ 7.</para>
+        <para id="id22169349">-Sản phẩm C: 1 lô ở tuần thứ 7 lên sản xuất ở tuần thứ 6.</para>
+        <para id="id21835777">Xác định chi phí thực hiện khả năng này:</para>
+        <para id="id21835783">-Chi phí thực hiện chuyển đổi máy móc thiết bị phát sinh theo hướng mũi tên ghi trên lịch trình.</para>
+        <para id="id22194800">7 lần chuyển * 200.000 đồng/1 lần chuyển = 1.400.000 đồng.</para>
+        <para id="id22154832">-Chi phí tồn trữ của 3 loại sản phẩm được tính toán như sau:</para>
+        <para id="id21865742">A:3.100 sản phẩm * 1.500 đồng/sản phẩm/tuần = 4.650.000 đồng</para>
+        <para id="id22257766">B:1.200 sản phẩm * 2.000 đồng/sản phẩm/tuần = 1.440.000 đồng</para>
+        <para id="id21745721">C:2.200 sản phẩm * 1.800 đồng/sản phẩm/tuần = 3.960.000 đồng</para>
+        <para id="id22463399">Tổng chi phí tồn trữ sản phẩm:10.050.000 đồng.</para>
+        <table id="id22463410" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>Sản phẩm</entry>
+                <entry>Chỉ tiêu</entry>
+                <entrytbl namest="c3" nameend="c9" cols="7">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c7">Tuần</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                      <entry>2</entry>
+                      <entry>3</entry>
+                      <entry>4</entry>
+                      <entry>5</entry>
+                      <entry>6</entry>
+                      <entry>7</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>Tổng</entry>
+              </row>
+              <row>
+                <entry>A</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>500500300300</entry>
+                <entry>-300-300</entry>
+                <entry>200300300400</entry>
+                <entry>-400-400</entry>
+                <entry>300400600700</entry>
+                <entry>-700-700</entry>
+                <entry>400700-300</entry>
+                <entry>3.100</entry>
+              </row>
+              <row>
+                <entry>B</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>200150150100</entry>
+                <entry>-100-100</entry>
+                <entry>200100300200</entry>
+                <entry>600200600200</entry>
+                <entry>100200150250</entry>
+                <entry>-250-250</entry>
+                <entry>750250600100</entry>
+                <entry>1.200</entry>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry>Nhu cầuTồn kho đầu kỳYêu cầu sản xuấtTồn kho cuối kỳ</entry>
+                <entry>-300-300</entry>
+                <entry>400300400300</entry>
+                <entry>-300-300</entry>
+                <entry>50300-250</entry>
+                <entry>-250-250</entry>
+                <entry>200250400450</entry>
+                <entry>100450-350</entry>
+                <entry>2.200</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21830480"> Tổng chi phí khả năng này là: 1.400.000 + 10.050.000 = 11.450.000 đồng.</para>
+        <para id="id22232261">So sánh tổng chi phí của 3 khả năng ta có:</para>
+        <para id="id22180714">-Khả năng 1 là: 12.890.000 đồng.</para>
+        <para id="id22180720">-Khả năng 2 là: 13.190.000 đồng.</para>
+        <para id="id21859856">-Khả năng 3 là: 11.450.000 đồng.</para>
+        <para id="id21859863">Ta sẽ chọn khả năng thứ 3 thực hiện có lợi thế về chi phí hơn.</para>
+      </section>
+    </section>
+    <section id="id-263757877831">
+      <title>IV. BÀI TẬP TỰ GIẢI:</title>
+      <para id="id22296213">Bài 5: Nhà sản xuất xác định nhu cầu sản xuất về một loại sản phẩm trong 6 tháng tới như sau:</para>
+      <table id="id22472568" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry>Tháng</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>Tổng</entry>
+            </row>
+            <row>
+              <entry>Nhu cầu</entry>
+              <entry>900</entry>
+              <entry>700</entry>
+              <entry>800</entry>
+              <entry>1.200</entry>
+              <entry>1.500</entry>
+              <entry>1.100</entry>
+              <entry>6.200</entry>
+            </row>
+            <row>
+              <entry>Số ngày sản xuất</entry>
+              <entry>22</entry>
+              <entry>18</entry>
+              <entry>21</entry>
+              <entry>21</entry>
+              <entry>22</entry>
+              <entry>20</entry>
+              <entry>124</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22510063">Biết các thông tin về chi phí như sau:</para>
+      <para id="id22446688">Chi phí tồn trữ 5 đồng/sản phẩm/tháng</para>
+      <para id="id22446695">Chi phí hợp đồng phụ 10 đồng/sản phẩm</para>
+      <para id="id21850168">Mức lương làm trong giờ qui định là 5 đồng/giờ, làm thêm ngoài giờ là 7 đồng/giờ</para>
+      <para id="id22430632">Hao phí lao động để chế tạo 1 sản phẩm mất 1,6 giờ</para>
+      <para id="id22430640">Chi phí khi mức sản xuất tăng là 10 đồng/sản phẩm tăng thêm, chi phí giảm mức sản xuất là 15 đồng/sản phẩm . Hãy tìm kế hoạch sản xuất sao cho tổng chi phí thấp nhất.</para>
+      <para id="id22004538">Bài 6: Nhà sản xuất xác định nhu cầu sản xuất về một loại sản phẩm trong 6 tháng tới như sau:</para>
+      <table id="id22294525" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry>Tháng</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>Tổng</entry>
+            </row>
+            <row>
+              <entry>Nhu cầu</entry>
+              <entry>8.100</entry>
+              <entry>9.000</entry>
+              <entry>11.100</entry>
+              <entry>10.500</entry>
+              <entry>12.000</entry>
+              <entry>12.300</entry>
+              <entry>63.000</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22429703">Biết các thông tin về chi phí như sau:</para>
+      <para id="id22429711">Xí nghiệp có 9 công nhân, làm việc 8 giờ/ca/ngày, sản xuất 24 ngày/tháng</para>
+      <para id="id21837893">Mức lương làm trong giờ qui định là 5.000 đồng/giờ, làm thêm ngoài giờ là 1,5 lần trong giờ.</para>
+      <para id="id21837903">Chi phí tồn trữ 800 đồng/sản phẩm/tháng</para>
+      <para id="id21851110">Hao phí lao động là 10 phút/sản phẩm.</para>
+      <para id="id21067940">Nếu sa thải thì trả thêm cho công nhân 1 tháng lương bình thường, nếu thuê công nhân thêm thì chi phí tuyển chọn, học việc,... bằng 2/3 chi phí của tháng lương.</para>
+      <para id="id21067952">Xí nghiệp có chủ trương đáp ứng đầy đủ nhu cầu khách hàng.</para>
+      <para id="id22371551">Kế hoạch 1: Giữ mức sản xuất cố định bằng với năng lực sản xuất của xí nghiệp.</para>
+      <para id="id22371556">Kế hoạch 2: Đáp ứng theo nhu cầu cầu thị trường, khi nhu cầu giảm thì không được sa thải công nhân nhưng cho phép công nhân có giờ rổi việc, mỗi giờ không có việc thì công nhân được hưởng 20% lương.</para>
+      <para id="id22504928">Kế hoạch 3: Đáp ứng theo nhu cầu cầu thị trường bằng cách tăng giảm số lượng công nhân kết hợp với tồn kho hoặc làm thêm ở mức thấp nhất.</para>
+      <para id="id21996685">Bài 7: Nhu cầu về 2 loại sản phẩm A, B trong 6 tháng tới như sau:</para>
+      <para id="id21570950">Hao phí lao động để sản xuất 1 sản phẩm A mất 45 phút, sản phẩm B mất 65 phút.</para>
+      <para id="id21570960">Xí nghiệp có 16 công nhân, làm việc 8 giờ/ca/ngày, sản xuất 24 ngày/tháng, năng lực sản xuất dành cho sản phẩm A chiếm 45% năng lực của xí nghiệp.</para>
+      <table id="id21779097" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry>Tháng</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>Tổng</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm A</entry>
+              <entry>2.100</entry>
+              <entry>1.800</entry>
+              <entry>1.900</entry>
+              <entry>2.400</entry>
+              <entry>2.200</entry>
+              <entry>2.000</entry>
+              <entry>12.400</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm B</entry>
+              <entry>1.200</entry>
+              <entry>1.700</entry>
+              <entry>1.500</entry>
+              <entry>1.400</entry>
+              <entry>1.600</entry>
+              <entry>1.600</entry>
+              <entry>9.000</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21032355">Mức lương làm trong giờ qui định là 7.000 đồng/giờ, làm thêm ngoài giờ là 1,5 lần trong giờ.</para>
+      <para id="id21032365">Lượng hàng tồn kho tháng 12 năm trước để lại: A là 500 sản phẩm, B là 300 sản phẩm. Chi phí tồn trữ sản phẩm A là 700 đồng/sản phẩm/tháng; B là 1.200 đồng/sản phẩm/tháng.</para>
+      <para id="id22058464">Xí nghiệp có chủ trương đáp ứng đầy đủ nhu cầu, không để thiếu hụt hàng hoán xẩy ra.</para>
+      <para id="id21834900">Kế hoạch 1: Sản xuất ở mức ổn định với năng lực qui định.</para>
+      <para id="id21616851">Kế hoạch 2: Tăng hoặc giảm mức sản xuất theo nhu cầu khách hàng không quá năng lực qui định, không được sa thải công nhân nhưng co công nhân tạm nghỉ và được hưởng 15% lương.</para>
+      <para id="id22440715">Kế hoạch 3: Tự điều chỉnh năng lực sản xuất sản phẩm A, B hàng tháng để tổng chi phí thấp nhất.</para>
+      <para id="id21616861">Bài 8: Nhu cầu về một loại sản phẩm trong 6 tháng tới, với lượng nguyên liệu đã ký kết tiếp nhận hàng tháng cho như sau:</para>
+      <table id="id22349941" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Tháng</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>Nhu cầu </entry>
+              <entry>1.200</entry>
+              <entry>1.200</entry>
+              <entry>1.400</entry>
+              <entry>1.800</entry>
+              <entry>1.800</entry>
+              <entry>1.600</entry>
+            </row>
+            <row>
+              <entry>Nguyên liệu chính (tấn)</entry>
+              <entry>1,8</entry>
+              <entry>2,0</entry>
+              <entry>1,5</entry>
+              <entry>2,0</entry>
+              <entry>1,8</entry>
+              <entry>1,2</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21792404">Xí nghiệp có 20 công nhân, làm việc 8 giờ/ca/ngày, sản xuất 25 ngày/tháng</para>
+      <para id="id22242986">Lương trong giờ 5.000 đồng/giờ, làm thêm gấp 1,3 lần trong giờ, xí nghiệp không có việc cho công nhân làm thì công nhân được hưởng 10%lương trong thời gian rổi việc.</para>
+      <para id="id22022338">Hao phí nguyên liệu để chế tạo 1 sản phẩm mất 1,2 kg, nếu sử dụng nhiều hơn mức hiện có thì phải mua thêm nhưng giá nguyên liệu sẽ tăng lên 5%, chi phí tồn trữ nguyên liệu trong tháng là 5% giá trị nguyên liệu đang tồn trữ, biết giá mua nguyên liệu là 10.000 đồng/kg.</para>
+      <para id="id22022344">Hao phí lao động để chế tạo 1 sản phẩm mất 2,5 giờ.</para>
+      <para id="id21022800">Lượng hàng tồn kho tháng 12 năm trước để lại là 200 sản phẩm, tồn kho an toàn là 100 sản phẩm, chi phí tồn trữ là 2.000 đồng/sản phẩm/tháng.</para>
+      <para id="id21022812">Xí nghiệp có chủ trương đáp ứng đầy đủ nhu cầu, không để thiếu hụt hàng hoán xẩy ra.</para>
+      <para id="id20986001">Kế hoạch 1: Sản xuất theo năng lực hiện có hàng tháng.</para>
+      <para id="id21842455">Kế hoạch 2: Sản xuất theo nhu cầu khách hàng.</para>
+      <para id="id21842462">Bài 9: Một xí nghiệp chế biến thực phẩm tại Cần Thơ đang lên kế hoạch sản xuất thịt đóng hộp nhằm đáp ứng nhu cầu của khách hàng trong 4 tháng tới là:</para>
+      <table id="id21862676" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Tháng</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>Nhu cầu của khách hàng (hộp)</entry>
+              <entry>57.000</entry>
+              <entry>54.000</entry>
+              <entry>56.000</entry>
+              <entry>57.000</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21583365">- Xí nghiệp hiện có 50 công nhân sản xuất 23 ngày mỗi tháng, mỗi ngày làm việc 1 ca 8 giờ; chi phí trả công một giờ lao động trong điều kiện nầy là 6.000 đồng</para>
+      <para id="id21583377">- Lượng hàng tồn kho tháng 12 năm trước để lại là 3.000 hộp; chi phí cho việc tồn trữ thành phẩm là 500 đồng/hộp/tháng.</para>
+      <para id="id22225191">- Hao phí lao động để sản xuất mỗi hộp mất 10 phút. Nếu yêu cầu công nhân làm thêm giờ thì xí nghiệp trả công tăng thêm 50%; nếu xí nghiệp không phân công công việc cho công nhân thì công nhân vẫn được hưởng 20% lương theo thời gian xí nghiệp qui định.</para>
+      <para id="id21619723">- Chủ trương của xi nghiệp là đáp ứng đầy đủ nhu cầu khách hàng, không để thiếu hụt hàng hóa xảy ra.</para>
+      <para id="id21588204">Kế hoạch 1: Hãy xác định chi phí theo kế hoạch giữ mức sản xuất ổn định bằng năng lực sản xuất của xí nghiệp trong suốt thời gian lập kế hoạch </para>
+      <para id="id21995785">Kế hoạch 2: Xi nghiệp muốn có lượng hàng tồn kho an toàn là 400 sản phẩm trong suốt kỳ kế hoạch. Hãy xác định chi phí theo kế hoạch sản xuất tùy vào nhu cầu phát sinh của khách hàng. </para>
+      <para id="id21885930">Bài 10: Một xí nghiệp sản xuất xác định lượng hàng cần cung cấp ra thị trường trong 4 tháng tới là:</para>
+      <table id="id22495718" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Tháng</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+            </row>
+            <row>
+              <entry>Nhu cầu</entry>
+              <entry>17.500</entry>
+              <entry>16.000</entry>
+              <entry>19.750</entry>
+              <entry>17.500</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21775672">- Xí nghiệp hiện có 50 công nhân sản xuất 22 ngày mỗi tháng, mỗi ngày làm việc 1 ca 8 giờ; chi phí trả công một giờ lao động trong điều kiện nầy là 5.000 đồng. Nếu yêu cầu công nhân làm thêm giờ thì lương ngoài giờ là 6.500 đồng/giờ.</para>
+      <para id="id21775677">- Lượng hàng tồn kho tháng 3 để lại là 1.000 sản phẩm, lượng tồn kho an toàn là 500 sản phẩm; chi phí cho việc tồn trữ thành phẩm là 1.000 đồng/sản phẩm/tháng.</para>
+      <para id="id22371118">- Hao phí lao động để sản xuất một sản phẩm mất 30 phút. </para>
+      <para id="id22275463">- Chủ trương của xí nghiệp là đáp ứng đầy đủ nhu cầu khách hàng, không để thiếu hụt hàng hóa. </para>
+      <para id="id22275472">Kế hoạch 1: Hãy xác định chi phí theo kế hoạch giữ mức sản xuất ổn định bằng năng lực sản xuất của xí nghiệp trong suốt thời gian lập kế hoạch. </para>
+      <para id="id21652161">Kế hoạch 2: Giả sử cuối tháng 6, xí nghiệp vừa tiếp nhận đơn đặt hàng bổ sung thêm 2.500 sản phẩm và sẽ giao hàng trong tháng 7. Biết rằng khi sản xuất thì cứ một giờ máy hoạt động sẽ chi phí nhiên liệu là 100 ngàn đồng và tiêu hao 50 giờ công lao động. Hãy xác định chi phí theo kế hoạch giữ mức sản xuất ổn định trong trường hợp này. </para>
+      <para id="id21992904">Bài 11: Một xí nghiệp sản xuất xác định lượng hàng cần cung cấp ra thị trường trong 4 tháng tới là:</para>
+      <table id="id21585027" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Tháng</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>Nhu cầu</entry>
+              <entry>26.000</entry>
+              <entry>24.000</entry>
+              <entry>24.000</entry>
+              <entry>25.000</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21934599">- Xí nghiệp hiện có 30 công nhân sản xuất 25 ngày mỗi tháng, mỗi ngày làm việc 1 ca 8 giờ; chi phí trả công một giờ lao động trong điều kiện nầy là 6.000 đồng. Nếu yêu cầu công nhân làm thêm giờ thì lương ngoài giờ là 8.000 đồng/giờ.</para>
+      <para id="id21065557">- Lượng hàng tồn kho tháng 12 năm trước để lại là 2.000 sản phẩm, lượng tồn kho an toàn là 500 sản phẩm; chi phí cho việc tồn trữ thành phẩm là 12.000 đồng/sản phẩm/năm.</para>
+      <para id="id21833833">- Hao phí lao động để sản xuất một sản phẩm mất 15 phút. </para>
+      <para id="id21775959">- Chủ trương của xí nghiệp là đáp ứng đầy đủ nhu cầu khách hàng, không để thiếu hụt hàng hóa. </para>
+      <para id="id22360201">Kế hoạch 1: Hãy xác định chi phí theo kế hoạch giữ mức sản xuất ổn định bằng năng lực sản xuất của xí nghiệp trong suốt thời gian lập kế hoạch. </para>
+      <para id="id21880143">Kế hoạch 2: Giả sử cuối tháng 2, xí nghiệp vừa tiếp nhận đơn đặt hàng bổ sung thêm 2.000 sản phẩm và sẽ giao hàng trong tháng 3. Biết rằng khi sản xuất, cứ một giờ máy hoạt động sẽ chi phí nhiên liệu là 200.000 động và tiêu hao 30 giờ công lao động. Hãy xác định chi phí theo kế hoạch giữ mức sản xuất ổn định trong trường hợp này. </para>
+      <para id="id21865734">Bài 12: Một xí nghiệp sản xuất thịt heo đóng hộp đã xác định lượng hàng cần cung cấp ra thị trường trong 4 tháng tới là:</para>
+      <table id="id22269634" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Tháng</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>Nhu cầu thịt đóng hộp</entry>
+              <entry>27.000</entry>
+              <entry>25.000</entry>
+              <entry>24.000</entry>
+              <entry>25.000</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22439782">- Xí nghiệp hiện có 30 công nhân sản xuất 25 ngày mỗi tháng, mỗi ngày làm việc 1 ca 8 giờ; chi phí trả công một giờ lao động trong điều kiện nầy là 6.000 đồng. Nếu yêu cầu công nhân làm thêm giờ thì lương ngoài giờ là 8.000 đồng/giờ.</para>
+      <para id="id22439788">- Lượng hàng tồn kho tháng 12 năm trước để lại là 3.000 sản phẩm, lượng tồn kho an toàn là 500 sản phẩm; chi phí cho việc tồn trữ thành phẩm là 1.000 đồng/sản phẩm/tháng.</para>
+      <para id="id21875235">- Hao phí lao động để sản xuất một sản phẩm mất 15 phút. </para>
+      <para id="id21586011">- Chủ trương của xí nghiệp là đáp ứng đầy đủ nhu cầu, không để thiếu hụt hàng hóa. </para>
+      <para id="id21586020">Kế hoạch 1: Hãy xác định chi phí theo kế hoạch giữ mức sản xuất ổn định bằng năng lực sản xuất của xí nghiệp trong suốt thời gian lập kế hoạch. </para>
+      <para id="id22290160">Kế hoạch 2: Giả sử cuối tháng 2, xí nghiệp vừa tiếp nhận đơn đặt hàng bổ sung thêm 2.000 hộp (khách hàng đặt mua thêm) và sẽ giao hàng trong tháng 3. Hãy xác định chi phí theo kế hoạch giữ mức sản xuất ổn định trong trường hợp này. </para>
+      <para id="id21869752">Bài 13: Xí nghiệp xác định nhu cầu cung cấp sản phẩm trong 5 tuần tới như sau:</para>
+      <table id="id21651823" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Tuần</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm A</entry>
+              <entry>300</entry>
+              <entry>400</entry>
+              <entry>400</entry>
+              <entry>-</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm B</entry>
+              <entry>200</entry>
+              <entry>-</entry>
+              <entry>250</entry>
+              <entry>400</entry>
+              <entry>300</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22058584">Biết thêm các thông tin khác như sau:</para>
+      <table id="id21930247" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Chỉ tiêu</entry>
+              <entry>Sản phẩm A</entry>
+              <entry>Sản phẩm B</entry>
+            </row>
+            <row>
+              <entry>Tồn kho đầu kỳ (sản phẩm)</entry>
+              <entry>100</entry>
+              <entry>70</entry>
+            </row>
+            <row>
+              <entry>Tồn kho an toàn (sản phẩm)</entry>
+              <entry>20</entry>
+              <entry>15</entry>
+            </row>
+            <row>
+              <entry>Kích thước lô sản xuất (sản phẩm)</entry>
+              <entry>350</entry>
+              <entry>200</entry>
+            </row>
+            <row>
+              <entry>Thời gian sản xuất 1 sản phẩm (phút)</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c3">Năng lực sản xuất chung của xí nghiệp là 140 giờ/tuần</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22322875">Xác định lịch trình sản xuất chính?</para>
+      <para id="id22380804">Bài 14: Xí nghiệp xác định nhu cầu cung cấp sản phẩm trong 6 tuần tới như sau:</para>
+      <table id="id21934559" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Tuần</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm A</entry>
+              <entry>-</entry>
+              <entry>1.600</entry>
+              <entry>1.400</entry>
+              <entry>1.500</entry>
+              <entry>1.000</entry>
+              <entry>1.700</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm B</entry>
+              <entry>1.400</entry>
+              <entry>-</entry>
+              <entry>1.300</entry>
+              <entry>-</entry>
+              <entry>1.800</entry>
+              <entry>1.800</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21929649">Biết thêm các thông tin khác như sau:</para>
+      <table id="id21929656" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Chỉ tiêu</entry>
+              <entry>Sản phẩm A</entry>
+              <entry>Sản phẩm B</entry>
+            </row>
+            <row>
+              <entry>Tồn kho đầu kỳ (sản phẩm)</entry>
+              <entry>200</entry>
+              <entry>300</entry>
+            </row>
+            <row>
+              <entry>Tồn kho an toàn (sản phẩm)</entry>
+              <entry>200</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Kích thước lô sản xuất (sản phẩm)</entry>
+              <entry>800</entry>
+              <entry>500</entry>
+            </row>
+            <row>
+              <entry>Thời gian sản xuất 1 sản phẩm (phút)</entry>
+              <entry>5</entry>
+              <entry>1,6</entry>
+            </row>
+            <row>
+              <entry>Chi phí tồn trữ (đồng/sản phẩm/tuần)</entry>
+              <entry>300</entry>
+              <entry>200</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c3">Chi phí chuyển đổi máy móc thiết bị là 200.000 đồng/lần chuyển</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c3">Năng lực sản xuất chung của xí nghiệp là 140 giờ/tuần</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21572320">Xác định lịch trình sản xuất chính?</para>
+      <para id="id21572327">Bài 15: Xí nghiệp xác định nhu cầu cung cấp sản phẩm trong 6 tuần tới như sau:</para>
+      <table id="id21109250" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry>Tuần</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm A</entry>
+              <entry>4.000</entry>
+              <entry>4.200</entry>
+              <entry>-</entry>
+              <entry>5.000</entry>
+              <entry>3.000</entry>
+              <entry>-</entry>
+              <entry>8.000</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm B</entry>
+              <entry>800</entry>
+              <entry>-</entry>
+              <entry>600</entry>
+              <entry>800</entry>
+              <entry>-</entry>
+              <entry>1.000</entry>
+              <entry>500</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm C</entry>
+              <entry>-</entry>
+              <entry>500</entry>
+              <entry>400</entry>
+              <entry>-</entry>
+              <entry>300</entry>
+              <entry>600</entry>
+              <entry>400</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22382329">Biết thêm các thông tin khác như sau:</para>
+      <table id="id22379231" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Chỉ tiêu Sản phẩm </entry>
+              <entry>A</entry>
+              <entry>B</entry>
+              <entry>C</entry>
+            </row>
+            <row>
+              <entry>Tồn kho đầu kỳ (sản phẩm)</entry>
+              <entry>500</entry>
+              <entry>150</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Tồn kho an toàn (sản phẩm)</entry>
+              <entry>200</entry>
+              <entry>100</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>Kích thước lô sản xuất (sản phẩm)</entry>
+              <entry>1.000</entry>
+              <entry>500</entry>
+              <entry>300</entry>
+            </row>
+            <row>
+              <entry>Thời gian sản xuất 1 sản phẩm (phút)</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>Chi phí tồn trữ (đồng/sản phẩm/tuần)</entry>
+              <entry>200</entry>
+              <entry>400</entry>
+              <entry>500</entry>
+            </row>
+            <row>
+              <entry>CP chuyển đổi máy móc thiết bị vào: (đồng/lần) </entry>
+              <entry>100.000</entry>
+              <entry>150.000</entry>
+              <entry>200.000</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c4">Năng lực sản xuất chung của xí nghiệp là 100 giờ/tuần</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22154937">Xác định lịch trình sản xuất chính?</para>
+      <para id="id22154944">Bài 16: Một xí nghiệp sản xuất 2 loại sản phẩm A, B để tồn kho và phân phối dần. Hôm nay là ngày cuối cùng của kỳ kế hoạch đang sản xuất sản phẩm A, đơn vị chuẩn bị lên lịch trình sản xuất chính cho kỳ kế hoạch tới. Theo số liệu của phòng kinh doanh căn cứ vào các đơn đặt hàng, người ta xác định được nhu cầu của khách hàng trong 6 tuần tới như bảng sau. (ĐVT: sản phẩm)</para>
+      <table id="id21861344" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Sản phẩm</entry>
+              <entrytbl namest="c2" nameend="c7" cols="6">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c6">Tuần</entry>
+                  </row>
+                  <row>
+                    <entry>1</entry>
+                    <entry>2</entry>
+                    <entry>3</entry>
+                    <entry>4</entry>
+                    <entry>5</entry>
+                    <entry>6</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>A</entry>
+              <entry>40</entry>
+              <entry>-</entry>
+              <entry>120</entry>
+              <entry>170</entry>
+              <entry>240</entry>
+              <entry>240</entry>
+            </row>
+            <row>
+              <entry>B</entry>
+              <entry>200</entry>
+              <entry>100</entry>
+              <entry>-</entry>
+              <entry>160</entry>
+              <entry>160</entry>
+              <entry>120</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22384055">Hiện tại đơn vị còn tồn kho của tuần trước để lại là 60 sản phẩm A và 40 sản phẩm B, lượng tồn kho an toàn của A là 10 sản phẩm, của B là 20 sản phẩm. Hao phí thời gian để chế tạo được 1 sản phẩm hoàn chỉnh A mất 20 phút; B mất 10 phút. Kích thước lô sản phẩm A là 200 sản phẩm, B là 420 sản phẩm. Năng lực sản xuất tối đa của sản xuất là 70 giờ/tuần. Yêu cầu:</para>
+      <para id="id21863876">a. Xác định lịch trình sản xuất chính cho 2 loại sản phẩm trên. Công suất thực tế trong kỳ (6 tuần lễ) đạt được bao nhiêu %? </para>
+      <para id="id21863887">b. Giả sử chi phí chuyển đổi máy móc thiết bị là 200.000 đồng/lần chuyển, chi phí tồn trữ sản phẩm A là 1.000 đồng/sản phẩm/tuần, B là 1.200đồng/sản phẩm/tuần. Hãy xác định tổng chi phí của lịch trình sản xuất chính ở câu a. </para>
+      <para id="id22456925">Bài 17: Công ty Z chuyên sản xuất máy tính cầm tay và phân phối cho thị trường toàn quốc thông qua mạng lưới các nhà phân phối. Công ty đang xây dựng kế hoạch cho năm tới nhằm xác định số lượng sản phẩm mỗi loại cần sản xuất. Biết tiêu chuẩn lao động và tiêu chuẩn giờ máy cần thiết trong năm tới như sau: </para>
+      <table id="id21882857" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Sản phẩm</entry>
+              <entrytbl namest="c2" nameend="c5" cols="4">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c4">Số lượng ước tính (đơn vị)</entry>
+                  </row>
+                  <row>
+                    <entry>Quí 1</entry>
+                    <entry>Quí 2</entry>
+                    <entry>Quí 3</entry>
+                    <entry>Quí 4</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>Giờ lao động/sản phẩm</entry>
+              <entry>Giờ máy/Sản phẩm</entry>
+            </row>
+            <row>
+              <entry>Z1</entry>
+              <entry>13.000</entry>
+              <entry>19.500</entry>
+              <entry>15.400</entry>
+              <entry>23.500</entry>
+              <entry>7,95</entry>
+              <entry>5,77</entry>
+            </row>
+            <row>
+              <entry>Z2</entry>
+              <entry>6.500</entry>
+              <entry>8.700</entry>
+              <entry>7.200</entry>
+              <entry>10.000</entry>
+              <entry>6,56</entry>
+              <entry>4,10</entry>
+            </row>
+            <row>
+              <entry>Z3</entry>
+              <entry>12.500</entry>
+              <entry>23.500</entry>
+              <entry>16.500</entry>
+              <entry>25.000</entry>
+              <entry>3,22</entry>
+              <entry>2,55</entry>
+            </row>
+            <row>
+              <entry>Z4</entry>
+              <entry>8.700</entry>
+              <entry>12.200</entry>
+              <entry>10.500</entry>
+              <entry>15.750</entry>
+              <entry>4,90</entry>
+              <entry>3,15</entry>
+            </row>
+            <row>
+              <entry>Z5</entry>
+              <entry>4.500</entry>
+              <entry>6.000</entry>
+              <entry>4.900</entry>
+              <entry>7.000</entry>
+              <entry>3,11</entry>
+              <entry>2,10</entry>
+            </row>
+            <row>
+              <entry>Z6</entry>
+              <entry>11.500</entry>
+              <entry>14.700</entry>
+              <entry>12.800</entry>
+              <entry>16.500</entry>
+              <entry>2,60</entry>
+              <entry>1,50</entry>
+            </row>
+            <row>
+              <entry>Z7</entry>
+              <entry>10.500</entry>
+              <entry>14.000</entry>
+              <entry>11.500</entry>
+              <entry>17.500</entry>
+              <entry>2,20</entry>
+              <entry>1,21</entry>
+            </row>
+            <row>
+              <entry>Z8</entry>
+              <entry>25.500</entry>
+              <entry>33.500</entry>
+              <entry>27.500</entry>
+              <entry>38.500</entry>
+              <entry>0,56</entry>
+              <entry>0,79</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22067913">Yêu cầu: a. Tính số giờ lao động và số giờ máy cần thiết từng quí.</para>
+      <para id="id20989655">b. Vẽ đồ thị với các thông tin tính được ở phần câu a.</para>
+      <para id="id20989663">c. Giả sử số giờ máy là thích hợp và các công nhân làm việc 65 ngày mỗi quí. Hãy xác định lượng công nhân từng quí nếu chúng ta dùng các phương pháp tổng hợp sau đây:  Mức năng lực trung bình.</para>
+      <para id="id22495620"> Đáp ứng theo nhu cầu khách hàng.</para>
+    </section>
+  </content>
+</document>

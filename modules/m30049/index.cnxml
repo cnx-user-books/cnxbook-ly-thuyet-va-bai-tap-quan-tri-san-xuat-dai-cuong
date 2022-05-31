@@ -1,0 +1,2190 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tóm lược công thức và bài tập cuối chương</title>
+  <metadata>
+  <md:content-id>m30049</md:content-id><md:title>Tóm lược công thức và bài tập cuối chương</md:title>
+  <md:abstract/>
+  <md:uuid>5dc6eddc-e9d4-461a-9f1d-b9e11fe34866</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-867614152097">
+      <title>CÂU HỎI ÔN TẬP.</title>
+      <list id="id21593693" list-type="enumerated">
+        <item>Trình bày và giải thích các quan điểm giải quyết vấn đề tồn kho.</item>
+        <item>Phân tích các khuynh hướng chi phí? Chỉ ra khả năng có được một hệ thống tồn kho tối ưu.</item>
+        <item>Nêu ý nghĩa và hạn chế của giả thiết trong mô hình EOQ.</item>
+      </list>
+    </section>
+    <section id="id-967200097378">
+      <title>CÔNG THỨC ÁP DỤNG.</title>
+      <para id="id21573860"> Mô hình Lượng đặt hàng kinh tế cơ bản (EOQ)</para>
+      <para id="id22321681"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mi>D</m:mi><m:mtext>.</m:mtext><m:mi>S</m:mi></m:mrow><m:mi>H</m:mi></m:mfrac></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSup { size 8{*} } = sqrt { {  {2 "." D "." S}  over  {H} } } } {}</m:annotation></m:semantics></m:math>;
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>TC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>lk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>D</m:mi><m:mi>Q</m:mi></m:mfrac></m:mrow><m:mrow><m:mi>S</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>Q</m:mi><m:mn>2</m:mn></m:mfrac></m:mrow><m:mi>H</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{1} } =C rSub { size 8{ ital "dh"} } +C rSub { size 8{ ital "lk"} } = {  {D}  over  {Q} } S+ {  {Q}  over  {2} } H} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id21863066"> Mô hình EOQ cho các lô sản xuất (POQ):</para>
+      <para id="id22036762">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>Q</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:msqrt>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mi>D</m:mi>
+                            <m:mtext>.</m:mtext>
+                            <m:mi>S</m:mi>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mi>H</m:mi>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mfrac>
+                                <m:mi>d</m:mi>
+                                <m:mi>p</m:mi>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:msqrt>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>       ;           TC</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>C</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>dh</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:msub>
+                            <m:mi>C</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>lk</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mi>D</m:mi>
+                        <m:mi>Q</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>S</m:mi>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>Q</m:mi>
+                          <m:mo stretchy="false">(</m:mo>
+                          <m:mrow>
+                            <m:mi>p</m:mi>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mi>d</m:mi>
+                          </m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                        </m:mrow>
+                        <m:mn>2p</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi>H</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{Q= sqrt { {  {2 "." D "." S}  over  {H \( 1 -  {  {d}  over  {p} }  \) } } } "       ;           TC"=C rSub { size 8{"dh"} } +C rSub { size 8{ ital "lk"} } = {  {D}  over  {Q} } S+ {  {Q \( p - d \) }  over  {2p} } H} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id22324539"> Mô hình chiết khấu theo số lượng:</para>
+      <table id="id21022773" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c3">.Theo mô hình EOQ</entry>
+              <entry/>
+              <entry namest="c5" nameend="c7">Theo mô hình POQ</entry>
+            </row>
+            <row>
+              <entry>Q*</entry>
+              <entry>=</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                </m:mrow>
+                                <m:mi>H</m:mi>
+                              </m:mfrac>
+                            </m:msqrt>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>I</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>g</m:mi>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {2 "." D "." S}  over  {H} } } = sqrt { {  {2 "." D "." S}  over  {I "." g} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry/>
+              <entry>Q*</entry>
+              <entry>=</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>p</m:mi>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>H</m:mi>
+                                  <m:mo stretchy="false">(</m:mo>
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mi>d</m:mi>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:msqrt>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>p</m:mi>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>I</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>g</m:mi>
+                                  <m:mo stretchy="false">(</m:mo>
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mi>d</m:mi>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {2 "." D "." S "." p}  over  {H \( p - d \) } } } = sqrt { {  {2 "." D "." S "." p}  over  {I "." g \( p - d \) } } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>TC</entry>
+              <entry>=</entry>
+              <entry>Ctt + Cdh + Cvl</entry>
+              <entry/>
+              <entry>TC</entry>
+              <entry>=</entry>
+              <entry>Ctt + Cdh + Cvl</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>=</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mi>Q</m:mi>
+                              <m:mn>2</m:mn>
+                            </m:mfrac>
+                            <m:mrow>
+                              <m:mi>H</m:mi>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mfrac>
+                                <m:mi>D</m:mi>
+                                <m:mi>Q</m:mi>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mi>S</m:mi>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mi>D</m:mi>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mi>g</m:mi>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {Q}  over  {2} } H+ {  {D}  over  {Q} } S+D "." g} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry>=</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mi>Q</m:mi>
+                                <m:mo stretchy="false">(</m:mo>
+                                <m:mrow>
+                                  <m:mi>p</m:mi>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mi>d</m:mi>
+                                </m:mrow>
+                                <m:mo stretchy="false">)</m:mo>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                                <m:mtext>.</m:mtext>
+                                <m:mi>p</m:mi>
+                              </m:mrow>
+                            </m:mfrac>
+                            <m:mrow>
+                              <m:mi>H</m:mi>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mfrac>
+                                <m:mi>D</m:mi>
+                                <m:mi>Q</m:mi>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mi>S</m:mi>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mi>D</m:mi>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mi>g</m:mi>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {Q \( p - d \) }  over  {2 "." p} } H+ {  {D}  over  {Q} } S+D "." g} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21022551">Điểm đặt hàng lại:OP = d.t(t - Thời gian chờ nhận hàng)</para>
+      <para id="id22225030">Với:D - Nhu cầu hàng năm;d - Nhu cầu ngày</para>
+      <para id="id22222212">S - Chi phí đặt hàng mỗi lần;H - Chi phí tồn trữ một đơn vị hàng năm</para>
+      <para id="id22222225">Q - Lượng đặt hàng;p - Mức sản xuất.</para>
+      <para id="id21912138">I - Tỷ lệ % chi phí tồn trữ;g - Giá mua vật liệu</para>
+    </section>
+    <section id="id-10032974302">
+      <title>BÀI TẬP CÓ LỜI GIẢI.</title>
+      <para id="id22370765">Bài 1: Công ty E.V chuyên mua bán máy tính tay cá nhân. Mỗi lần đặt hàng công ty tốn chi phí là 4.500.000 đồng/đơn hàng. Chi phí tồn trữ hàng năm là 1.700.000 đồng/sản phẩm/năm. Các nhà quản trị hàng tồn kho của công ty ước lượng nhu cầu hàng năm là 1.200 sản phẩm. Xác định lượng đặt hàng tối ưu để đạt tổng chi phí tồn trữ là tối thiểu.</para>
+      <section id="id-108648104742">
+        <title>Lời giải</title>
+        <para id="id22475083"> Theo thông tin đề bài ta có: </para>
+        <para id="id21931879">D = 1.200 sản phẩm; S = 4.500.000 đồng; H = 1.700.000 đồng</para>
+        <para id="id22135920"> Trước tiên ta xác định lượng đặt hàng tối ưu cho mỗi lần đặt.</para>
+        <para id="id22135933">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>Q</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msqrt>
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                                <m:mtext>.</m:mtext>
+                                <m:mi>D</m:mi>
+                                <m:mtext>.</m:mtext>
+                                <m:mi>S</m:mi>
+                              </m:mrow>
+                              <m:mi>H</m:mi>
+                            </m:mfrac>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:msqrt>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msqrt>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                                <m:mo stretchy="false">∗</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                              <m:mrow>
+                                <m:mtext>200</m:mtext>
+                                <m:mo stretchy="false">∗</m:mo>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>500</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>000</m:mtext>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>700</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>000</m:mtext>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:msqrt>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>79</m:mtext>
+                      </m:mrow>
+                      <m:mi>,</m:mi>
+                      <m:mn>7</m:mn>
+                      <m:mtext> saín pháøm</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q= sqrt { {  {2 "." D "." S}  over  {H} } ={}}  sqrt { {  {2*1 "." "200"*4 "." "500" "." "000"}  over  {1 "." "700" "." "000"} } } ="79",7" saín pháøm"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id22028339"> Tiếp theo ta tính tổng chi phí thực hiện là:</para>
+        <para id="id22162191">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>TC</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mrow>
+                                    <m:msub>
+                                      <m:mi>C</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mstyle fontstyle="italic">
+                                            <m:mrow>
+                                              <m:mtext>dh</m:mtext>
+                                            </m:mrow>
+                                          </m:mstyle>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:msub>
+                                      <m:mi>C</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mstyle fontstyle="italic">
+                                            <m:mrow>
+                                              <m:mtext>lk</m:mtext>
+                                            </m:mrow>
+                                          </m:mstyle>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                  </m:mrow>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mfrac>
+                                  <m:mi>D</m:mi>
+                                  <m:mi>Q</m:mi>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mi>S</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mfrac>
+                                  <m:mi>Q</m:mi>
+                                  <m:mn>2</m:mn>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mi>H</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mtext/>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>200</m:mtext>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mtext>79</m:mtext>
+                              <m:mi>,</m:mi>
+                              <m:mn>7</m:mn>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mn>4</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>500</m:mtext>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mtext>000</m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>79</m:mtext>
+                              <m:mi>,</m:mi>
+                              <m:mn>7</m:mn>
+                            </m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>700</m:mtext>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mtext>000</m:mtext>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>135</m:mtext>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>499</m:mtext>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>100</m:mtext>
+                        <m:mtext> âäöng</m:mtext>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ ital "TC"=C rSub { size 8{ ital "dh"} } +C rSub { size 8{ ital "lk"} } = {  {D}  over  {Q} } S+ {  {Q}  over  {2} } H}  {} # 
+"      "= {  {1 "." "200"}  over  {"79",7} } 4 "." "500" "." "000"+ {  {"79",7}  over  {2} } 1 "." "700" "." "000"="135" "." "499" "." "100"" âäöng" {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21689340">Bài 2: Một nhà sản xuất nhận được bảng báo giá về chi tiết X của nhà cung ứng như sau:</para>
+        <table id="id22455536" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Lượng đặt mua</entry>
+                <entry>1-199</entry>
+                <entry>200-599</entry>
+                <entry>trên 600</entry>
+              </row>
+              <row>
+                <entry>Đơn giá (đồng)</entry>
+                <entry>65.000</entry>
+                <entry>59.000</entry>
+                <entry>56.000</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id21882058">Biết mức sử dụng trung bình của chi tiết X hàng năm là 700 chi tiết, chi phí tồn trữ là 14.000 đồng/chi tiết/năm và mỗi lần đặt hàng nhà sản xuất tốn một khoản chi phí là 275.000 đồng. Hỏi nhà sản xuất nên phải đặt hàng là bao nhiêu để được hưởng lợi ích nhiều nhất theo bảng chiết khấu trên.</para>
+      </section>
+      <section id="id-929279958201">
+        <title>Lời giải</title>
+        <para id="id22163826"> Trước tiên, xác định lượng đặt hàng tối ưu theo mô hình EOQ</para>
+        <para id="id22048552">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>Q</m:mi>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                </m:mrow>
+                                <m:mi>H</m:mi>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:msqrt>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                    <m:mo stretchy="false">∗</m:mo>
+                                    <m:mtext>700</m:mtext>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mtext>275</m:mtext>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>000</m:mtext>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mtext>14</m:mtext>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>000</m:mtext>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:msqrt>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>165</m:mtext>
+                      </m:mrow>
+                      <m:mi>,</m:mi>
+                      <m:mtext>83</m:mtext>
+                      <m:mtext> chi tiãút</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q= sqrt { {  {2 "." D "." S}  over  {H} } } = sqrt { {  {2*"700"*"275" "." "000"}  over  {"14" "." "000"} } } ="165","83"" chi tiãút"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21929570">Như vậy lượng đặt hàng nằm trong mức chiết khấu 1, nên ta xác định tổng chi phí ứng với trường hợp này là:</para>
+        <para id="id22373480">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>TC</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:msub>
+                                        <m:mi>C</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mstyle fontstyle="italic">
+                                              <m:mrow>
+                                                <m:mtext>dh</m:mtext>
+                                              </m:mrow>
+                                            </m:mstyle>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msub>
+                                      <m:mo stretchy="false">+</m:mo>
+                                      <m:msub>
+                                        <m:mi>C</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mstyle fontstyle="italic">
+                                              <m:mrow>
+                                                <m:mtext>lk</m:mtext>
+                                              </m:mrow>
+                                            </m:mstyle>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msub>
+                                    </m:mrow>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:msub>
+                                      <m:mi>C</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mstyle fontstyle="italic">
+                                            <m:mrow>
+                                              <m:mtext>vl</m:mtext>
+                                            </m:mrow>
+                                          </m:mstyle>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                  </m:mrow>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mfrac>
+                                  <m:mi>D</m:mi>
+                                  <m:mi>Q</m:mi>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mi>S</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mfrac>
+                                  <m:mi>Q</m:mi>
+                                  <m:mn>2</m:mn>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mi>H</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mi>D</m:mi>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                              <m:mi>g</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mtext/>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mtext>700</m:mtext>
+                            <m:mrow>
+                              <m:mtext>165</m:mtext>
+                              <m:mi>,</m:mi>
+                              <m:mtext>83</m:mtext>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mtext>275</m:mtext>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mtext>000</m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>165</m:mtext>
+                              <m:mi>,</m:mi>
+                              <m:mtext>83</m:mtext>
+                            </m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mtext>14</m:mtext>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mtext>000</m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow>
+                            <m:mtext>700</m:mtext>
+                            <m:mo stretchy="false">∗</m:mo>
+                            <m:mtext>65</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mtext>000</m:mtext>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>47</m:mtext>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>821</m:mtext>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>000</m:mtext>
+                        <m:mtext> âäöng</m:mtext>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ ital "TC"=C rSub { size 8{ ital "dh"} } +C rSub { size 8{ ital "lk"} } +C rSub { size 8{ ital "vl"} } = {  {D}  over  {Q} } S+ {  {Q}  over  {2} } H+D "." g}  {} # 
+"      "= {  {"700"}  over  {"165","83"} } "275" "." "000"+ {  {"165","83"}  over  {2} } "14" "." "000"+"700"*"65" "." "000"="47" "." "821" "." "000"" âäöng" {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id22157419"> Kế đến ta tính chi phí ứng với kích thước đơn hàng theo mức giá thứ 2 là</para>
+        <para id="id21928857">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>TC</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mtext>700</m:mtext>
+                          <m:mtext>200</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mtext>275</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mtext>200</m:mtext>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mtext>14</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mrow>
+                          <m:mtext>700</m:mtext>
+                          <m:mo stretchy="false">∗</m:mo>
+                          <m:mtext>59</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>43</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>662</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>500</m:mtext>
+                      <m:mtext> âäöng</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{2} } = {  {"700"}  over  {"200"} } "275" "." "000"+ {  {"200"}  over  {2} } "14" "." "000"+"700"*"59" "." "000"="43" "." "662" "." "500"" âäöng"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id22270592"> Cuối cùng ta tính chi phí ứng với mức khấu trừ thứ 3 là:</para>
+        <para id="id22335792">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>TC</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mtext>700</m:mtext>
+                          <m:mtext>600</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mtext>275</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mtext>600</m:mtext>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mtext>14</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mrow>
+                          <m:mtext>700</m:mtext>
+                          <m:mo stretchy="false">∗</m:mo>
+                          <m:mtext>56</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>43</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>720</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>830</m:mtext>
+                      <m:mtext> âäöng</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{3} } = {  {"700"}  over  {"600"} } "275" "." "000"+ {  {"600"}  over  {2} } "14" "." "000"+"700"*"56" "." "000"="43" "." "720" "." "830"" âäöng"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21773156">Ta nhận thấy tổng chi phí khi đặt hàng theo mức Q = 200 chi tiết thì tổng chi phí của tồn kho sẽ thấp nhất. Vậy ta chọn mức này để đặt hàng.</para>
+        <para id="id22114066">Bài 3: Khách sạn Sao đêm có chủ trương cung cấp cho khách hàng của họ các hộp xà bông tắm mỗi khi khách thuê phòng. Lượng sử dụng hàng năm của loại xà bông tắm này là 2.000 hộp. Mỗi lần đặt hàng, khách sạn phải chịu khoản chi phí là 10.000 đồng, bất kể số lượng đặt hàng mỗi lần là bao nhiêu. Có khoảng 5% lượng xà bông bị thất thoát và hư hỏng mỗi năm do những điều kiện khác nhau, thêm vào đó khách sạn còn chi khoản 15% đơn giá cho việc tồn trữ. Hãy xác định lượng xà bông tối ưu cho mỗi lần đặt hàng, nếu biết đơn giá mỗi hộp xà bông là 5.000 đồng.</para>
+        <para id="id21638085">Lời giải</para>
+        <para id="id22221843"> Trước tiên, ta xác định chi phí tồn trữ bao gồm cả khoản tổn thất trong thời gian dự trữ. Do đó chi phí tồn trữ phát sinh là: </para>
+        <para id="id21538938">H = 5.000(5%+15%) = 1.000đồng/hộp/năm</para>
+        <para id="id21538946"> Lượng đặt hàng tối ưu cho mỗi lần đặt là:</para>
+        <para id="id21088111">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>Q</m:mi>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                </m:mrow>
+                                <m:mi>H</m:mi>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:msqrt>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mrow>
+                                  <m:mtext>000</m:mtext>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mtext>10</m:mtext>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>000</m:mtext>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>000</m:mtext>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:msqrt>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>200</m:mtext>
+                      </m:mrow>
+                      <m:mtext> häüp</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q= sqrt { {  {2 "." D "." S}  over  {H} } } = sqrt { {  {2*2 "." "000"*"10" "." "000"}  over  {1 "." "000"} } } ="200"" häüp"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21839210"> Tính tổng chi phí cho hàng tồn kho phát sinh hàng năm:</para>
+        <para id="id21639082">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>TC</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:msub>
+                                        <m:mi>C</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mstyle fontstyle="italic">
+                                              <m:mrow>
+                                                <m:mtext>dh</m:mtext>
+                                              </m:mrow>
+                                            </m:mstyle>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msub>
+                                      <m:mo stretchy="false">+</m:mo>
+                                      <m:msub>
+                                        <m:mi>C</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mstyle fontstyle="italic">
+                                              <m:mrow>
+                                                <m:mtext>lk</m:mtext>
+                                              </m:mrow>
+                                            </m:mstyle>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msub>
+                                    </m:mrow>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:msub>
+                                      <m:mi>C</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mstyle fontstyle="italic">
+                                            <m:mrow>
+                                              <m:mtext>vl</m:mtext>
+                                            </m:mrow>
+                                          </m:mstyle>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                  </m:mrow>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mfrac>
+                                  <m:mi>D</m:mi>
+                                  <m:mi>Q</m:mi>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mi>S</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mfrac>
+                                  <m:mi>Q</m:mi>
+                                  <m:mn>2</m:mn>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mi>I</m:mi>
+                              <m:mtext>.</m:mtext>
+                              <m:mrow>
+                                <m:mi>g</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mi>D</m:mi>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                              <m:mi>g</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mtext/>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>000</m:mtext>
+                            </m:mrow>
+                            <m:mtext>200</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mi>x</m:mi>
+                        <m:mtext>10</m:mtext>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mtext>000</m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mfrac>
+                            <m:mtext>200</m:mtext>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mtext>20</m:mtext>
+                        <m:mo stretchy="false">x</m:mo>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mtext>000</m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>000</m:mtext>
+                        <m:mi fontstyle="italic">x5</m:mi>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mtext>000</m:mtext>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>10</m:mtext>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>200</m:mtext>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>000</m:mtext>
+                        <m:mtext> âäöng</m:mtext>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ ital "TC"=C rSub { size 8{ ital "dh"} } +C rSub { size 8{ ital "lk"} } +C rSub { size 8{ ital "vl"} } = {  {D}  over  {Q} } S+ {  {Q}  over  {2} } I "." g+D "." g}  {} # 
+"      "= {  {2 "." "000"}  over  {"200"} } x"10" "." "000"+ {  {"200"}  over  {2} } "20"%x5 "." "000"+2 "." "000"x5 "." "000"="10" "." "200" "." "000"" âäöng" {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21645990">Bài 4: Một công ty chuyên sản xuất chuồng gà công nghiệp cho các nhà chăn nuôi gà trên toàn quốc. Nhu cầu hàng năm của loại chuồng gà đẻ là 100.000 chuồng. Tuy cũng sản xuất các chi tiết giống nhau nhưng khi chuyển đổi loạt sản xuất từ kiểu chuồng gà thịt sang kiểu chuồng gà đẻ hoặc ngược lại thì tốn khoản chi phí là 100.000 đồng. Chi phí sản xuất (giá thành sản phẩm) mỗi chuồng gà là 40.000 đồng, chi phí tồn trữ là 25% chi phí sản xuất cho mỗi chuồng/năm. Nếu mức cung cấp của công ty hiện tại là 1.000 chuồng/ngày thì kích thước lô sản xuất tối ưu là bao nhiêu, biết số ngày làm việc trong năm của công ty là 250 ngày.</para>
+        <para id="id22058812">Lời giải</para>
+        <para id="id22058816"> Theo thông tin đề bài ta có giá trị của các chỉ tiêu:</para>
+        <para id="id21047294">Chi phí tồn trữH = 40.000*25% = 10.000 đồng/năm</para>
+        <para id="id21047306">Chi phí đặt hàngS = 100.000 đồng/đơn hàng</para>
+        <para id="id21935075">Nhu cầu hàng nămD = 100.000 chuồng/năm</para>
+        <para id="id22145584">Nhu cầu hàng ngàyd = 100.000chuồng/250ngày = 400 chuồng/ngày</para>
+        <para id="id21876084">Mức sản xuất hàng ngày p = 1.000 chuồng/ngày</para>
+        <para id="id21537697"> Dựa trên các chỉ tiêu, ta xác định kích thức lô hàng tối ưu cho mỗi loạt sản xuất.</para>
+        <para id="id22446669">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>Q</m:mi>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>p</m:mi>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>H</m:mi>
+                                  <m:mo stretchy="false">(</m:mo>
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mi>d</m:mi>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:msqrt>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mtext>100</m:mtext>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mrow>
+                                  <m:mtext>000</m:mtext>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mtext>100</m:mtext>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mrow>
+                                  <m:mtext>000</m:mtext>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>000</m:mtext>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mtext>10</m:mtext>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>000</m:mtext>
+                                <m:mo stretchy="false">(</m:mo>
+                                <m:mn>1</m:mn>
+                                <m:mtext>.</m:mtext>
+                                <m:mrow>
+                                  <m:mtext>000</m:mtext>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mtext>400</m:mtext>
+                                </m:mrow>
+                                <m:mo stretchy="false">)</m:mo>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:msqrt>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>825</m:mtext>
+                      <m:mi>,</m:mi>
+                      <m:mrow>
+                        <m:mtext>74</m:mtext>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>826</m:mtext>
+                      <m:mtext> chuäöng</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q= sqrt { {  {2 "." D "." S "." p}  over  {H \( p - d \) } } } = sqrt { {  {2*"100" "." "000"*"100" "." "000"*1 "." "000"}  over  {"10" "." "000" \( 1 "." "000" - "400" \) } } } =1 "." "825","74" approx 1 "." "826"" chuäöng"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21885831"> Tính tổng chi phí cho lượng hàng tồn kho phát sinh hàng năm.</para>
+        <para id="id21838062">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>TC</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>C</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>dh</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msub>
+                                <m:mi>C</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>lk</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:msub>
+                              <m:mi>C</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>vl</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mi>D</m:mi>
+                          <m:mi>Q</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>S</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mi>Q</m:mi>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mrow>
+                              <m:mi>p</m:mi>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>d</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                          <m:mn>2p</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mi>I</m:mi>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mi>g</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>D</m:mi>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mi>g</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "TC"=C rSub { size 8{ ital "dh"} } +C rSub { size 8{ ital "lk"} } +C rSub { size 8{ ital "vl"} } = {  {D}  over  {Q} } S+ {  {Q \( p - d \) }  over  {2p} } I "." g+D "." g} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id22270614">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>TC</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mtext>100</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>000</m:mtext>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>826</m:mtext>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mtext>100</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>826</m:mtext>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mn>1</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mrow>
+                              <m:mtext>000</m:mtext>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mtext>400</m:mtext>
+                            </m:mrow>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mn>2x1</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>000</m:mtext>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mtext>25</m:mtext>
+                      <m:mo stretchy="false">x</m:mo>
+                      <m:mtext>40</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>100</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>000</m:mtext>
+                      <m:mi>x</m:mi>
+                      <m:mtext>40</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mn>4</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>010</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>954</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>450</m:mtext>
+                      <m:mtext> âäöng</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "TC"= {  {"100" "." "000"}  over  {1 "." "826"} } x"100" "." "000"+ {  {1 "." "826" \( 1 "." "000" - "400" \) }  over  {2x1 "." "000"} } "25"%x"40" "." "000"+"100" "." "000"x"40" "." "000" approx 4 "." "010" "." "954" "." "450"" âäöng"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21591769">Bài 5: Một nhà cung ứng khoai tây gởi bảng chào hàng cho nhà hàng Bình Minh như sau:</para>
+        <table id="id22151938" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Lượng đặt mua (kg)</entry>
+                <entry>1-299</entry>
+                <entry>300-499</entry>
+                <entry>trên 500</entry>
+              </row>
+              <row>
+                <entry>Đơn giá (đồng/kg)</entry>
+                <entry>2.000</entry>
+                <entry>1.500</entry>
+                <entry>1.000</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id22022153">Nhu cầu hiện tại của nhà hàng trên là 5 tấn/năm và được đặt hàng mỗi tuần là 100kg (nhà hàng mở cửa 50 tuần/năm). Chi phí đặt hàng (chủ yếu là cước điện thoại) là 2.500 đồng cho mỗi lần đặt hàng, không phụ thuộc lượng hàng đặt là bao nhiêu. Chi phí tồn trữ ước lượng là 20% giá mua khoai tây.</para>
+        <para id="id22270616">Hỏi người ta nên đặt hàng là bao nhiêu để tối thiểu hóa chi phí tồn kho (giả sử khoai tây không ảnh hưởng trong thời gian tồn trữ).</para>
+        <para id="id21815814">Lời giải</para>
+        <para id="id21841551"> Bước 1, ta xác định lượng hàng tối ưu ứng với từng mức giá:</para>
+        <para id="id21841564">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msubsup>
+                              <m:mi>Q</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow/>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>I</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>g</m:mi>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:msqrt>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mn>5</m:mn>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mrow>
+                                  <m:mtext>000</m:mtext>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>500</m:mtext>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mtext>20</m:mtext>
+                                <m:mtext>%*</m:mtext>
+                                <m:mn>2</m:mn>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>000</m:mtext>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:msqrt>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>250</m:mtext>
+                      </m:mrow>
+                      <m:mtext> kg</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{1} }  rSup { size 8{*} } = sqrt { {  {2 "." D "." S}  over  {I "." g} } } = sqrt { {  {2*5 "." "000"*2 "." "500"}  over  {"20""%*"2 "." "000"} } } ="250"" kg"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id20989972">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msubsup>
+                              <m:mi>Q</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow/>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>I</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>g</m:mi>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:msqrt>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mn>5</m:mn>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mrow>
+                                  <m:mtext>000</m:mtext>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>500</m:mtext>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mtext>20</m:mtext>
+                                <m:mtext>%*</m:mtext>
+                                <m:mn>1</m:mn>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>500</m:mtext>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:msqrt>
+                        </m:mrow>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mtext>289</m:mtext>
+                      </m:mrow>
+                      <m:mtext> kg</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{2} }  rSup { size 8{*} } = sqrt { {  {2 "." D "." S}  over  {I "." g} } } = sqrt { {  {2*5 "." "000"*2 "." "500"}  over  {"20""%*"1 "." "500"} } }  approx "289"" kg"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msubsup>
+                              <m:mi>Q</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow/>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>I</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>g</m:mi>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:msqrt>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mn>5</m:mn>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mrow>
+                                  <m:mtext>000</m:mtext>
+                                  <m:mo stretchy="false">∗</m:mo>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>500</m:mtext>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mtext>20</m:mtext>
+                                <m:mtext>%*</m:mtext>
+                                <m:mn>1</m:mn>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>000</m:mtext>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:msqrt>
+                        </m:mrow>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mtext>354</m:mtext>
+                      </m:mrow>
+                      <m:mtext> kg</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{3} }  rSup { size 8{*} } = sqrt { {  {2 "." D "." S}  over  {I "." g} } } = sqrt { {  {2*5 "." "000"*2 "." "500"}  over  {"20""%*"1 "." "000"} } }  approx "354"" kg"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id22114161"> Bước 2, ta điều chỉnh Q* cho phù hợp với giá ở từng mức khấu trừ:</para>
+        <para id="id21000458"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">=</m:mo><m:mtext>250</m:mtext></m:mrow><m:mtext> kg</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{1} }  rSup { size 8{*} } ="250"" kg"} {}</m:annotation></m:semantics></m:math> là phù hợp; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">≈</m:mo><m:mtext>289</m:mtext></m:mrow><m:mtext> kg phaíi náng lãn täúi thiãøu laì 300 kg</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{2} }  rSup { size 8{*} }  approx "289"" kg phaíi náng lãn täúi thiãøu laì 300 kg"} {}</m:annotation></m:semantics></m:math>;</para>
+        <para id="id21639020">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msubsup>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msubsup>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mtext>354</m:mtext>
+                      </m:mrow>
+                      <m:mtext> kg phaíi náng lãn täúi thiãøu laì 500 kg</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{3} }  rSup { size 8{*} }  approx "354"" kg phaíi náng lãn täúi thiãøu laì 500 kg"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id22352696"> Bước 3, ta tính tổng chi phí ở từng mức khấu trừ. </para>
+        <para id="id21938899">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>TC</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>C</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>dh</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msub>
+                                <m:mi>C</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>tt</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:msub>
+                              <m:mi>C</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>mh</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mi>D</m:mi>
+                          <m:mi>Q</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>S</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mi>Q</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mi>I</m:mi>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mi>g</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>D</m:mi>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mi>g</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "TC"=C rSub { size 8{ ital "dh"} } +C rSub { size 8{ ital "tt"} } +C rSub { size 8{ ital "mh"} } = {  {D}  over  {Q} } S+ {  {Q}  over  {2} } I "." g+D "." g} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id20672574">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>TC</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>000</m:mtext>
+                          </m:mrow>
+                          <m:mtext>250</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>500</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mtext>250</m:mtext>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:mtext>20</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext/>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>10</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>100</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>000</m:mtext>
+                      <m:mtext> âäöng</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{1} } = {  {5 "." "000"}  over  {"250"} } 2 "." "500"+ {  {"250"}  over  {2} } 2 "." "000"*"20"%+5 "." "000"*2 "." "000"="10" "." "100" "." "000"" âäöng"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21995221">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>TC</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>000</m:mtext>
+                          </m:mrow>
+                          <m:mtext>300</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>500</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mtext>300</m:mtext>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>500</m:mtext>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:mtext>20</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext/>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>500</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>7</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>586</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>700</m:mtext>
+                      <m:mtext> âäöng</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{2} } = {  {5 "." "000"}  over  {"300"} } 2 "." "500"+ {  {"300"}  over  {2} } 1 "." "500"*"20"%+5 "." "000"*1 "." "500"=7 "." "586" "." "700"" âäöng"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id21936710">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>TC</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>000</m:mtext>
+                          </m:mrow>
+                          <m:mtext>500</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>500</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mtext>500</m:mtext>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:mtext>20</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext/>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>000</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>075</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>000</m:mtext>
+                      <m:mtext> âäöng</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{3} } = {  {5 "." "000"}  over  {"500"} } 2 "." "500"+ {  {"500"}  over  {2} } 1 "." "000"*"20"%+5 "." "000"*1 "." "000"=5 "." "075" "." "000"" âäöng"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id22382926">Sau khi so sánh tổng chi phí ở 3 mức khấu trừ, chúng ta chọn phương án đặt hàng là 500 kg cho mỗi lần đặt hàng, khi đó tổng chi phí sẽ thấp nhất và bằng 5.075.000 đồng/năm.</para>
+      </section>
+    </section>
+    <section id="id-89644612656">
+      <title>BÀI TẬP TỰ GIẢI:</title>
+      <para id="id22291420">Bài 6: Một siêu thị có nhu cầu hàng năm về sản phẩm A là 40.000 sản phẩm. Chi phí đặt hàng là 250.000 đồng/đơn hàng, không kể số lượng đặt hàng là bao nhiêu; chi phí tồn trữ là 20% đơn giá sản phẩm. Sản phẩm A được cung cấp với giá 100.000 đồng/sản phẩm. Hỏi người ta đặt hàng mỗi lần là bao nhiêu sản phẩm để tối thiểu hóa tổng chi phí tồn kho?</para>
+      <para id="id21614354">Giả sử thời gian để thực hiện đơn hàng là 2 ngày, thời gian làm việc trong năm là 250 ngày. Xác định điểm đặt hàng lại của sản phẩm trên?</para>
+      <para id="id21935717">Bài 7: Một công ty có nhu cầu sản xuất về sản phẩm C hàng năm là 5.000 sản phẩm. Đơn giá của sản phẩm này là 100.000 đồng/sản phẩm và chi phí tồn trữ là 20% đơn giá của nó. Chi phí chuyển đổi sản xuất là 200.000 đồng cho mỗi lần chuyển đổi lô sản xuất. Mức sản xuất hiện tại là 20.000 sản phẩm/năm. Hỏi, nên sản xuất theo lô cỡ nào để tối thiểu hóa chi phí (mỗi năm làm việc 250 ngày).</para>
+      <para id="id21935725">Bài 8: Nhà cung cấp dầu hỏa X gởi đến công ty Lửa Đỏ chuyên kinh doanh dầu hỏa bảng giá chiết khấu như sau:</para>
+      <table id="id22370717" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Lượng đặt mua (thùng)</entry>
+              <entry>1-999</entry>
+              <entry>1.000-2.999</entry>
+              <entry>trên 3.000</entry>
+            </row>
+            <row>
+              <entry>Đơn giá (1.000 đồng/thùng)</entry>
+              <entry>200</entry>
+              <entry>180</entry>
+              <entry>175</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22042238">Nếu chi phí tồn trữ là 25% đơn giá và phải tốn 1 triệu đồng cho mỗi lần đặt hàng, không kể số lượng đặt hàng mỗi lần là bao nhiêu. Theo bạn, công ty nên đặt hàng mỗi lần bao nhiêu thùng để hưởng lợi ích do mức chiết khấu trên, nếu biết nhu cầu hàng năm là 10.000 thùng.</para>
+      <para id="id22042244">Bài 9: Công ty G sản xuất phân, một loại nguyên liệu thô cần được sử dụng với số lượng lớn cho sản xuất ở năm tới theo dự báo là 2,5 triệu tấn. Nếu giá của nguyên liệu này là 1,225 triệu đồng/tấn, chi phí tồn trữ là là 35% chi phí đơn vị nguyên liệu và chi phí đặt hàng là 15,95 triệu đồng/đơn hàng. Yêu cầu:</para>
+      <para id="id21643472">a. Công ty nên mua với số lượng nào? Chi phí tồn kho hàng năm là bao nhiêu ?</para>
+      <para id="id22370745">b. Thời gian cách quảng giữa 2 lần đặt hàng ? nếu biết công ty làm việc 300 ngày trong năm.</para>
+      <para id="id22371699">Bài 10: Đơn vị A có nhu cầu về tiền mặt cho kho quỹ của họ để giao dịch hằng ngày. Nếu đơn vị ước lượng 250 tỉ đồng được cần đến vào năm tới, chi phí cho từng lần rút tiền từ ngân hàng về tiền mặt là 2,65 triệu đồng (bao gồm cả chi phí cho việc văn phòng, áp tải vận chuyển) và chi phí cho việc bảo quản tiền mặt nhàn rổi không dùng đến là 0,008 (đồng/năm). Yêu cầu:</para>
+      <para id="id22232237">a) Lượng tiền mặt của đơn vị A cần cho từng lần rút là bao nhiêu ?</para>
+      <para id="id22232249">b) Tổng chi phí việc tồn kho hàng năm là bao nhiêu cho kết quả phần a ?</para>
+      <para id="id21074512">c) Thời gian cách quảng giữa 2 lần đặt hàng, biết thời gian làm việc trong năm là 260 ngày và tiền mặt đặt ở mức Q*.</para>
+      <para id="id21074522">Bài 11: Doanh nghiệp tư nhân X bán lẻ hóa chất diệt côn trùng. Sản phẩm này được đặt từ nhà buôn sỉ với giá 120.000 đồng/kg, nhu cầu cho năm tới ước lượng là 50 tấn. Nếu doanh nghiệp đặt hàng dưới 7,5 tấn/đơn hàng, thì chi phí tồn trữ là 35% đơn giá mua/năm và chi phí đặt hàng là 15,05 triệu đồng/đơn hàng. Nếu doanh nghiệp đặt nhiều hơn 7,5 tấn thì chi phí tồn trữ giảm xuống còn 25% đơn giá mua/năm, nhưng chi phí đặt hàng tăng thành 25,75 triệu đồng/đơn hàng do chi phí vận chuyển phụ trội. Vậy doanh nghiệp nên đặt bao nhiêu hàng cho một đơn hàng ?</para>
+      <para id="id21864101">Bài 12: Mức sản xuất của dây chuyền lắp ráp thành phẩm là 800 đĩa CD/ngày. Sau khi lắp ráp xong, các đĩa này đi thẳng vào kho thành phẩm. Biết nhu cầu của khách hàng trung bình là 400 đĩa CD/ngày và khoảng 50.000 đĩa CD/năm, nếu việc vận hành dây chuyền lắp ráp tốn 5 triệu đồng và chi phí cho việc tồn trữ là 10.000đồng/đĩa CD/năm.</para>
+      <para id="id22169716">a) Nên sản xuất đĩa CD theo lô lớn cỡ bao nhiêu ở dây chuyền lắp ráp thành phẩm?</para>
+      <para id="id22166849">b) Tính tổng chi phí ở mức sản xuất tối ưu?</para>
+      <para id="id22166857">Bài 13: Một công ty tinh chế dầu mua dầu thô theo hợp đồng cung cấp dài hạn với giá 225.000 đồng/thùng. Việc vận chuyển dầu thô đến nhà máy được thực hiện với số lượng 10.000 thùng/ngày, nhà máy chỉ sử dụng ở mức 5.000 thùng/ngày và định mua 500.000 thùng dầu thô vào năm tới. Nếu chi phí cho việc tồn trữ hàng là 25% đơn giá mua/năm và chi phí đặt hàng cho một đơn hàng là 75 triệu đồng.</para>
+      <para id="id22139980">Tính lượng hàng tối ưu cho đơn hàng và tổng chi phí đơn hàng này là bao nhiêu?</para>
+      <para id="id21882959">Bài 14: Một nhà buôn sỉ cung cấp vật liệu xây dựng bán các loại cửa nhôm. Loại cửa thông dụng hiện nay được ước lượng có nhu cầu ở năm tới là 50.000 cửa. Chi phí đặt và nhận hàng cho một đơn hàng là 2 triệu đồng, chi phí cho việc tồn trữ là 30% đơn giá mua. Nhà cung cấp đưa ra bảng giá chiết khấu loại cửa này như sau: </para>
+      <table id="id22292451" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Lượng đặt mua (sản phẩm)</entry>
+              <entry>1-999</entry>
+              <entry>1.000-1.999</entry>
+              <entry>trên 2.000</entry>
+            </row>
+            <row>
+              <entry>Đơn giá (đồng/sản phẩm)</entry>
+              <entry>450.000</entry>
+              <entry>390.000</entry>
+              <entry>350.000</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21838359">a. Tính lượng hàng tối ưu và tổng chi phí là bao nhiêu ?</para>
+      <para id="id22181877">b. Thời gian cách quảng giữa 2 lần đặt hàng, nếu biết thời gian làm việc trong năm là 300 ngày.</para>
+      <para id="id22181886">Bài 15: Nhu cầu hàng năm về loại sản phẩm A là 150.000 sản phẩm, chi phí đặt hàng cho mỗi đơn hàng là 1 triệu đồng, chi phí cho việc tồn trữ hàng năm là 15% đơn giá, mức sản xuất sản phẩm A là 600 sản phẩm/ngày và mức tiêu thụ là 300 sản phẩm/ngày. Nếu đơn vị nhận hàng từ 1-5.999 sản phẩm/đơn hàng thì bán giá 150.000 đồng/sản phẩm, nếu nhận từ 6.000-9.999 sản phẩm thì bán với giá 130.000 đồng/ sản phẩm, nếu nhận trên 10.000 sản phẩm thì bán với giá 100.000 đồng/ sản phẩm . Xác định lượng đặt hàng tối ưu và tính tổng chi phí là bao nhiêu.</para>
+      <para id="id20989990">Bài 16: Một công ty có nhu cầu về sản phẩm A là 10.000 sản phẩm. Công ty phải đặt hàng từ nhà cung cấp với chi phí đặt hàng là 1,0 triệu đồng/lần, chi phí cho việc lưu trữ hàng hoá là 120 đồng/tháng.</para>
+      <para id="id21890674">a. Tính lượng đặt hàng tối ưu và tổng chi phí tồn trữ phát sinh hàng năm.</para>
+      <para id="id21666944">b. Nếu nhu cầu giảm 20% thì lượng đặt hàng và tổng chi phí thay đổi như thế nào.</para>
+      <para id="id21666951">c. Nếu chi phí tồn trữ giảm 15% thì lượng đặt hàng và tổng chi phí thay đổi như thế nào.</para>
+      <para id="id21019831">d. Nếu chi phí đặt hàng giảm 15% thì lượng đặt hàng và tổng chi phí thay đổi như thế nào.</para>
+      <para id="id21019839">Bài 17: Nhu cầu về một loại sản phẩm của công ty C hàng năm là 42.000 sản phẩm. Chi phí đặt hàng là 2,5 triệu đồng/đơn hàng, chi phí tồn trữ cho một sản phẩm mỗi tháng mất 2% giá mua hàng hoá, biết giá mua mỗi sản phẩm là 30.000 đồng/sản phẩm. Thời gian đặt hàng mất trung bình 12 ngày, thời gian làm việc mỗi năm là 300 ngày. Hiện tại công ty đang đặt hàng với số lượng là 8.000 sản phẩm/đơn hàng.</para>
+      <para id="id21643278">a. Tính tổng chi phí tồn kho theo chính sách công ty đang áp dụng là bao nhiêu.</para>
+      <para id="id21878903">b. Hãy xác định lượng đặt hàng tối ưu và tổng chi phí tồn kho phát sinh hàng năm là bao nhiêu.</para>
+      <para id="id21878912">c. Xác định điểm đặt hàng lại và thời gian cách quảng giữa 2 lần đặt hàng.</para>
+    </section>
+  </content>
+</document>

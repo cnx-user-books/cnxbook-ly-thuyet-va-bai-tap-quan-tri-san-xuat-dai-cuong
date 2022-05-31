@@ -1,0 +1,1754 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hoạch định tồn kho</title>
+  <metadata>
+  <md:content-id>m30483</md:content-id><md:title>Hoạch định tồn kho</md:title>
+  <md:abstract>Chính sách tồn kho rất quan trọng khiến cho các nhà quản lý sản xuất, quản lý marketing và quản lý tài chính phải làm việc cùng nhau để đạt được sự thống nhất. Có nhiều quan điểm khác nhau về chính sách tồn kho, để có sự cân bằng các mục tiêu khác nhau như: giảm chi phí sản xuất, giảm chi phí tồn kho và tăng khả năng đáp ứng nhu cầu cho khách hàng. Chương này sẽ giải quyết các quan điểm đối chọi nhau để thiết lập chính sách tồn kho. Chúng ta khảo sát về bản chất của tồn kho và các công việc bên trong hệ thống tồn kho, xây dựng những vấn đề cơ bản trong hoạch định tồn kho và kỹ thuật phân tích một số vấn đề tồn kho.</md:abstract>
+  <md:uuid>0d456c47-6ab0-4219-ac7e-bf37b63741b4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-272405552369">
+      <title>MỘT SỐ KHÁI NIỆM LIÊN QUAN ĐẾN TỒN KHO:</title>
+      <section id="id-214948290875">
+        <title>Hệ thống tồn kho:</title>
+        <para id="id20897666">Một hệ thống tồn kho có là một tập hợp các thủ thục xác định lượng hàng hoá tồn kho sẽ được bổ sung mỗi lần bao nhiêu, thời điểm nào, các máy móc thiết bị, nhân sự thực hiện các thủ tục một cách có hiệu quả.</para>
+        <para id="id20897681">Mỗi hệ thống tồn kho bao giờ cũng yêu cầu những phí tổn để vận hành nó. Phí tổn đó phụ thuộc vào:</para>
+        <para id="id20897691"> Phương pháp kiểm soát hàng hoá tồn kho;</para>
+        <para id="id20897702"> Qui mô của việc phục vụ khách hàng hay khả năng chống lại sự cạn lượng dự trữ trong thời gian đặt hàng;</para>
+        <para id="id20897720"> Số lượng hàng tồn kho bổ sung mỗi lần đặt;</para>
+        <para id="id20897732">Hệ thống tồn kho hiệu quả sẽ làm giảm tối thiểu các khoản chi phí thông qua việc lựa chọn phương pháp kiểm soát tồn kho và tính toán hợp lý các thông số cơ bản của hệ thống tồn kho.</para>
+      </section>
+      <section id="id-639525133235">
+        <title>Các quan điểm khác nhau về lượng tồn kho.</title>
+        <para id="id20897755">Tồn kho là cần thiết trên các phương diện sau:</para>
+        <para id="id20897762"> Tồn kho để giảm thời gian cần thiết đáp ứng nhu cầu;</para>
+        <para id="id20897775"> Làm ổn định mức sản xuất của đơn vị trong khi nhu cầu biến đổi;</para>
+        <para id="id20838679"> Bảo vệ đơn vị trước những dự báo thấp về nhu cầu.</para>
+        <para id="id20838691">Trên một khía cạnh khác, tồn kho bao giờ cũng được coi là nguồn nhàn rỗi, do đo khi tồn kho càng cao thì càng gây ra sự lãng phí. Vậy bao nhiêu tồn kho là hợp lý?</para>
+        <para id="id20838704"> Các nhà quản trị tài chính muốn giữ mức tồn kho thấp và sản xuất mềm dẻo để doanh nghiệp có thể đáp ứng nhu cầu nhưng sẽ hạ thấp mức đầu tư vào hàng tồn kho. Thực tế, tồn kho như một lớp đệm lót giữa nhu cầu và khả năng sản xuất. Khi nhu cầu biến đổi mà hệ thống sản xuất có điều chỉnh khả năng sản xuất của mình, hệ thống sản xuất sẽ không cần đến lớp đệm lót tồn kho. Với cách nhìn nhận như vậy các nỗ lực đầu tư sẽ hướng vào một hệ thống sản xuất linh hoạt, điều chỉnh sản xuất nhanh, thiết lập quan hệ rất tốt với nhà cung ứng để có thể đặt hàng sản xuất và mua sắm thật nhanh với qui mô nhỏ.</para>
+        <para id="id20838741"> Các nhà quản trị sản xuất muốn có thời gian vận hành sản xuất dài để sử dụng hiệu quả máy móc thiết bị, lao động. Họ tin rằng hiệu quả sản xuất, đặt hàng qui mô lớn có thể bù đắp những lãng phí mà tồn kho cao gây ra. Điều này dẫn đến tồn kho cao.</para>
+        <para id="id20838761">Mặc dù cùng mục tiêu giảm thấp các phí tổn liên quan đến tồn kho, song cách nhìn nhận về vấn đề có thể theo những chiều hướng khác nhau. Rõ ràng, trong những điều kiện nhất định lượng tồn kho hợp lý cần được xét một cách toàn diện.</para>
+      </section>
+      <section id="id-620631861141">
+        <title>Phân tích chi phí tồn kho.</title>
+        <para id="id20838785">Trong điều kiện nhất định, tồn kho quá cao sẽ làm tăng chi phí đầu tư vào tồn kho, tồn kho thấp sẽ tốn kém chi phí trong việc đặt hàng, chuyển đổi lô sản xuất, bỏ lỡ có hội thu lợi nhuận.</para>
+        <para id="id20838799">Khi gia tăng tồn kho sẽ có hai khuynh hướng chi phí trái ngược nhau: một số chi phí này thì tăng, còn một số khoản chi phí khác thì giảm. Do đó cần phân tích kỹ lưỡng chi phí trước khi đến một phương thức hợp lý nhằm cực tiểu chi phí liên quan đến hàng tồn kho.</para>
+        <para id="id20838815"> Các chi phí tăng lên khi tăng tồn kho.</para>
+        <para id="id20838827"> Chi phí tồn trữ: Là những chi phí phát sinh có liên quan đến việc tồn trữ như:</para>
+        <para id="id20838840"> Chi phí về vốn: đầu tư vào tồn kho phải được xét như tất cả cơ hội đầu tư ngắn hạn khác. Trong điều kiện nguồn vốn có hạn, đầu tư vào hàng tồn kho phải chấp nhận phí tổn cơ hội về vốn. Phí tổn cơ hội của vốn đầu tư vào tồn kho là tỷ suất sinh lợi của dự án đầu tư có lợi nhất đã bị bỏ qua. Sự gia tăng tồn kho làm tăng vốn cho tồn kho, và chấp nhận phí tổn cơ hội cao.</para>
+        <para id="id20838860"> Chi phí kho: bao gồm chi phí lưu giữ tồn kho như chi phí kho bãi, tiền lương nhân viên quản lý kho, chi phí sử dụng các thiết bị phương tiện trong kho (giữ nóng, chống ẩm, làm lạnh,...)</para>
+        <para id="id20838878"> Thuế và bảo hiểm: chi phí chống lại các rủi ro gắn với quản lý hàng tồn kho, đơn vị có thể phải tốn chi phí bảo hiểm, chi phí này sẽ tăng khi tồn kho tăng. Tồn kho là một tài sản, nó có thể bị đánh thuế, do đó tồn kho tăng chi phí thuế sẽ tăng.</para>
+        <para id="id20838898"> Hao hụt, hư hỏng: tồn kho càng tăng, thời giản giải toả tồn kho dài, nguy cơ hư hỏng, hao hụt, mất mát hàng hoá càng lớn. Đây cũng là một khoản chi phí liên quan đến tất cả các tồn kho ở mức độ khác nhau.</para>
+        <para id="id20838917"> Chi phí cho việc đáp ứng khách hàng: Nếu lượng bán thành phẩm tồn kho quá lớn thì nó làm cản trở hệ thống sản xuất. Thời gian cần để sản xuất, phân phối các đơn hàng của khách hàng gia tăng thì khả năng đáp ứng những thay đổi các đơn hàng của khách hàng yếu đi.</para>
+        <para id="id20838944"> Chi phí cho sự phối hợp sản xuất: Do lượng tồn kho quá lớn làm cản trở qui trình sản xuất nên nhiều lao động được cần đến để giải toả sự tắc nghẽn, giải quyết những vấn đề tắc nghẽn liên quan đến sản xuất và lịch trình phối hợp.</para>
+        <para id="id20838970"> Chi phí về chất lượng của lô hàng lớn: Khi sản xuất những lô hàng có kích thước lớn sẽ tạo nên tồn kho lớn. Trong vài trường hợp, một số sẽ bị hỏng và một số lượng chi tiết của lô sản xuất sẽ có nhược điểm. Nếu kích thước lô hàng nhỏ hơn có thể giảm được lượng kém phẩm chất.</para>
+        <para id="id20838997"> Các chi phí giảm khi tồn kho tăng.</para>
+        <para id="id20839009"> Chi phí đặt hàng: Bao gồm những phí tổn trong việc tìm kiếm nguồn nguyên vật liệu từ nhà cung cấp, các hình thức đặt hàng. Khi chúng ta sản xuất một lô hàng sẽ phát sinh một chi phí cho việc chuyển đổi qui trình do sự thay đổi sản phẩm từ giai đoạn trước sang giai đoạn tiếp theo. Kích thước lô hàng càng lớn thì tồn kho vật tư càng lớn, nhưng chúng ta đặt hàng ít lần trong năm thì chi phí đặt hàng hàng năm sẽ thấp hơn.</para>
+        <para id="id20839035"> Chi phí thiếu hụt tồn kho: Mỗi khi chúng ta thiếu hàng tồn kho nguyên vật liệu cho sản xuất hoặc thành phẩm cho khách hàng, có thể chịu một khoản chi phí như là sự giảm sút về doanh số bán hàng, và gây mất lòng tin đối với khách hàng. Nếu thiếu hụt nguyên vật liệu cho sản xuất có thể bao gồm những chi phí của sự phá vở qui trình sản xuất này và đôi khi dẫn đến mất doanh thu, mất lòng tin khách hàng. Để khắc phục tình trạng này, người ta phải có dự trữ bổ sung hay gọi là dự trữ an toàn.</para>
+        <para id="id20839062"> Chi phí mua hàng: Khi mua nguyên vật liệu với kích thước lô hàng lớn sẽ làm tăng chi phí tồn trữ nhưng chi phí mua hàng thấp hơn do chiết khấu theo số lượng và cước phí vận chuyển cũng giảm.</para>
+        <para id="id20839085"> Chi phí chất lượng khởi động: Khi chúng ta bắt đầu sản xuất một lô hàng thì sẽ có nhiều nhược điểm trong giai đoạn đầu, như công nhân có thể đang học cách thức sản xuất, vật liệu không đạt đặc tính, máy móc lắp đặt cần có sự điều chỉnh. Kích thước lô hàng càng lớn thì có ít thay đổi trong năm và ít phế liệu hơn.</para>
+        <para id="id20839112">Tóm lại: khi tồn kho tăng sẽ có các chi phí tăng lên và có các khoản chi phí khác giảm đi, mức tồn kho hợp lý sẽ làm cực tiểu tổng chi phí liên quan đến tồn kho.</para>
+      </section>
+      <section id="id-0529907697496">
+        <title>Kỹ thuật phân tích ABC trong phân loại hàng tồn kho:</title>
+        <para id="id20839134">Kỹ thuật phân tích ABC thường được sử dụng trong phân loại hàng hóa tồn kho, nhằm xác định mức độ quan trọng của hàng hóa tồn kho khác nhau. Từ đó xây dựng các phương pháp dự báo, chuẩn bị nguồn lực và kiểm soát tồn kho cho từng nhóm hàng khác nhau.</para>
+        <para id="id20839150">Trong kỹ thuật phân tích ABC phân loại toàn bộ hàng hóa dự trữ của đơn vị thành 3 nhóm hàng: Nhóm A, nhóm B và nhóm C. Căn cứ vào mối quan hệ giá trị hàng năm với số lượng chủng loại hàng.</para>
+        <para id="id20839164">Giá trị hàng hoá dự trữ hàng năm được xác định bằng tích số giữa giá bán một đơn vị hàng hoá với lượng dự trữ hàng hoá đó trong năm. Số lượng chủng loại hàng là số lượng từng loại hàng hoá dự trữ trong năm.</para>
+        <para id="id20839179"> Nhóm A: Bao gồm những hàng hóa dự trữ có giá trị hàng năm cao nhất, chiếm từ 7080% so với tổng giá trị hàng hoá sự trữ, nhưng về mặt số lượng, chủng loại thì chỉ chiếm khoảng 1015% lượng hàng dự trữ.</para>
+        <para id="id20839209"> Nhóm B: Bao gồm những loại hàng hoá dự trữ có giá trị hàng năm ở mức trung bình, chiếm từ 1525% so với tổng giá trị hàng dự trữ, nhưng về số lượng, chủng loại chúng chỉ chiếm khoảng 30% tổng số hàng dự trữ.</para>
+        <para id="id20839234"> Nhóm C: Gồm những loại hàng có giá trị thấp, giá trị dự trữ chỉ chiếm khoảng 5% so với tổng giá trị hàng dự trữ, nhưng số lượng chiếm khoảng 5055% tổng số lượng hàng dự trữ.</para>
+        <figure id="id20839261">
+          <media id="id8467670" alt=""><image src="../../media/graphics1-0fbb.png" mime-type="image/png" height="251" width="352"/></media>
+        </figure>
+        <para id="id20839285">Sơ đồ 7.1: Phân loại hàng hóa tồn kho.</para>
+        <para id="id20839301">Ví dụ 7.1: Phân loại vật liệu tồn kho theo kỹ thuật phân tích ABC.</para>
+        <table id="id20839314" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Loạivật liệu</entry>
+                <entry>Nhu cầu hàng năm</entry>
+                <entry>% số lượng</entry>
+                <entry>Giá đơn vị</entry>
+                <entry>Tổng giá trị hàng năm</entry>
+                <entry>% giá trị</entry>
+                <entry>Loại</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1.000</entry>
+                <entry>3,92</entry>
+                <entry>4.300</entry>
+                <entry>4.300.000</entry>
+                <entry>38,64</entry>
+                <entry>A</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>2.500</entry>
+                <entry>9,80</entry>
+                <entry>1.520</entry>
+                <entry>3.800.000</entry>
+                <entry>34,15</entry>
+                <entry>A</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>1.900</entry>
+                <entry>7,45</entry>
+                <entry>500</entry>
+                <entry>950.000</entry>
+                <entry>8,54</entry>
+                <entry>B</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>1.000</entry>
+                <entry>3,92</entry>
+                <entry>710</entry>
+                <entry>710.000</entry>
+                <entry>6,38</entry>
+                <entry>B</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>2.500</entry>
+                <entry>9,80</entry>
+                <entry>250</entry>
+                <entry>625.000</entry>
+                <entry>5,62</entry>
+                <entry>B</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>2.500</entry>
+                <entry>9,80</entry>
+                <entry>192</entry>
+                <entry>480.000</entry>
+                <entry>4,31</entry>
+                <entry>B</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>400</entry>
+                <entry>1,57</entry>
+                <entry>200</entry>
+                <entry>80.000</entry>
+                <entry>0,72</entry>
+                <entry>C</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>500</entry>
+                <entry>1,96</entry>
+                <entry>100</entry>
+                <entry>50.000</entry>
+                <entry>0,45</entry>
+                <entry>C</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>200</entry>
+                <entry>0,78</entry>
+                <entry>210</entry>
+                <entry>42.000</entry>
+                <entry>0,38</entry>
+                <entry>C</entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>1.000</entry>
+                <entry>3,92</entry>
+                <entry>35</entry>
+                <entry>35.000</entry>
+                <entry>0,31</entry>
+                <entry>C</entry>
+              </row>
+              <row>
+                <entry>11</entry>
+                <entry>3.000</entry>
+                <entry>11,76</entry>
+                <entry>10</entry>
+                <entry>30.000</entry>
+                <entry>0,27</entry>
+                <entry>C</entry>
+              </row>
+              <row>
+                <entry>12</entry>
+                <entry>9.000</entry>
+                <entry>35,29</entry>
+                <entry>3</entry>
+                <entry>27.000</entry>
+                <entry>0,24</entry>
+                <entry>C</entry>
+              </row>
+              <row>
+                <entry>Tổng</entry>
+                <entry>25.500</entry>
+                <entry>100,00</entry>
+                <entry>8.030</entry>
+                <entry>11.129.000</entry>
+                <entry>100,00</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20684824">Trong điều kiện hiện nay việc sử dụng phương pháp phân tích ABC được thực hiện thông qua hệ thống quản trị dự trữ tự động hoá bằng máy vi tính. Tuy nhiên, trong một số doanh nghiệp chưa có điều kiện tự động hoá quản trị dự trữ, việc phân tích ABC được thực hiện bằng thủ công mặc dù mất nhiều thời gian nhưng nó đem lại những lợi ích nhất định. Kỹ thuật phân tích ABC trong công tác quản trị có những tác dụng sau:</para>
+        <para id="id20684840"> Các nguồn vốn dùng để mua hàng nhóm A cần phải nhiều hơn so với nhóm C, do đó cần sự ưu tiên đầu tư thích đáng vào quản trị nhóm A.</para>
+        <para id="id20684856"> Các loại hàng nhóm A cần có sự ưu tiên trong bố trí, kiểm tra, kiểm soát hiện vật. Việc thiết lập các báo cáo chính xác về nhóm A phải được thực hiện thường xuyên nhằm đảm bảo khả năng an toàn trong sản xuất.</para>
+        <para id="id20684875"> Trong dự báo nhu cầu dự trữ, chúng ta cần áp dụng các phương pháp dự báo khác nhau cho nhóm mặt hàng khác nhau, nhóm A cần được dự báo cẩn thận hơn so với các nhóm khác.</para>
+        <para id="id20684893"> Nhờ có kỹ thuật phân tích ABC trình độ của nhân viên giữ kho tăng lên không ngừng, do họ thường xuyên thực hiện các chu kỳ kiểm tra, kiểm soát từng nhóm hàng.</para>
+        <para id="id20684909">Tóm lại, kỹ thuật phân tích ABC sẽ cho chúng ta những kết quả tốt hơn trong dự báo, kiểm soát, đảm bảo tính khả thi của nguồn cung ứng, tối ưu hoá lượng dự trữ.</para>
+      </section>
+    </section>
+    <section id="id-945000865862">
+      <title>TỒN KHO ĐÚNG THỜI ĐIỂM.</title>
+      <section id="id-2936732397">
+        <title>Khái niệm về tồn kho đúng thời điểm.</title>
+        <para id="id20684940">Hàng dự trữ trong hệ thống sản xuất và cung ứng nhằm mục đích đề phòng những bất trắc có thể xảy ra trong quá trình sản xuất và phân phối. Để đảm bảo hiệu quả tối ưu của sản xuất kinh doanh, các doanh nghiệp cần áp dụng cung ứng đúng thời điểm.</para>
+        <para id="id20684956">Lượng dự trữ đúng thời điểm là lượng dự trữ tối thiểu cần thiết giữ cho hệ thống sản xuất hoạt động bình thường. Với phương thức tổ chức cung ứng và dự trữ đúng thời điểm để đảm bảo lượng hàng hoá được đưa đến nơi có nhu cầu đúng lúc, kịp thời sao cho hoạt động của bất kỳ nơi nào cũng được liên tục (không sớm quá cũng không muộn quá).</para>
+        <para id="id20684977">Để đạt được lượng dự trữ đúng thời điểm, các nhà quản trị sản xuất đúng thời điểm phải tìm cách giảm những biến đổi do các nhân tố bên trong và bên ngoài của quá trình sản xuất gây ra.</para>
+      </section>
+      <section id="id-939492797301">
+        <title>Những nguyên nhân chậm trễ của quá trình cung ứng.</title>
+        <para id="id20684997">Có nhiều nguyên nhân gây ra sự chậm trễ hoặc cung ứng không đúng lúc nguyên vật liệu, hàng hoá. Những nguyên thường xảy ra là:</para>
+        <para id="id20685008"> Các nguyên nhân thuộc về lao động, thiết bị, nguồn vật ư cung ứng không đảm bảo các yêu cầu, do đó có những sản phẩm sản xuất ra không đạt yêu cầu về tiêu chuẩn, hoặc số lượng sản xuất ra không đủ lô hàng phải giao;</para>
+        <para id="id20685028"> Thiết kế công nghệ, thiết kế sản phẩm không chính xác;</para>
+        <para id="id20685040"> Các bộ phận sản xuất tiến hành chế tạo trước khi có bản vẽ kỹ thuật hay thiết kế chi tiết;</para>
+        <para id="id20685054"> Không nắm chắc các yêu cầu của khách hàng;</para>
+        <para id="id20685066"> Thiết lập mối quan hệ giữa các khâu không chặt chẽ;</para>
+        <para id="id20685079"> Hệ thống cung ứng chưa đảm bảo đúng các yêu cầu của dự trữ, gây mất mát, hư hỏng,...</para>
+        <para id="id20685092">Tất cả những nguyên nhân trên gây ra biến đổi làm ảnh hưởng đến lượng dự trữ trong các giai đoạn của quá trình sản xuất kinh doanh của doanh nghiệp.</para>
+      </section>
+      <section id="id-743344294653">
+        <title>Biện pháp giảm tồn kho trong các giai đoạn.</title>
+        <para id="id20685114"> Giảm bớt lượng dự trữ ban đầu: nguyên vật liệu dự trữ trong giai đoạn đầu thể hiện chức năng liên kết sản xuất cung ứng. Cách đầu tiên, cơ bản nhất, phù hợp với nền kinh tế thị trường, làm giảm bớt lượng dự trữ này là tìm cách giảm bớt những sự thay đổi trong nguồn cung ứng về số lượng, chất lượng, thời điểm giao hàng, sẽ là công cụ chủ yếu để đạt đến trình độ cung ứng đúng thời điểm.</para>
+        <para id="id20685134"> Giảm bớt lượng sản phẩm dở dang trên dây chuyền sản xuất: có loại dự trữ này là do nhu cầu thiết yếu của quá trình sản xuất, chịu tác động của chu kỳ sản xuất. Nếu giảm được chu kỳ sản xuất thì sẽ giảm được lượng dự trữ này. Muốn làm được điều đó, chúng ta cần khảo sát kỹ lưỡng cơ cấu của chu kỳ sản xuất.</para>
+        <para id="id20685155"> Giảm bớt lượng dụng cụ phụ tùng: loại dự trữ này tồn tại do nhu cầu duy trì và bảo quản, sửa chữa máy móc thiết bị. Nhu cầu này tương đối khó xác định một cách chính xác.</para>
+        <para id="id20685172"> Giảm thành phẩm dự trữ: sự tồn tại của sự dự trữ này xuất phát từ nhu cầu của khách hàng trong từng thời điểm nhất định. Do đó, nếu chúng ta dự báo chính xác nhu cầu của khách hàng sẽ làm giảm được loại dự trữ này.</para>
+        <para id="id20685192">Ngoài ra, để đạt được lượng dự trữ đúng thời điểm, nhà quản trị cần tìm cách giảm bớt các sự cố, giảm bớt sự biến đổi ẩn nấp bên trong, đây là một công việc cực kỳ quan trọng trong quản trị sản xuất. Vấn đề cơ bản để đạt được yêu cầu đúng thời điểm trong quản trị sản xuất là sản xuất những lô hàng nhỏ theo tiêu chuẩn định trước. Chính việc giảm bớt kích thước các lô hàng là một biện pháp hỗ trợ cơ bản trong việc giảm lượng dự trữ và chi phí hàng dự trữ.</para>
+        <para id="id20685219">Khi mức tiêu dùng không thay đổi thì lượng dự trữ trung bình được xác định như sau:</para>
+        <para id="id20685228">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>Læåüng dæû træî trung bçnh </m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mover accent="true">
+                        <m:mi>Q</m:mi>
+                        <m:mo>¯</m:mo>
+                      </m:mover>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mtext>Læåüng dæû træî täúi âa </m:mtext>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:msub>
+                              <m:mi>Q</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>max</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mrow>
+                              <m:mo stretchy="false">)</m:mo>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext> Læåüng dæû træî täúi thiãøu </m:mtext>
+                            </m:mrow>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:msub>
+                              <m:mi>Q</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>min</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"Læåüng dæû træî trung bçnh " \(  {overline  {Q}}  \) =  {  {"Læåüng dæû træî täúi âa " \( Q rSub { size 8{"max"} }  \) +" Læåüng dæû træî täúi thiãøu " \( Q rSub { size 8{"min"} }  \) }  over  {2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id20685363">Một trong những giải pháp để giảm đến mức thấp nhất lượng dự trữ (cung ứng đúng thời điểm) là chỉ chuyển lượng dự trữ đến nơi có nhu cầu thực sự, không đưa đến nơi chưa có nhu cầu. </para>
+      </section>
+    </section>
+    <section id="id-457723172623">
+      <title>Các mô hình tỒn kho.</title>
+      <para id="id20685387">Hệ thống lượng đặt hàng cố định thiết lập các đơn hàng với cùng số lượng cho một loại vật liệu khi vật liệu đó được đặt hàng. Lượng tồn kho giảm cho đến mức giới hạn nào đó sẽ được tiến hành đặt hàng, tại thời điểm đó lượng hàng còn lại được tính bằng cách ước lượng số lượng vật liệu mong đợi được sử dụng giữa thời gian chúng ta đặt hàng đến khi nhận được lô hàng khác của loại vật liệu này.</para>
+      <para id="id20685417">Việc kiểm tra tồn kho đơn giản nhất là ứng dụng kiểu hệ thống hai ngăn. Trong kiểu hệ thống hai ngăn, từng loại vật liệu được giữ trong hai ngăn của nhà kho. Khi sử dụng, vật liệu ở ngăn lớn được xài cho đến hết, thời điểm này đơn hàng mới được gửi đi và ngay lúc vật liệu trong ngăn nhỏ được sử dụng hết, tức là lượng tồn kho đã đủ xài cho đến khi nhận được vật tư mới, khi đó cả hai ngăn vật liệu đều đầy và chu kỳ lặp lại.</para>
+      <para id="id20685432">Quyết định chủ yếu của hệ thống lượng đặt hàng cố định là xác định số lượng hàng cần đặt cho mỗi đơn hàng là bao nhiêu? và khi nào thì tiến hành đặt hàng lại?</para>
+      <para id="id20685445">Khi các nhà quản trị tác nghiệp phải quyết định số lượng của một vật liệu để đặt hàng trong hệ thống đặt hàng cố định, không có công thức đơn giản nào áp dụng cho mọi tình huống. Chúng ta khảo sát ở đây ước lượng tối ưu đơn hàng theo 3 kiểu tồn kho.</para>
+      <section id="id-43286483396">
+        <title>Mô hình lượng đặt hàng kinh tế cơ bản (EOQEconomic Order Quantity)</title>
+        <para id="id20685476">Với những giả thiết dưới đây, sơ đồ biểu diễn mô hình EOQ có dạng:</para>
+        <figure id="id20685488">
+          <media id="id1169430713109" alt=""><image src="../../media/graphics2-3f32.png" mime-type="image/png" height="253" width="521"/></media>
+        </figure>
+        <section id="id-172478090618">
+          <title>Sơ đồ 7.2a: Mô hình EOQ</title>
+          <para id="id20685519">Các giả thiết để áp dụng mô hình:</para>
+          <para id="id20685526"> Nhu cầu sử dụng nguyên vật liệu hàng năm (D) được xác định và ở mức đều;</para>
+          <para id="id20685540"> Chi phí đặt hàng (S) và nhận một đơn hàng không phụ thuộc vào số lượng hàng;</para>
+          <para id="id20685553"> Chi phí tồn trữ (H) là tuyến tính theo số lượng hàng tồn kho.</para>
+          <para id="id20685566"> Không có chiết khấu theo số lượng hàng hoá: điều này cho phép chúng ta loại chi phí mua hàng hoá ra khỏi tổng chi phí;</para>
+          <para id="id20685581"> Toàn bộ khối lượng hàng hoá của đơn hàng giao cùng thời điểm;</para>
+          <para id="id20685594"> Thời gian kể từ khi đặt hàng cho đến khi nhận hàng được xác định.</para>
+          <para id="id20685607">Mục tiêu của mô hình là nhằm tối thiểu hoá tổng chi phí dự trữ. Với giả định như trên thì có 2 loại chi phí biến đổi khi lượng dự trữ thay đổi, đó là chi phí tồn trữ (Ctt) và chi phí đặt hàng (Cdh). Có thể mô tả mối quan hệ giữa 2 lại chi phí này bằng đồ thị:</para>
+          <figure id="id20685645">
+            <media id="id1169424119233" alt=""><image src="../../media/graphics3-f3fd.png" mime-type="image/png" height="210" width="377"/></media>
+          </figure>
+        </section>
+        <section id="id-615235142947">
+          <title>Sơ đồ 7.3b: Mô hình EOQ</title>
+          <para id="id20685678">Như vậy, tổng chi phí của mô hình được tính là:</para>
+          <para id="id20685685">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>Täøng chi </m:mtext>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>TC</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext> Chi phê âàût haìng </m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:msub>
+                          <m:mi>C</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>dh</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext> Chi phê täön træî </m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:msub>
+                          <m:mi>C</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>tt</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{"Täøng chi " \(  ital "TC" \) =" Chi phê âàût haìng " \( C rSub { size 8{ ital "dh"} }  \) +" Chi phê täön træî " \( C rSub { size 8{ ital "tt"} }  \) } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id20685816">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>TC</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mi>D</m:mi>
+                            <m:mi>Q</m:mi>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>S</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mfrac>
+                            <m:mi>Q</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mi>H</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ ital "TC"= {  {D}  over  {Q} } S+ {  {Q}  over  {2} } H} {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id20685897">Ta sẽ có lượng hàng tối ưu (Q*) khi tổng chi phí nhỏ nhất. Để có tổng chi phí nhỏ nhất thì Cdh = Ctt (hoặc lấy đạo hàm của tổng chi phí)</para>
+          <para id="id20685934">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mi>D</m:mi>
+                          <m:mi>Q</m:mi>
+                        </m:mfrac>
+                        <m:mrow>
+                          <m:mi>S</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mi>Q</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mi>H</m:mi>
+                        <m:mtext/>
+                        <m:mtext>==&gt;</m:mtext>
+                        <m:mtext/>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>Q</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:msqrt>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                                <m:mtext>.</m:mtext>
+                                <m:mi>D</m:mi>
+                                <m:mtext>.</m:mtext>
+                                <m:mi>S</m:mi>
+                              </m:mrow>
+                              <m:mi>H</m:mi>
+                            </m:mfrac>
+                          </m:msqrt>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {D}  over  {Q} } S= {  {Q}  over  {2} } H"        ""==&gt;""       "Q rSup { size 8{*} } = sqrt { {  {2 "." D "." S}  over  {H} } } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id20686041">Khoảng cách giữa giữa 2 lần đặt hàng (T) được tính theo:</para>
+          <para id="id20686049">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>T</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mtext>Säú ngaìy laìm viãûc trong nàm</m:mtext>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Säú</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mtext> âån haìng</m:mtext>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{T= {  {"Säú ngaìy laìm viãûc trong nàm"}  over  { ital "Säú"" âån haìng"} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id20686118">Trong mô hình này chúng ta giả định rằng, sự tiếp nhận đơn hàng được thực hiện cùng ngay lập tức vào một thời điểm. Tuy nhiên trong thực tế thời gian từ lúc đặt hàng đến lúc nhận hàng có thể ngắn trong vài giờ hoặc rất dài đến hàng tháng. Do đó, điểm đặt hàng lại được xác định như sau:</para>
+          <para id="id20686133">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>Âiãøm âàût haìng </m:mtext>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>OP</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>Nhu</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                        <m:mtext> cáöu ngaìy </m:mtext>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mi>d</m:mi>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mtext> x Thåìi gian chå haìng </m:mtext>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{"Âiãøm âàût haìng " \(  ital "OP" \) = ital "Nhu"" cáöu ngaìy " \( d \) " x Thåìi gian chå haìng " \( t \) } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id20686239">Ví dụ 7.2: Công ty C tồn kho hàng ngàn vale ống nước bán cho những thợ ống nước, nhà thầu và các nhà bán lẻ. Tổng giám đốc xí nghiệp, lưu tâm đến việc có bao nhiêu tiền có thể tiết kiệm được hàng năm nếu mô hình EOQ được dùng thay vì sử dụng chính sách như hiện nay của xí nghiệp. Ông ta bảo nhân viên phân tích tồn kho, lập bảng phân tích của loại vật liệu này để thấy việc tiết kiệm (nếu có) do việc áp dụng mô hình EOQ. Nhân viên phân tích lập các ước lượng sau đây từ những thông tin kế toán: Nhu cầu D = 10.000 vale/năm; Q = 400 vale/đơn hàng (lượng đặt hàng hiện nay); chi phí tồn trữ H = 0,4 triệu đồng/vale/năm và chi phí đặt hàng S = 5,5 triệu đồng/đơn hàng; thời gian làm việc trong năm là 250 ngày; và thời gian chờ hàng về mất 3 ngày (kể từ khi đặt hàng đến khi nhận được hàng).</para>
+          <para id="id20686290">Bài giải:</para>
+          <para id="id20686294"> Nhân viên kế toán tính tổng chi phí cho hàng tồn kho hiện tại trong năm với số lượng hàng mua mỗi lần là 400 vale:</para>
+          <para id="id20686309"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>TC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>D</m:mi><m:mi>Q</m:mi></m:mfrac></m:mrow><m:mrow><m:mi>S</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>Q</m:mi><m:mn>2</m:mn></m:mfrac></m:mrow><m:mrow><m:mi>H</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext></m:mrow><m:mtext>400</m:mtext></m:mfrac></m:mrow><m:mrow><m:mn>5,5</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mtext>400</m:mtext><m:mn>2</m:mn></m:mfrac></m:mrow><m:mrow><m:mn>0,4</m:mn><m:mo stretchy="false">≈</m:mo><m:mtext>217</m:mtext></m:mrow><m:mi>,</m:mi><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{1} } = {  {D}  over  {Q} } S+ {  {Q}  over  {2} } H= {  {"10" "." "000"}  over  {"400"} } 5,5+ {  {"400"}  over  {2} } 0,4 approx "217",5} {}</m:annotation></m:semantics></m:math> triệu đồng</para>
+          <para id="id20686448"> Xác định số lượng tối ưu khi áp dụng mô hình EOQ</para>
+          <para id="id20677957">Lượng hàng tối ưu cho một đơn hàng:</para>
+          <para id="id20677964"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mi>D</m:mi><m:mtext>.</m:mtext><m:mi>S</m:mi></m:mrow><m:mi>H</m:mi></m:mfrac></m:msqrt></m:mrow><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2x</m:mn><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x5</m:mi><m:mi>,</m:mi><m:mn>5</m:mn></m:mrow><m:mn>0,4</m:mn></m:mfrac></m:msqrt></m:mrow><m:mo stretchy="false">≈</m:mo><m:mtext>524</m:mtext></m:mrow><m:mi>,</m:mi><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSup { size 8{*} } = sqrt { {  {2 "." D "." S}  over  {H} } } = sqrt { {  {2x"10" "." "000"x5,5}  over  {0,4} } }  approx "524",4} {}</m:annotation></m:semantics></m:math>vale/đơn hàng</para>
+          <para id="id20678087">Tổng chi phí cho lượng hàng tồn kho hàng năm nếu áp dụng EOQ:</para>
+          <para id="id20678096"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>TC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext></m:mrow><m:mrow><m:mtext>524</m:mtext><m:mi>,</m:mi><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow><m:mrow><m:mn>5,5</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mtext>524</m:mtext><m:mi>,</m:mi><m:mn>4</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow><m:mrow><m:mn>0,4</m:mn><m:mo stretchy="false">≈</m:mo><m:mtext>209</m:mtext></m:mrow><m:mi>,</m:mi><m:mtext>76</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{2} } = {  {"10" "." "000"}  over  {"524",4} } 5,5+ {  {"524",4}  over  {2} } 0,4 approx "209","76"} {}</m:annotation></m:semantics></m:math>triệu đồng</para>
+          <para id="id20678218"> Ước tính khoản tiết kiệm hàng năm:</para>
+          <para id="id20678230">TK1 = TC1 - TC2 = 217,5 - 209,76 = 7,74 triệu đồng</para>
+          <para id="id20678256"> Thời gian cách quảng giữa 2 lần đặt hàng là</para>
+          <para id="id20678271"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>Säú ngaìy laìm viãûc trong nàm</m:mtext><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Säú</m:mtext></m:mrow></m:mstyle><m:mtext> âån haìng</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>250</m:mtext><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>000</m:mtext><m:mo stretchy="false">/</m:mo><m:mtext>524</m:mtext></m:mrow></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">≈</m:mo><m:mtext>13</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T= {  {"Säú ngaìy laìm viãûc trong nàm"}  over  { ital "Säú"" âån haìng"} } = {  {"250"}  over  {"10" "." "000"/"524"} }  approx "13"} {}</m:annotation></m:semantics></m:math>ngày</para>
+          <para id="id20678378"> Xác định điểm đặt hàng lại:</para>
+          <para id="id20678393">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>OP</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>10</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>000</m:mtext>
+                            </m:mrow>
+                            <m:mtext>250</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi fontstyle="italic">x3</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>120</m:mtext>
+                        </m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>vale</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ ital "OP"= {  {"10" "." "000"}  over  {"250"} } x3="120" ital "vale"} {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id20678481">Như vậy, khi số lượng hàng còn lại trong kho là 120 vale thì đơn vị phải thiết lập đơn hàng báo cho cung cấp biết mình đang cần hàng, trong khoảng thời gian 3 ngày chờ hàng về thì đơn vị sử dụng lượng tồn kho còn lại.</para>
+        </section>
+      </section>
+      <section id="id-775606079349">
+        <title>Mô hình lượng đặt hàng theo lô sản xuất (POQProdution Order Quantity).</title>
+        <para id="id20678513">Giả thiết của mô hình:</para>
+        <para id="id20678519"> Nhu cầu hàng năm, chi phí tồn trữ và chi phí đặt hàng của một loại vật liệu có thể ước lượng được.</para>
+        <para id="id20678534"> Không sử dụng tồn kho an toàn, vật liệu được cung cấp theo mức đồng nhất (p), vật liệu được sử dụng ở mức đồng nhất (d) và tất cả vật liệu được dùng hết toàn bộ khi đơn hàng kế tiếp về đến.</para>
+        <para id="id20678553"> Nếu hết tồn kho thì sự đáp ứng khách hàng và các chi phí khác không đáng kể.</para>
+        <para id="id20678566"> Không có chiết khấu theo số lượng.</para>
+        <para id="id20678578"> Mức cung cấp (p) lớn hơn mức sử dụng (d).</para>
+        <para id="id20678590">Công thức tính chi phí: </para>
+        <table id="id20678597" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Tồn kho tối đa</entry>
+                <entry>=</entry>
+                <entry>Mức tăng tồn kho x Thời gian giao hàng</entry>
+              </row>
+              <row>
+                <entry>Qmax</entry>
+                <entry>=</entry>
+                <entry>(p  d) (Q/p)</entry>
+              </row>
+              <row>
+                <entry>Tồn kho tối thiểu (Qmin)</entry>
+                <entry>=</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>Tồn kho trung bình</entry>
+                <entry>=</entry>
+                <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>(Tồn kho tối đa + Tồn kho tối thiểu) </entry>
+              </row>
+              <row>
+                <entry>Chi phí tồn trữ hàng năm</entry>
+                <entry>=</entry>
+                <entry>Tồn kho trung bình x Phí tồn trữ đơn vị hàng năm</entry>
+              </row>
+              <row>
+                <entry>Ctt</entry>
+                <entry>=</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mi>Q</m:mi>
+                                  <m:mo stretchy="false">(</m:mo>
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mi>d</m:mi>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                                <m:mn>2p</m:mn>
+                              </m:mfrac>
+                              <m:mi>H</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ {  {Q \( p - d \) }  over  {2p} } H} {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry>Chi phí đặt hàng hàng năm</entry>
+                <entry>=</entry>
+                <entry>Số đơn hàng/năm x Chi phí một đơn đặt hàng</entry>
+              </row>
+              <row>
+                <entry>Cdh</entry>
+                <entry>=</entry>
+                <entry>(D/Q).S</entry>
+              </row>
+              <row>
+                <entry>Tổng chi phí tồn kho </entry>
+                <entry>=</entry>
+                <entry>Chi phí tồn trữ hàng năm + CP đặt hàng hàng năm</entry>
+              </row>
+              <row>
+                <entry>TC</entry>
+                <entry>=</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mi>Q</m:mi>
+                                  <m:mo stretchy="false">(</m:mo>
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mi>d</m:mi>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                                <m:mn>2p</m:mn>
+                              </m:mfrac>
+                              <m:mrow>
+                                <m:mi>H</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mfrac>
+                                  <m:mi>D</m:mi>
+                                  <m:mi>Q</m:mi>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mi>S</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ {  {Q \( p - d \) }  over  {2p} } H+ {  {D}  over  {Q} } S} {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id20679199">
+          <media id="id1169428580061" alt=""><image src="../../media/graphics4-d621.png" mime-type="image/png" height="318" width="569"/></media>
+        </figure>
+        <section id="id-189150986032">
+          <title>Sơ đồ 7-3: Mô hình POQ</title>
+          <para id="id20679231">Mô hình EOQ cho lô sản xuất (POQ), hữu dụng cho việc xác định kích thước đơn hàng nếu một vật liệu được sản xuất ở một giai đoạn của qui trình sản xuất, tồn trữ trong kho và sau đó gửi qua giai đoạn khác trong sản xuất hay vận chuyển đến khách hàng. Mô hình này cho ta thấy các đơn hàng được sản xuất ở mức đồng nhất (p) trong giai đoạn đầu của chu kỳ tồn kho và được dùng ở mức đồng nhất (d) suốt chu kỳ. Mức gia tăng tồn kho là (pd) trong sản xuất và không bao giờ đạt mức Q như trong mô hình EOQ.</para>
+          <para id="id20679258">Ví dụ 7.3: Tiếp theo ví dụ 7.2, Công ty C có bộ phận sản xuất bên cạnh có thể sản xuất vale này tại chỗ theo lô sản xuất, họ muốn nhập kho một cách từ từ vào nhà kho chính để dùng. Số liệu được về mức sản xuất của công ty là p = 120 vale/ngày, nhu cầu tiêu thụ hàng ngày là d = 40 vale/ngày. Ông giám đốc quan tâm đến việc này có ảnh hưởng thế nào đến lượng đặt hàng và chi phí hàng tồn kho hàng năm, ông yêu cầu nhân viên phân tích tồn kho để thấy khoản tiết kiệm khi dùng mô hình này như thế nào?</para>
+          <para id="id20679295">Bài giải:</para>
+          <para id="id20679300"> Xác định lượng hàng tối ưu khi áp dụng mô hình này:</para>
+          <para id="id20679312"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mi>D</m:mi><m:mtext>.</m:mtext><m:mi>S</m:mi><m:mtext>.</m:mtext><m:mi>p</m:mi></m:mrow><m:mrow><m:mi>H</m:mi><m:mtext>.</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">−</m:mo><m:mi>d</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:msqrt></m:mrow><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2x</m:mn><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x5</m:mi><m:mi>,</m:mi><m:mn>5x</m:mn><m:mtext>120</m:mtext></m:mrow><m:mrow><m:mn>0,4</m:mn><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>120</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>40</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:msqrt></m:mrow><m:mo stretchy="false">≈</m:mo><m:mtext>642</m:mtext></m:mrow><m:mi>,</m:mi><m:mtext>26</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSup { size 8{*} } = sqrt { {  {2 "." D "." S "." p}  over  {H "."  \( p - d \) } } } = sqrt { {  {2x"10" "." "000"x5,5x"120"}  over  {0,4 \( "120" - "40" \) } } }  approx "642","26"} {}</m:annotation></m:semantics></m:math>vale/đơn hàng</para>
+          <para id="id20679488"> Tổng chi phí cho trường hợp này:</para>
+          <para id="id20679500"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>TC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext></m:mrow><m:mrow><m:mtext>642</m:mtext><m:mi>,</m:mi><m:mtext>26</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mn>5,5</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mtext>642</m:mtext><m:mi>,</m:mi><m:mtext>26</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>120</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>40</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>2x</m:mn><m:mtext>120</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mn>0,4</m:mn><m:mo stretchy="false">≈</m:mo><m:mtext>171</m:mtext></m:mrow><m:mi>,</m:mi><m:mtext>26</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{3} } = {  {"10" "." "000"}  over  {"642","26"} } 5,5+ {  {"642","26" \( "120" - "40" \) }  over  {2x"120"} } 0,4 approx "171","26"} {}</m:annotation></m:semantics></m:math> triệu đồng</para>
+          <para id="id20679645"> Nếu so với trường hợp mô hình EOQ, thì tiết kiệm được:</para>
+          <para id="id20679657">TK2 = TC2 - TC3 = 209,76 - 171,26 = 38,5 triệu đồng</para>
+        </section>
+      </section>
+      <section id="id-414986049737">
+        <title>Mô hình EOQ, POQ với chiết khấu theo số lượng:</title>
+        <para id="id20679691">Các nhà cung cấp có thể bán hàng hóa của họ với giá đơn vị thấp hơn nếu lượng hàng được đặt mua lớn hơn. Thực tế này gọi là chiết khấu theo số lượng bởi vì những đơn hàng số lượng lớn có thể rẻ hơn khi sản xuất và vận chuyển. Vấn đề quan tâm trong hầu hết các quyết định số lượng của đơn hàng là đặt đủ vật liệu cho từng đơn hàng để đạt được giá tốt nhất, nhưng cũng không nên mua nhiều quá thì chi phí tồn trữ làm hỏng khoản tiết kiệm do mua hàng đem lại. </para>
+        <para id="id20679718">Giả thiết của mô hình:</para>
+        <para id="id20679724"> Nhu cầu hàng năm, chi phí tồn trữ và chi phí đặt hàng cho một loại vật liệu có thể ước lượng được.</para>
+        <para id="id20679739"> Mức tồn kho trung bình hàng năm có thể ước lượng theo 2 cách: </para>
+        <para id="id20679752"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>Q</m:mi><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Q}  over  {2} } } {}</m:annotation></m:semantics></m:math>: Nếu giả thiết của mô hình EOQ phổ biến: không có tồn kho an toàn, đơn hàng được nhận tất cả một lần, vật liệu được dùng ở mức đồng nhất và vật liệu được dùng hết khi đơn hàng mới về đến.</para>
+        <para id="id20679812"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>Q</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">−</m:mo><m:mi>d</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2p</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Q \( p - d \) }  over  {2p} } } {}</m:annotation></m:semantics></m:math>: Nếu các giả thiết mô hình POQ phổ biến: không có tồn kho an toàn, vật liệu được cung cấp theo mức đồng nhất (p) , sử dụng ở mức đồng nhất (d) và vật liệu được dùng hết toàn bộ khi đơn hàng mới về đến.</para>
+        <para id="id20679893"> Sự thiết hụt tồn kho, sự đáp ứng khách hàng và chi phí khác có thể tính được.</para>
+        <para id="id20679906"> Có chiết khấu số lượng, khi lượng đặt hàng lớn giá (g) sẽ giảm.</para>
+        <para id="id20679919">Công thức tính chi phí: </para>
+        <para id="id20679926">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Chi</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mtext> phê mua váût liãûu haìng nàm </m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:msub>
+                        <m:mi>C</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>vl</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext> Nhu cáöu haìng nàm </m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>D</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mtext> x Giaï váût liãûu </m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "Chi"" phê mua váût liãûu haìng nàm " \( C rSub { size 8{"vl"} }  \)  =" Nhu cáöu haìng nàm " \( D \) " x Giaï váût liãûu " \( g \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id20680039">
+          <m:math>
+            <m:semantics>
+              <m:mtable>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mi>T</m:mi>
+                    <m:mtext>äøn</m:mtext>
+                    <m:mi>g</m:mi>
+                    <m:mtext> CP váût liãûu</m:mtext>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mtext>täön kho haìng nàm</m:mtext>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mi fontstyle="italic">righ</m:mi>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>CP</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mtext> âàût haìng</m:mtext>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mtext>haìng nàm</m:mtext>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mi fontstyle="italic">righ</m:mi>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>CP</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mtext> täön træî váût liãûu</m:mtext>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mtext>haìng nàm</m:mtext>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mi fontstyle="italic">righ</m:mi>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>CP</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mtext> mua váût liãûu</m:mtext>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mtext>haìng nàm</m:mtext>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mi fontstyle="italic">righ</m:mi>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mfenced open="" close="">
+                          <m:mrow/>
+                        </m:mfenced>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow/>
+                    </m:mrow>
+                  </m:mstyle>
+                </m:mtr>
+              </m:mtable>
+              <m:annotation encoding="StarMath 5.0"> size 12{alignc { stack {
+ left (T"äøn"g" CP váût liãûu" {} # 
+ right ) left ("täön kho haìng nàm" {} # 
+ righ)} }  \(  \) =alignc { stack {
+ left ( ital "CP"" âàût haìng" {} # 
+ right ) left ("haìng nàm" {} # 
+ righ)} }  \(  \) +alignc { stack {
+ left ( ital "CP"" täön træî váût liãûu" {} # 
+ right ) left ("haìng nàm" {} # 
+ righ)} }  \(  \) +alignc { stack {
+ left ( ital "CP"" mua váût liãûu" {} # 
+ right ) left ("haìng nàm" {} # 
+ righ)} }  \(  \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id20680245">.</para>
+        <table id="id20680249" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3">Theo mô hình EOQ</entry>
+                <entry/>
+                <entry namest="c5" nameend="c7">Theo mô hình POQ</entry>
+              </row>
+              <row>
+                <entry>Q*</entry>
+                <entry>=</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                </m:mrow>
+                                <m:mi>H</m:mi>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {2 "." D "." S}  over  {H} } } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry>Q*</entry>
+                <entry>=</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>p</m:mi>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>H</m:mi>
+                                  <m:mo stretchy="false">(</m:mo>
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mi>d</m:mi>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {2 "." D "." S "." p}  over  {H \( p - d \) } } } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry>TC</entry>
+                <entry>=</entry>
+                <entry>Cdh + Clk + Cvl</entry>
+                <entry/>
+                <entry>TC</entry>
+                <entry>=</entry>
+                <entry>Cdh + Clk + Cvl</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>=</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mfrac>
+                                <m:mi>D</m:mi>
+                                <m:mi>Q</m:mi>
+                              </m:mfrac>
+                              <m:mrow>
+                                <m:mi>S</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mfrac>
+                                  <m:mi>Q</m:mi>
+                                  <m:mn>2</m:mn>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mi>H</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mi>D</m:mi>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                              <m:mi>g</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ {  {D}  over  {Q} } S+ {  {Q}  over  {2} } H+D "." g} {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry>=</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mfrac>
+                                <m:mi>D</m:mi>
+                                <m:mi>Q</m:mi>
+                              </m:mfrac>
+                              <m:mrow>
+                                <m:mi>S</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mfrac>
+                                  <m:mrow>
+                                    <m:mi>Q</m:mi>
+                                    <m:mo stretchy="false">(</m:mo>
+                                    <m:mrow>
+                                      <m:mi>p</m:mi>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mi>d</m:mi>
+                                    </m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                  </m:mrow>
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                    <m:mtext>.</m:mtext>
+                                    <m:mi>p</m:mi>
+                                  </m:mrow>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mi>H</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mi>D</m:mi>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                              <m:mi>g</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ {  {D}  over  {Q} } S+ {  {Q \( p - d \) }  over  {2 "." p} } H+D "." g} {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20817221">Các bước thực hiện:</para>
+        <para id="id20817227">Bước 1: Tính lượng hàng tối ưu ở từng mức khấu trừ. Chú ý rằng chi phí tồn trữ một đơn vị hàng năm (H) có thể được xác định là tỉ lệ phần trăm (I%) của giá mua vật liệu hay chi phí sản xuất. Tức là: H = I x g</para>
+        <para id="id20817250">Bước 2: Xác định xem Q* ở từng mức có khả thi không, nếu không thì điều chỉnh cho phù hợp với từng mức khấu trừ đó. Ở mỗi mức khấu trừ, nếu lượng hàng đã tính ở bước 1 thấp không đủ điều kiện để hưởng mức giá khấu trừ, chúng ta điều chỉnh lượng hàng lên đến mức tối thiểu để được hưởng giá khấu trừ. Ngược lại, nếu lượng hàng cao hơn thì điều chỉnh xuống bằng mức tối đa của mức khấu trừ, hoặc không cần tính chi phí ở mức này trong bước 3.</para>
+        <para id="id20817271">Bước 3: Sử dụng công thức tính tổng chi phí hàng tồn kho ở từng mức khấu trừ và chọn mức có tổng chi phí nhỏ nhất để quyết định thực hiện. </para>
+        <para id="id20817287">Ví dụ 7.4: Tiếp theo số liệu ví dụ 7.3 với chiết khấu theo số lượng ở công ty C, Nhà cung cấp loại vale (sản phẩm) đề nghị công ty C mua số lượng nhiều hơn so với hiện nay sẽ được giảm giá như sau:</para>
+        <table id="id20817311" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Mức khấu trừ</entry>
+                <entry>Đơn giá (triệu đồng)</entry>
+              </row>
+              <row>
+                <entry>1 - 399</entry>
+                <entry>2,2</entry>
+              </row>
+              <row>
+                <entry>400 - 699</entry>
+                <entry>2,0</entry>
+              </row>
+              <row>
+                <entry>Trên 700</entry>
+                <entry>1,8</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20817416">Ông giám đốc yêu cầu nhân viên phân tích tồn kho, nghiên cứu giá mới dưới 2 giả thiết: đơn hàng được nhận ngay cùng một lúc (EOQ) và đơn hàng được nhận từ từ (POQ). Giả sử chi phí tồn trữ được ước tính là 20% giá mua.</para>
+        <para id="id20817430">Bài giải</para>
+        <para id="id20817436"> Trường hợp đơn hàng được nhận ngay cùng một lúc:</para>
+        <para id="id20817451"> Tính lượng hàng tối ưu cho từng mức khấu trừ:</para>
+        <para id="id20817463"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>11</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mi>D</m:mi><m:mtext>.</m:mtext><m:mi>S</m:mi></m:mrow><m:mrow><m:mi>I</m:mi><m:mtext>.</m:mtext><m:mi>g</m:mi></m:mrow></m:mfrac></m:msqrt></m:mrow><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2x</m:mn><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x5</m:mi><m:mi>,</m:mi><m:mn>5</m:mn></m:mrow><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">x</m:mo><m:mi>,</m:mi><m:mn>2</m:mn></m:mrow></m:mfrac></m:msqrt></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>500</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"11"} }  rSup { size 8{*} } = sqrt { {  {2 "." D "." S}  over  {I "." g} } } = sqrt { {  {2x"10" "." "000"x5,5}  over  {"20"%x2,2} } } ="500"} {}</m:annotation></m:semantics></m:math>vale</para>
+        <para id="id20817603"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2x</m:mn><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x5</m:mi><m:mi>,</m:mi><m:mn>5</m:mn></m:mrow><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">x</m:mo><m:mi>,</m:mi><m:mn>0</m:mn></m:mrow></m:mfrac></m:msqrt></m:mrow><m:mo stretchy="false">≈</m:mo><m:mtext>524</m:mtext></m:mrow><m:mi>,</m:mi><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"12"} }  rSup { size 8{*} } = sqrt { {  {2x"10" "." "000"x5,5}  over  {"20"%x2,0} } }  approx "524",4} {}</m:annotation></m:semantics></m:math>vale ;
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>13</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2x</m:mn><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x5</m:mi><m:mi>,</m:mi><m:mn>5</m:mn></m:mrow><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">x</m:mo><m:mi>,</m:mi><m:mn>8</m:mn></m:mrow></m:mfrac></m:msqrt></m:mrow><m:mo stretchy="false">≈</m:mo><m:mtext>553</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"13"} }  rSup { size 8{*} } = sqrt { {  {2x"10" "." "000"x5,5}  over  {"20"%x1,8} } }  approx "553"} {}</m:annotation></m:semantics></m:math>vale</para>
+        <para id="id20817834"> Điều chỉnh Q* cho phù hợp với giá ở từng mức khấu trừ:</para>
+        <para id="id20817847"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>11</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"11"} }  rSup { size 8{*} } } {}</m:annotation></m:semantics></m:math>= loại (vượt mức khấu trừ ) ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"12"} }  rSup { size 8{*} } } {}</m:annotation></m:semantics></m:math> = 524 vale ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>13</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"13"} }  rSup { size 8{*} } } {}</m:annotation></m:semantics></m:math> = 700 vale</para>
+        <para id="id20818031"> Xác định chi phí tồn kho ở từng mức khấu trừ:</para>
+        <para id="id20818043"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>TC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>524</m:mtext><m:mn>2</m:mn></m:mfrac></m:mrow><m:mi>x</m:mi><m:mtext>20</m:mtext><m:mo stretchy="false">x</m:mo><m:mi>,</m:mi><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext></m:mrow><m:mtext>524</m:mtext></m:mfrac></m:mrow><m:mi fontstyle="italic">x5</m:mi><m:mi>,</m:mi><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>10</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x2</m:mi><m:mi>,</m:mi><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">=</m:mo><m:mtext>20</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>209</m:mtext><m:mi>,</m:mi><m:mtext>76</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{2} } = {  {"524"}  over  {2} } x"20"%x2,0+ {  {"10" "." "000"}  over  {"524"} } x5,5+"10" "." "000"x2,0="20" "." "209","76"} {}</m:annotation></m:semantics></m:math>ngàn đồng</para>
+        <para id="id20818194"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>TC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>700</m:mtext><m:mn>2</m:mn></m:mfrac></m:mrow><m:mi>x</m:mi><m:mtext>20</m:mtext><m:mo stretchy="false">x</m:mo><m:mi>,</m:mi><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext></m:mrow><m:mtext>700</m:mtext></m:mfrac></m:mrow><m:mi fontstyle="italic">x5</m:mi><m:mi>,</m:mi><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>10</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x1</m:mi><m:mi>,</m:mi><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">=</m:mo><m:mtext>18</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>204</m:mtext><m:mi>,</m:mi><m:mtext>57</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{3} } = {  {"700"}  over  {2} } x"20"%x1,8+ {  {"10" "." "000"}  over  {"700"} } x5,5+"10" "." "000"x1,8="18" "." "204","57"} {}</m:annotation></m:semantics></m:math>ngàn đồng</para>
+        <para id="id20818346"> Trường hợp đơn hàng được giao từ từ:</para>
+        <para id="id20818358"> Tính lượng hàng tối ưu cho từng mức khấu trừ:</para>
+        <para id="id20818370">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msubsup>
+                              <m:mi>Q</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>21</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow/>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msqrt>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>D</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>S</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>p</m:mi>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>I</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mi>g</m:mi>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mo stretchy="false">(</m:mo>
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mi>d</m:mi>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:msqrt>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:msqrt>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mn>2x</m:mn>
+                                <m:mtext>10</m:mtext>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>000</m:mtext>
+                                <m:mi fontstyle="italic">x5</m:mi>
+                                <m:mi>,</m:mi>
+                                <m:mn>5x</m:mn>
+                                <m:mtext>120</m:mtext>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mtext>20</m:mtext>
+                                <m:mo stretchy="false">x</m:mo>
+                                <m:mi>,</m:mi>
+                                <m:mn>2x</m:mn>
+                                <m:mo stretchy="false">(</m:mo>
+                                <m:mrow>
+                                  <m:mtext>120</m:mtext>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mtext>40</m:mtext>
+                                </m:mrow>
+                                <m:mo stretchy="false">)</m:mo>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:msqrt>
+                        </m:mrow>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mtext>612</m:mtext>
+                      </m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>vale</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"21"} }  rSup { size 8{*} } = sqrt { {  {2 "." D "." S "." p}  over  {I "." g "."  \( p - d \) } } } = sqrt { {  {2x"10" "." "000"x5,5x"120"}  over  {"20"%x2,2x \( "120" - "40" \) } } }  approx "612" ital "vale"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id20818562"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>22</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2x</m:mn><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x5</m:mi><m:mi>,</m:mi><m:mn>5x</m:mn><m:mtext>120</m:mtext></m:mrow><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">x</m:mo><m:mtext>20</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi>x</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>120</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>40</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:msqrt></m:mrow><m:mo stretchy="false">≈</m:mo><m:mn>2</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>031</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:mtext>vale</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"22"} }  rSup { size 8{*} } = sqrt { {  {2x"10" "." "000"x5,5x"120"}  over  {"20"%x"20" "." "000"x \( "120" - "40" \) } } }  approx 2 "." "031" ital "vale"} {}</m:annotation></m:semantics></m:math>;
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>23</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">=</m:mo><m:msqrt><m:mfrac><m:mrow><m:mn>2x</m:mn><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x5</m:mi><m:mi>,</m:mi><m:mn>5x</m:mn><m:mtext>120</m:mtext></m:mrow><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">x</m:mo><m:mi>,</m:mi><m:mn>8x</m:mn><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>120</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>40</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:msqrt></m:mrow><m:mo stretchy="false">≈</m:mo><m:mtext>677</m:mtext></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>vale</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"23"} }  rSup { size 8{*} } = sqrt { {  {2x"10" "." "000"x5,5x"120"}  over  {"20"%x1,8x \( "120" - "40" \) } } }  approx "677" ital "vale"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id20818840"> Điều chỉnh lượng hàng Q* cho phù hợp với từng mức khấu trừ:</para>
+        <para id="id20818853"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>21</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>936</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:mtext>vale</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"21"} }  rSup { size 8{*} } =1 "." "936" ital "vale"} {}</m:annotation></m:semantics></m:math>Loại (vượt mức khấu trừ) ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>22</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">=</m:mo><m:mtext>642</m:mtext></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>vale</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"22"} }  rSup { size 8{*} } ="642" ital "vale"} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>23</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">=</m:mo><m:mtext>700</m:mtext></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>vale</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"23"} }  rSup { size 8{*} } ="700" ital "vale"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id20819085"> Xác định tổng chi phí hàng tồn kho ở từng mức khấu trừ:</para>
+        <para id="id20819098"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msubsup><m:mtext>TC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>642</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>120</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>40</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>2x</m:mn><m:mtext>120</m:mtext></m:mrow></m:mfrac></m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">x</m:mo><m:mi>,</m:mi><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext></m:mrow><m:mtext>642</m:mtext></m:mfrac></m:mrow><m:mrow><m:mn>5,5</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>10</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x2</m:mi><m:mi>,</m:mi><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">=</m:mo><m:mtext>20</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>171</m:mtext><m:mi>,</m:mi><m:mtext>86</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{2} }  rSup { size 8{'} } = {  {"642" \( "120" - "40" \) }  over  {2x"120"} } "20"%x2,0+ {  {"10" "." "000"}  over  {"642"} } 5,5+"10" "." "000"x2,0="20" "." "171","86"} {}</m:annotation></m:semantics></m:math>ngàn đồng</para>
+        <para id="id20819272"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msubsup><m:mtext>TC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>700</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>120</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>40</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>2x</m:mn><m:mtext>120</m:mtext></m:mrow></m:mfrac></m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">x</m:mo><m:mi>,</m:mi><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mtext>000</m:mtext></m:mrow><m:mtext>700</m:mtext></m:mfrac></m:mrow><m:mrow><m:mn>5,5</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>10</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>000</m:mtext><m:mi fontstyle="italic">x1</m:mi><m:mi>,</m:mi><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">=</m:mo><m:mtext>18</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>162</m:mtext><m:mi>,</m:mi><m:mtext>57</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "TC" rSub { size 8{3} }  rSup { size 8{'} } = {  {"700" \( "120" - "40" \) }  over  {2x"120"} } "20"%x1,8+ {  {"10" "." "000"}  over  {"700"} } 5,5+"10" "." "000"x1,8="18" "." "162","57"} {}</m:annotation></m:semantics></m:math>ngàn đồng</para>
+        <para id="id20819446">So sánh chi phí ở từng mức khấu trừ, ta thấy mức chi phí ở mức khấu trừ 3 là nhỏ nhất nên quyết định đặt mua hàng là 700 vale/đơn hàng. </para>
+      </section>
+      <section id="id-801277678135">
+        <title>Ứng dụng mô hình phân tích biên tế để xác định lượng dự trữ.</title>
+        <para id="id20819467">Mô hình phân tích biên tế thường được áp dụng trong điều kiện nhu cầu có thay đổi. Kỹ thuật này là khảo sát lợi nhuận cận biên trong mối quan hệ tương quan với tổn thất cận biên.</para>
+        <para id="id20819481">Nguyên tắc chủ yếu của mô hình này là ở một mức dự trữ đã định trước, chúng ta chỉ tăng thêm 1 đơn vị dự trữ nếu lợi nhuận cận biên lớn hơn hoặc bằng tổn thất cận biên. </para>
+        <para id="id20819494">Gọi (p) là xác suất xuất hiện nhu cầu lớn hơn khả năng cung (bán được hàng), nên ta có (1p) là xác suất xuất hiện nhu cầu nhỏ hơn khả năng cung (không bán được hàng). </para>
+        <para id="id20819513">Gọi Lbt  là lợi nhuận cận biên tính cho 1 đơn vị, lợi nhuận biên tế mong đợi được tính bằng cách lấy xác suất nhân với lợi nhuận cận biên (p x Lbt); và Tbt  tổn thất cận biên tính cho 1 đơn vị, tổn thất cận biên tính được (1p)x Tbt.</para>
+        <para id="id20819586">Nguyên tắc nêu trên được thể hiện qua phương trình sau:</para>
+        <para id="id20819594">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>L</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>bt</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">≥</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mi>p</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mtext>.</m:mtext>
+                      <m:msub>
+                        <m:mi>T</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>bt</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mtext/>
+                      <m:mo stretchy="false">⇒</m:mo>
+                      <m:mtext/>
+                      <m:mrow>
+                        <m:mi>p</m:mi>
+                        <m:mo stretchy="false">≥</m:mo>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>T</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>bt</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>L</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>bt</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:msub>
+                              <m:mi>T</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>bt</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{p "." L rSub { size 8{ ital "bt"} }  &gt;=  \( 1 - p \)  "." T rSub { size 8{ ital "bt"} } "      " drarrow "      "p &gt;=  {  {T rSub { size 8{ ital "bt"} } }  over  {L rSub { size 8{ ital "bt"} } +T rSub { size 8{ ital "bt"} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id20819771">Từ biểu thức này, ta có thể định ra chính sách dự trữ thêm một đơn vị hàng hoá nếu xác suất bán được cao hơn hoặc bằng xác suất xảy ra không bán được đơn vị hàng hoá dự trữ đó.</para>
+        <para id="id20819787">Ví dụ 7.5: Một người bán lẻ loại hàng tươi sống dễ bị hư hỏng (nếu để quá 1 ngày thì không thể tiêu thụ được) hàng hoá này mua vào với giá 30.000 đồng/kg và đang bán ra với giá 60.000 đồng/kg, nếu không tiêu thụ được trong ngày thì sẽ thiệt hại (dù đã tận dụng) là 10.000 đồng/kg. Xác suất về nhu cầu hàng ngày như sau:</para>
+        <table id="id20819810" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Nhu cầu (kg/ngày)</entry>
+                <entry>14</entry>
+                <entry>15</entry>
+                <entry>16</entry>
+                <entry>17</entry>
+                <entry>18</entry>
+                <entry>19</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>Xác suất</entry>
+                <entry>0,03</entry>
+                <entry>0,07</entry>
+                <entry>0,20</entry>
+                <entry>0,30</entry>
+                <entry>0,20</entry>
+                <entry>0,15</entry>
+                <entry>0,05</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20820006">Hãy xác định mức dự trữ bao nhiêu để có hiệu quả?</para>
+        <para id="id20820014">Bài giải</para>
+        <para id="id20820020">Đầu tiên, ta xác định xác suất xuất hiện nhu cầu p, điều kiện để chấp nhận mức dự trữ là:</para>
+        <para id="id20820028">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>p</m:mi>
+                            <m:mo stretchy="false">≥</m:mo>
+                            <m:mfrac>
+                              <m:msub>
+                                <m:mi>T</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>bt</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mi>L</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>bt</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:msub>
+                                  <m:mi>T</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>bt</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>10</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>000</m:mtext>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mtext>30</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mrow>
+                                <m:mtext>000</m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>10</m:mtext>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>000</m:mtext>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>0,</m:mn>
+                      </m:mrow>
+                      <m:mtext>25</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{p &gt;=  {  {T rSub { size 8{ ital "bt"} } }  over  {L rSub { size 8{ ital "bt"} } +T rSub { size 8{ ital "bt"} } } } = {  {"10" "." "000"}  over  {"30" "." "000"+"10" "." "000"} } =0,"25"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id20900434">Căn cứ vào xác suất về nhu cầu đã cho, ta có thể xác định được xác suất p như sau:</para>
+        <table id="id20900444" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Mức dự trữ</entry>
+                <entry>14</entry>
+                <entry>15</entry>
+                <entry>16</entry>
+                <entry>17</entry>
+                <entry>18</entry>
+                <entry>19</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>XS xuất hiện nhu cầu</entry>
+                <entry>0,03</entry>
+                <entry>0,07</entry>
+                <entry>0,20</entry>
+                <entry>0,30</entry>
+                <entry>0,20</entry>
+                <entry>0,15</entry>
+                <entry>0,05</entry>
+              </row>
+              <row>
+                <entry>XS bán được</entry>
+                <entry>1,00</entry>
+                <entry>0,97</entry>
+                <entry>0,90</entry>
+                <entry>0,70</entry>
+                <entry>0,40</entry>
+                <entry>0,20</entry>
+                <entry>0,05</entry>
+              </row>
+              <row>
+                <entry>So sánh p với kết quả</entry>
+                <entry>&gt;0,25</entry>
+                <entry>&gt;0,25</entry>
+                <entry>&gt;0,25</entry>
+                <entry>&gt;0,25</entry>
+                <entry>&gt;0,25</entry>
+                <entry>&lt;0,25</entry>
+                <entry>&lt;0,25</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20900808">Theo kết quả tính toán được trong bảng, mức dự trữ có hiệu quả là 18 kg/ngày.</para>
+        <para id="id20900818">Ví dụ 7.6: Anh A có một ki-ốt bán báo, trong thời gian qua số lượng các loại nhật báo của ki-ốt anh luôn bị thừa (bán không hết) nên ảnh hưởng đến việc kinh doanh. Anh xác định lượng nhật báo của ki-ốt mình bán ra hàng ngày ở mức thấp nhất là 1.000 tờ và bán được nhiều nhất là 1.600 tờ. Giá báo mua vào là 1.000 đồng/tờ và bán ra với gián 1.500 đồng/tờ, nếu bán không được tờ nhật báo đó thì sẽ bị thiệt hại 300 đồng/tờ (bán giấy vụn). Hãy xác định mức đặt hàng là bao nhiêu tờ để bán hết và đạt lợi nhuận cao nhấn.</para>
+        <para id="id20900851">Bài giải</para>
+        <para id="id20900855"> Đầu tiên, ta xác định xác suất xuất hiện nhu cầu p, trong điều kiện hoạt động của ki-ốt bán báo là:</para>
+        <para id="id20900870">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>p</m:mi>
+                            <m:mo stretchy="false">≥</m:mo>
+                            <m:mfrac>
+                              <m:msub>
+                                <m:mi>T</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>bt</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mi>L</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>bt</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:msub>
+                                  <m:mi>T</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>bt</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mtext>300</m:mtext>
+                            <m:mrow>
+                              <m:mtext>500</m:mtext>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext>300</m:mtext>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>0,</m:mn>
+                      </m:mrow>
+                      <m:mtext>375</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{p &gt;=  {  {T rSub { size 8{ ital "bt"} } }  over  {L rSub { size 8{ ital "bt"} } +T rSub { size 8{ ital "bt"} } } } = {  {"300"}  over  {"500"+"300"} } =0,"375"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id20901004"> Mức tiêu thụ thấp nhất của kiốt là 1.000 tờ, tức là mức chắc chắn bán hết, tương ứng với xác suất xảy ra là 1,0. Vì điều kiện xác suất p  0,375 mới tiêu thụ hết báo, do đó khả năng tiêu thụ nhật báo của kiốt này là: </para>
+        <para id="id20901040">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>Læåüng âàût haìng </m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mtext> Mæïc tiãu thuû tháúp nháút </m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mfenced open="" close="">
+                            <m:mtext>Phaûm vi tiãu thuû x xaïc suáút tiãu thuû hãút haìng</m:mtext>
+                          </m:mfenced>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mi>û</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"Læåüng âàût haìng "=" Mæïc tiãu thuû tháúp nháút "+  left ("Phaûm vi tiãu thuû x xaïc suáút tiãu thuû hãút haìng" right )û} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id20901120">Như vậy số lượng nhật báo của kiốt cần đặt hàng ngày là:</para>
+        <para id="id20901132">Q = 1.000 +[( 1.6001.000)x(1,00,375)] = 1.375 tờ</para>
+        <para id="id20901150">Có thể hình dung lượng đặt hàng qua sơ đồ sau:</para>
+        <table id="id20901158" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Mức dự trữ</entry>
+                <entry>1.000</entry>
+                <entry>?</entry>
+                <entry>1.600</entry>
+              </row>
+              <row>
+                <entry>XS xuất hiện nhu cầu</entry>
+                <entry>1,0</entry>
+                <entry>  0,375</entry>
+                <entry>0,0...</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20901327"> Phạm vi bán hết hàng Bán không hết hàng</para>
+      </section>
+    </section>
+  </content>
+</document>

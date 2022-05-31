@@ -1,0 +1,795 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hoạch định năng lực sản xuất</title>
+  <metadata>
+  <md:content-id>m30482</md:content-id><md:title>Hoạch định năng lực sản xuất</md:title>
+  <md:abstract>Phần này trình bày giới thiệu về hoạch định năng lực sản xuất</md:abstract>
+  <md:uuid>c8d3470d-2918-4674-ad72-3db04262b1d4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-994182443187">
+      <title>THIẾT KẾ VÀ PHÁT TRIỂN SẢN PHẨM.</title>
+      <para id="id5556051">Việc thiết kế sản phẩm có ảnh hưởng trực tiếp đến chất lượng sản phẩm, chi phí sản xuất, mức độ thỏa mãn nhu cầu khách hàng. Đây là công việc rất quan trọng đối với sự thành công trong cạnh tranh hiện nay, đòi hỏi nhà quản trị cần nắm những vấn đề liên quan đến sản phẩm được thiết kế.</para>
+      <para id="id4577402">− Đặc tính chi tiết của từng loại sản phẩm.</para>
+      <para id="id3472929">− Đặc tính của sản phẩm có ảnh hưởng trực tiếp bởi cách thức chế tạo sản phẩm.</para>
+      <para id="id3610456">− Cách thức sản phẩm được chế tạo sẽ quyết định đến việc thiết kế hệ thống sản xuất</para>
+      <para id="id5549809">Trong phần thiết kế sản phẩm, chúng ta sẽ xem xét nguồn phát minh sản phẩm, phát triển sản phẩm mới, cải thiện bản thiết kế cho sản phẩm hiện có, thiết kế sản phẩm để thuận tiện cho sản xuất, thiết kế sản phẩm hướng vào chất lượng, thiết kế và phát triển dịch vụ.</para>
+      <section id="id-649114370674">
+        <title>Nguồn phát minh sản phẩm:</title>
+        <para id="id3500759">Ý nghĩ về một sản phẩm hay dịch vụ có thể bắt đầu từ nhiều nguồn: khách hàng, nhà quản lý, nhân viên tiếp thị hay từ ngành cơ khí. Các công ty lớn thường có bộ phận nghiên cứu và phát triển sản phẩm chính thức. Bộ phận này thực hiện các công việc sau:</para>
+        <para id="id3095850">− Tiến hành những nghiên cứu cơ bản (những kiến thức khoa học tổng quát với mục tiêu phi thương mại). Sự nổ lực được hướng trước hết vào việc tìm hiểu những qui luật của tự nhiên hay nghiên cứu lý thuyết đã được công nhận với mục đích phát triển kiến thức mới. Phương hướng hoạt động không được xác định trước, mà chỉ được xác định trong quá trình công việc tiến triển và con đường tiếp tục nghiên cứu sẽ tự nó hiện ra. Lĩnh vực nghiên cứu cơ bản thường đem lại những “bước đột phá” được công nhận bằng những giải thưởng lớn như giải Nobel.</para>
+        <para id="id5582585">− Tiến hành các nghiên cứu ứng dụng (các kiến thức tổng quát về mục tiêu thương mại). Nghiên cứu ứng dụng thường sử dụng những kết quả nghiên cứu cơ bản. Trong bất kỳ trường hợp nào, những nổ lực nghiên cứu ứng dụng muốn thành công đều cần đến một kho tàng mênh mông những phát kiến nghiên cứu cơ bản. Không thể giải quyết thành công một vấn đề thực tiễn bằng sự may rủi, mà phải bằng nỗ lực nghiên cứu, dù là nghiên cứu cơ bản hay nghiên cứu ứng dụng, đều phải coi trọng việc tìm kiếm một cách có hệ thống các giải pháp.</para>
+        <para id="id5553916">− Tiến hành thiết kế và phát triển sản phẩm mới hay dịch vụ mới cùng qui trình sản xuất. Với mục tiêu là đảm bảo cho công ty luôn thịnh vượng bằng cách tìm ra những ý tưởng về sản phẩm mới có thể đáp ứng nhu cầu của khách hàng hiện tại và tương lai. </para>
+      </section>
+      <section id="id-363705875582">
+        <title>Tổ chức nghiên cứu thiết kế và phát triển sản phẩm.</title>
+        <para id="id5556153">Tổ chức thiết kế sản phẩm và công nghệ là một giai đoạn quan trọng trong quá trình tạo ra những sản phẩm, công nghệ mới để đưa vào sản xuất kinh doanh cũng như đưa nó vào khai thác có tính chất thương mại. Nó bao gồm toàn bộ hoạt động tổ chức, phối hợp nhằm xác định những mục tiêu, tạo ra những điều kiện và mối quan hệ cần thiết để có được sản phẩm và công nghệ mới. Những hoạt động này bao gồm cả các hoạt động nghiên cứu, thiết kế thường xuyên và những nghiên cứu cụ thể.</para>
+        <para id="id3535610"> Về mặt nội dung, công tác tổ chức thiết kế sản phẩm và công nghệ bao gồm 3 vấn đề cơ bản sau:</para>
+        <para id="id5582264">− Tổ chức hệ thống các bộ phận tham gia các hoạt động nghiên cứu, thiết kế sản phẩm và công nghệ mới. Việc này không đơn thuần chỉ là việc thiết lập một hệ thống các bộ phận, tổ chức có chức năng nghiên cứu, thiết kế các sản phẩm và công nghệ mới, mà còn bao gồm cả việc phân công trách nhiệm tổ chức sự chuyên môn hoá và hợp tác giữa các cơ sở, các bộ phận. Cơ chế hoạt động cũng như sự liên kết, hợp tác với các cơ sở khác ngoài doanh nghiệp. Trong việc tổ chức hệ thống này, cần đặc biệt chú ý tới sự phối hợp có tính liên ngành của các bộ phận chuyên ngành. Mục đích của việc này là đảm bảo được sự tham gia của cán bộ thuộc các lĩnh vực chuyên môn khác nhau để ngay từ đầu có thể loại bỏ bớt tính không tưởng, tính phi thực tế của sản phẩm và công nghệ mới, chức không đợi đến lúc nghiên cứu xong, đưa ra thẩm định mới có thể kết luận được. Mặt khác thông qua đây có thể tiết kiệm chi phí nghiên cứu, tiết kiêm thời gian tìm ra các giải pháp có tính đồng bộ từ các ý kiến, quan điểm của các chuyên gia thuộc các lĩnh vực khác nhau.</para>
+        <para id="id5285772">Trong việc tổ chức hệ thống các bộ phận làm chức năng nghiên cứu, thiết kế sản phẩm và công nghệ, không chỉ cần đến sự hợp tác liên ngành, mà cần chú ý đến việc làm sao cho các nguồn lực không bị phân tán, mất lợi thế về mặt thời gian trong cạnh tranh.</para>
+        <para id="id5308428">− Tổ chức các hoạt động nghiên cứu, thiết kế sản phẩm và công nghệ mới. Đây là hoạt động nhằm duy trì các hoạt động thường ngày của doanh nghiệp trong lĩnh vực nghiên cứu, thiết kế sản phẩm và công nghệ mới. Trước hết nhằm vào các bộ phận chuyên trách làm nhiệm vụ nghiên cứu thiết kế sản phẩm và công nghệ mới. Chúng thường thực hiện trên cơ sở kế hoạch hoạt động của các bộ phận này và bản kế hoạch đó lại thường dựa trên một số căn cứ chủ yếu như hướng hoạt động chung và nhiệm vụ do doanh nghiệp đề ra. Trong việc tổ chức các hoạt động nghiên cứu, bên cạnh việc xác định được những mục tiêu ngắn hạn cũng như dài hạn của công tác nghiên cứu, thiết kế sản phẩm, công nghệ. Sự phân công cụ thể cho các bộ phận có liên quan, còn cần tìm kiếm thực hiện các biện pháp nhằm lôi cuốn đông đảo người lao động và các cán bộ thuộc các cấp khác nhau trong hệ thống quản lý. Để làm được việc này người ta có thể áp dụng nhiều hình thức tổ chức khác nhau, thậm chí kết hợp chúng một cách linh hoạt.</para>
+        <para id="id5459864">− Tổ chức lực lượng cán bộ nghiên cứu, thiết kế sản phẩm và công nghệ mới. Trong bất kỳ một doanh nghiệp nào, dù chỉ là sản xuất kinh doanh thuần tuý (không tổ chức bộ phận nghiên cứu, thiết kế sản phẩm và công nghệ riêng), thì vẫn cần những sản phẩm và công nghệ mới, cũng có những cán bộ có khả năng nghiên cứu theo hướng này.</para>
+        <para id="id5553874"> Những hình thức tổ chức nghiên cứu, thiết kế sản phẩm, công nghệ thường áp dụng là:</para>
+        <para id="id5554931">− Tổ chức quan hệ giữa các bên tham gia với tư cách là những bên mua−bán, thông thường là hàng hoá được giao dịch là sản phẩm và công nghệ mới, tồn tại dưới dạng bản vẽ, bản mô tả,... Quan hệ giữa 2 bên không đơn thuần là mua bán mà còn có sự hợp tác trong quá trình triển khai, đưa ý đồ, bản vẽ thành hiện thực. Trong nhiều trường hợp bên mua (đơn vị sản xuất kinh doanh) cũng cung cấp những điều kiện mình có (nhà xưởng, thiết bị,...) để các cơ sở nghiên cứu sử dụng thí nghiệm theo đề tài của họ.</para>
+        <para id="id4941963">− Tổ chức quan hệ liên kết giữa các cơ sở sản xuất kinh doanh (đơn vị trực tiếp sử dụng kết quả nghiên cứu, thiết kế sản phẩm và công nghệ, với tư cách là bên mua hoặc bên góp vốn và các điều kiện khác nhằm khai thác lợi ích của sản phẩm, công nghệ mới) với các cơ sở nghiên cứu thiết kế sản phẩm và công nghệ mới.</para>
+        <para id="id5554714">− Tổ chức các cơ sở nghiên cứu như những bộ phận độc lập trong một tổ chức sản xuất kinh doanh có qui mô lớn. Nhiệm vụ của bộ phận này được tập trung hoá vào khâu nghiên cứu thiết kế sản phẩm và công nghệ mới. Nó có thể hoạt động như một bộ phận độc lập của toàn bộ công ty, được cung cấp những điều kiện cần thiết để nghiên cứu. Đây là mô hình tổ chức các phòng nghiên cứu, các trung tâm hoặc viện nghiên cứu trong các tập đoàn, công ty lớn trong nước và đa quốc gia.</para>
+      </section>
+      <section id="id-97321447767">
+        <title>Qui trình phát triển sản phẩm.</title>
+        <section id="id-123617406262">
+          <title>Phát triển sản phẩm mới:</title>
+          <para id="id5554986">Sơ đồ 3-1 chỉ ra các bước quan trọng trong việc thiết kế và phát triển sản phẩm mới. Nếu cơ hội cho một sản phẩm mới được nhận ra, thì nghiên cứu khả thi về phương diện kinh tế, công nghệ cho chúng ta một hướng dẫn có ích trong việc xây dựng một dự án phát triển sản phẩm. Nếu nghiên cứu khả thi ban đầu này được tiến hành, các kỹ sư có thể chuẩn bị một bản thiết kế cơ sở. Bản thiết kế cơ sở này cho biết các hình thái cơ bản, khả năng thích ứng và chức năng sản phẩm cuối cùng, nhưng nhất thiết nó phải phù hợp với mô hình sản xuất. Kết quả của việc kiểm tra lại và tái thiết kế tiếp tục cho đến khi quá trình thiết kế - kiểm tra - tái thiết kế đưa ra một bản thiết kế cơ bản có kết quả thỏa mãn. Tiếp theo là đánh giá và nhận dạng thị trường cùng với việc minh họa khách hàng tiềm năng, kiểm tra lại thị trường. Nếu sự đáp ứng của bản thiết kế cơ bản này tốt thì sự đánh giá kinh tế của bản thiết kế cơ bản này được sử dụng để ước lượng qui mô sản xuất, chi phí và lợi nhuận cho sản phẩm, khi đó dự án sẽ được đưa vào giai đoạn thiết kế sản xuất .</para>
+          <figure id="id5554325">
+            <media id="id1169425697640" alt=""><image src="../../media/graphics1-2fe3.png" mime-type="image/png" height="236" width="628"/></media>
+          </figure>
+          <section id="id-145905894026">
+            <title>Sơ đồ 3-1: Phát triển sản phẩm mới</title>
+            <para id="id4125170">Bản thiết kế sản xuất sẽ được phát triển dần thông qua kiểm tra lại kết quả, kiểm tra và thử lại sản xuất, kiểm tra lại thị trường và nghiên cứu hiệu quả kinh tế. Thiết kế phải đạt chi phí thấp, chất lượng tin cậy, kết quả tốt và khả năng sản xuất được số lượng mong muốn trên máy móc thiết bị sản xuất dự định. Các bản thiết kế sản xuất liên tục được điều chỉnh để phù hợp với sự thay đổi của điều kiện thị trường, sự thay đổi của công nghệ sản xuất và cho phép sự cải tiến về phương diện chế tạo.</para>
+            <para id="id5577261">Khoảng 5% các ý tưởng về sản phẩm mới còn tồn tại trong sản xuất nhưng chỉ có 1/10 trong số đó là thành công. Tốt nhất là nên loại bỏ những dự án phát triển sản phẩm hay dịch vụ mới không hứa hẹn, để tập trung các nguồn nhân vật lực vào các dự án hứa hẹn hơn. Điều này cho thấy sự cần thiết phải có một ban kiểm tra để xem xét tiến trình của các dự án sản phẩm hay dịch vụ mới.</para>
+          </section>
+        </section>
+        <section id="id-401708370503">
+          <title>Đưa sản phẩm ra thị trường nhanh hơn:</title>
+          <para id="id5608177">Để thành công trong việc cạnh tranh, các công ty phải thiết kế, phát triển và giới thiệu sản phẩm của mình nhanh hơn.</para>
+          <para id="id5559270">Một phương pháp tiếp cận trong việc đẩy nhanh tiến trình thiết kế và giới thiệu sản phẩm mới là việc sử dụng đội phát triển và thiết kế tự động. Những công ty như: General Motors, IBM, General Electric, Toyota, Nissan, Honda, đội thiết kế được quyền đưa ra các quyết định, tự quyết nhiều hơn trong thiết kế và giới thiệu sản phẩm. Kết quả đạt được là khá tốt. Thời gian cần có để những sản phẩm mới được thiết kế, phát triển và giới thiệu ra thị trường càng giảm, tiết kiệm nhiều chi phí. Cũng có thể tận dụng sự trợ giúp của máy vi tính để thiết kế ra các bộ phận, tổng thể, các ý tưởng quan trọng và kiểm tra lại sự trục trặc có thể có giữa các bộ phận.</para>
+          <para id="id3468448">Thông lệ, thiết kế sản phẩm và thiết kế qui trình sản xuất là hai hoạt động riêng biệt. Công ty cần phải đi qua tất cả các bước để thiết kế sản phẩm, sau đó các bản thiết kế này được đưa đến cho nhà sản xuất để thiết kế qui trình sản xuất. Nhưng cách này phải mất nhiều thời gian để đưa sản phẩm mới đến được thị trường.</para>
+          <figure id="id5336886">
+            <media id="id2447941" alt=""><image src="../../media/graphics2-cad1.png" mime-type="image/png" height="258" width="605"/></media>
+          </figure>
+          <para id="id5298114"/>
+          <section id="id-553250027275">
+            <title>Sơ đồ 3-2: Thiết kế đồng thời.</title>
+            <para id="id4174858">Sơ đồ 3-2 minh họa khái niệm của thiết kế đồng thời, có nghĩa là bản thiết kế sản phẩm, dịch vụ được tiến hành đồng thời với bản thiết kế qui trình sản xuất thông qua sự tương tác liên tục giữa chúng. Cách này rút ngắn thời gian thiết kế, sản xuất và giới thiệu sản phẩm mới.</para>
+            <para id="id3536287">Các hoạt động sản xuất, tiếp thị, tài chính và kỹ thuật có liên quan đến thiết kế và phát triển sản phẩm, nó có tầm quan trọng như là sản phẩm mới được phát triển. Khi sản phẩm đi vào giai đoạn cuối của chu kỳ sống của nó, các cố gắng này sẽ được chuyển thành mối quan tâm về cải tiến bản thiết kế cho sản phẩm hiện có.</para>
+          </section>
+        </section>
+        <section id="id-267270869305">
+          <title>Cải tiến bản thiết kế sản phẩm hiện có:</title>
+          <para id="id3912952">Các công ty thường rất cố gắng để điều chỉnh và cải tiến sản phẩm hiện có. Tiêu điểm của sự cố gắng này là cải thiện kết quả, chất lượng và chi phí với mục tiêu là duy trì, nâng cao thị phần cho sản phẩm đang trưởng thành. Chẳng hạn ở công ty TOYOTA, một chương trình liên tục được tiến hành cải tiến bản thiết kế sản phẩm nhằm giảm chi phí sản xuất. Bằng cách nhấn mạnh việc cải tiến thiết kế sản phẩm liên tục, những cải tiến nhỏ này đóng góp vào việc cải tiến trong dài hạn về chất lượng sản phẩm và chi phí sản xuất.</para>
+        </section>
+        <section id="id-195375594629">
+          <title>Thiết kế thuận tiện cho sản xuất:</title>
+          <para id="id5218105">Thiết kế sản phẩm thuận tiện cho sản xuất là con đường cơ bản của các nhà sản xuất, giúp họ trở thành nhà cạnh tranh mạnh mẽ trên thị trường.</para>
+          <para id="id4501536">Có 3 khái niệm liên quan đến việc thiết kế để thuận tiện cho sản xuất: chuyên môn hóa, tiêu chuẩn hóa và đơn giản hóa.</para>
+          <para id="id5219660">* Chuyên môn hóa là việc mô tả chi tiết về nguyên vật liệu, các bộ phận hay sản phẩm bao gồm các số liệu như về mặt cấu tạo, về bề mặt, độ pH và các tiêu chuẩn vật lý khác. Những chỉ dẫn đặc biệt này cung cấp những thông tin chính xác về các đặc trưng của loại sản phẩm cần được chế tạo.</para>
+          <para id="id4839011">* Tiêu chuẩn hóa đề cập đến hoạt động thiết kế nhằm giảm sự biến động trong sản phẩm hay các bộ phận. Ví dụ nếu nhóm sản phẩm có 20 mẫu mã được thiết kế để chọn lấy ra 10 mẫu, chúng ta sẽ xem 10 mẫu này là được tiêu chuẩn hóa cao hơn các sản phẩm trước. Tiêu chuẩn hóa nhóm sản phẩm hay các bộ phận là kết quả của khối lượng lớn từng sản phẩm hay các bộ phận và có thể giúp cho chi phí sản xuất thấp hơn, chất lượng sản phẩm cao hơn, có khả năng tự động hóa dễ dàng hơn.</para>
+          <para id="id5336235">* Đơn giản hóa việc thiết kế sản phẩm là việc loại bỏ những cấu trúc phức tạp, nhưng vẫn có được các chức năng sản phẩm theo dự định với chi phí thấp hơn, chất lượng cao hơn hay thỏa mãn nhu cầu khách hàng cao hơn. Sự thỏa mãn này có thể được gia tăng bằng cách làm cho sản phẩm được thuận tiện khi mua, dễ lắp đặt, dễ bảo trì hay sử dụng. Chi phí có thể thấp hơn thông qua việc dễ dàng lắp ráp, có thể sử dụng nguyên vật liệu rẻ tiền hơn hay là có thể làm giảm hao phí nguyên liệu khi sản xuất. </para>
+        </section>
+        <section id="id-139264495872">
+          <title>Thiết kế hướng về chất lượng.</title>
+          <para id="id4275620">Một yếu tố quan trọng của việc thiết kế sản phẩm là ảnh hưởng của nó lên chất lượng sản phẩm. Sản phẩm được chấp nhận bởi khách hàng hay không, là được quyết định cuối cùng ở mức độ hướng về chất lượng sản phẩm của việc thiết kế. Các sản phẩm hay dịch vụ có chất lượng siêu hạng đều bắt đầu từ thiết kế. Ba khía cạnh đặc biệt quan trọng của thiết kế hướng về chất lượng là: thiết kế chắc chắn, thiết kế để sản xuất và thiết kế cho sự tin cậy.</para>
+          <para id="id3838986">* Một thiết kế chắc chắn: sẽ được thực hiện ngay khi những điều kiện không mong muốn xảy ra cả trong sản xuất lẫn ngoài thực tế.</para>
+          <para id="id4800429">* Thiết kế để sản xuất: làm giảm đáng kể các sai sót và cải thiện chất lượng sản phẩm. Khi một sản phẩm được thiết kế một cách thích hợp sẽ có ít chi tiết hơn và có thể lắp ráp một cách dễ dàng, nhanh chóng.</para>
+          <para id="id4800434">* Thiết kế tin cậy: Từng chi tiết có mức tin cậy của nó và tập hợp lại ta có mức tin cậy của hệ thống. Cần lưu ý rằng, mức tin cậy của các chi tiết giới hạn sẽ quyết định mức tin cậy của toàn hệ thống. Ví dụ: Một vỏ xe ôtô có chu kỳ sống là 45.000 km, nếu có 1% bị hỏng dưới 45.000 km chúng ta nói vỏ xe có mức tin cậy 99%. Nếu có 4 vỏ xe ôtô, từng chiếc có mức tin cậy là 99% thì mức tin cậy của hệ thống 4 vỏ xe là : 0,99 x 0,99 x 0,99 x 0,99 = 0,961 hay 96,1%. Như vậy muốn tăng mức độ tin cậy của hệ thống, ta phải:</para>
+          <para id="id4838903">- Thiết kế để tránh các hư hỏng thông thường ở các bộ phận.</para>
+          <para id="id4174396">- Đơn giản hóa thiết kế, giảm các chi tiết tương tác trong sản phẩm.</para>
+          <para id="id5546307">- Cung cấp ngay các chi tiết thay thế, hoặc có thể đặt vào hệ thống để thay thế một cách tự động đối với chi tiết có độ tin cậy thấp. </para>
+          <para id="id4333527">Các nhà chế tạo hiện nay đặt mục tiêu là sản xuất ra những sản phẩm gần như “hoàn hảo” về chất lượng.</para>
+        </section>
+        <section id="id-36793391222">
+          <title>Thiết kế và phát triển dịch vụ mới.</title>
+          <para id="id3825879">Chúng ta đã biết qua các chiến lược định vị cho dịch vụ là:</para>
+          <para id="id4252874">* Cách thiết kế sản phẩm: chuyên biệt cho từng khách hàng hay theo tiêu chuẩn.</para>
+          <para id="id3809808">* Cách thiết kế qui trình sản xuất: hướng về sản phẩm hay hướng về qui trình.</para>
+          <para id="id3490059">* Cách khách hàng tiếp xúc nhiều hay ít.</para>
+          <para id="id3622689">Có lẽ điều hiển nhiên nhất về thiết kế dịch vụ là sự đa dạng của chúng, song có 3 khía cạnh tổng quát của việc thiết kế dịch vụ là:</para>
+          <para id="id3468804">- Mức độ tiêu chuẩn hóa của dịch vụ. Tính chất của sản phẩm là phù hợp cho từng khách hàng hay là cho nhóm khách hàng, dịch vụ có giống nhau cho mọi khách hàng hay không.</para>
+          <para id="id4263611">- Mức độ giao dịch với khách hàng trong việc phân phối dịch vụ. Có trường hợp mức độ giao dịch với khách hàng cao như là trong lĩnh vực thời trang hay là thấp như trong nhà hàng cung cấp thức ăn nhanh.</para>
+          <para id="id4263616">- Sự pha trộn của hàng hóa hữu hình và dịch vụ vô hình, sự pha trộn này bị chiếm lĩnh bởi dịch vụ vô hình như trong trường đại học hay hàng hóa hữu hình như sản phẩm của các hiệu may.</para>
+          <para id="id4941167">Có cả sự thuận lợi và không thuận lợi của từng khuynh hướng trên trong việc thiết kế dịch vụ. Ví dụ: các dịch vụ được tiêu chuẩn hóa với mức độ tiếp xúc khách hàng thấp thường ít tốn kém và có thể nhanh chóng đưa ra thị trường, có thể thích hợp đối với chiến lược của một số dịch vụ. Ngược lại, có một vài mặt hàng khác cần có sự giao dịch với khách hàng ở mức độ cao.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-0534687486143">
+      <title>LỰa chỌn qui trình sẢn xuẤt.</title>
+      <section id="id-573415852057">
+        <title>Lựa chọn các khả năng trong qui trình sản xuất. </title>
+        <para id="id3838899">Trong việc lựa chọn qui trình sản xuất, nhiều nhân tố cần phải được xem xét. Những nhân tố này là kích thước loạt sản xuất, sự biến động của sản phẩm, nhu cầu về vốn và phân tích kinh tế.</para>
+        <section id="id-42150875873">
+          <title>Kích thước loạt sản xuất và sự biến động của sản phẩm.</title>
+          <para id="id4940636">Sơ đồ 3-6 minh họa cho thấy kiểu qui trình thiết kế có thích hợp hay không phụ thuộc vào số lượng bản thiết kế sản phẩm và kích thước của loạt sản xuất trong hệ thống sản xuất.</para>
+          <para id="id4368105">
+            <figure id="id3748583">
+              <media id="id4331476" alt=""><image src="../../media/graphics3-45c4.png" mime-type="image/png" height="330" width="497"/></media>
+            </figure>
+          </para>
+          <para id="id4867640"/>
+          <section id="id-217123079474">
+            <title>Sơ đồ 3-3: Kiểu thiết kế qui trình phụ thuộc vào kích thước lô </title>
+            <para id="id4962344">Khi chúng ta chuyển từ điểm A sang điểm D trên sơ đồ, chi phí sản xuất và tính linh hoạt gia tăng. Tại điểm A, chỉ có một sản phẩm đơn độc và nhu cầu cho sản phẩm này rất lớn, nên hệ thống tổ chức sản xuất theo sản phẩm toàn bộ là thích hợp. Tuy chi phí sản xuất trên đơn vị sản phẩm thấp nhưng kiểu sản xuất này lại không linh hoạt, do máy móc được trang bị chuyên biệt và công nhân được huấn luyện để thích nghi cho việc sản xuất sản phẩm đó. Khi số lượng bản thiết kế sản phẩm gia tăng và kích thước loạt sản xuất giảm đi, tại điểm B chẳng hạn, hệ thống sản xuất hướng về sản phẩm theo loạt trở nên thích hợp. Mặc dù hệ thống này cũng còn kém linh hoạt nhưng việc đào tạo công nhân và trang bị máy móc ít chuyên biệt hơn để có thể chuyển sang sản xuất loại sản phẩm khác dễ dàng hơn và sự đa dạng của sản phẩm.</para>
+            <para id="id4962349">Vì chiến lược kinh doanh được phát triển cho mỗi dây chuyền sản xuất chủ yếu, việc xác định lượng cầu mong đợi cho từng sản phẩm và số kiểu sản phẩm cần thiết để chiếm lĩnh thị trường là một yếu quan trọng trong việc chọn kiểu thiết kế qui trình.</para>
+          </section>
+        </section>
+        <section id="id-0761615728765">
+          <title>Nhu cầu vốn cho việc thiết kế qui trình.</title>
+          <para id="id5320204">Số lượng vốn cần thiết cho hệ thống sản xuất có xu hướng khác nhau đối với từng loại qui trình sản xuất. Trong sơ đồ 3-3 nói chung, số lượng vốn là lớn nhất ở điểm A và giảm dần sang điểm D. Nhu cầu về vốn của doanh nghiệp có thể là nhân tố quan trọng trong việc chọn kiểu thiết kế qui trình và chiến lược kinh doanh sẽ được điều chỉnh theo đó.</para>
+        </section>
+      </section>
+      <section id="id-764092276745">
+        <title>Phân tích kinh tế.</title>
+        <para id="id3528998">Trong các nhân tố được xem xét, chi phí sản xuất là nhân tố quan trọng để chọn ra cách thức tổ chức sản xuất. Trong phần này chúng ta sẽ thảo luận về các hàm số chi phí của từng cách thức, các khái niệm như đòn cân hoạt động, phân tích hòa vốn và phân tích tài chính.</para>
+        <section id="id-21397086786">
+          <title>Hàm số chi phí của các qui trình.</title>
+          <para id="id5288511">Như được lưu ý trước đây, từng loại thiết kế qui trình sản xuất có nhu cầu số lượngvốn khác nhau. Chi phí về vốn thông thường ấn định các khoản chi phí xảy ra trong từng tháng và đại diện cho các biện pháp đo lường chi phí vốn của xí nghiệp. Sơ đồ 3-7 minh họa cho thấy các hình thức khác nhau của thiết kế qui trình sản xuất từng loại sản phẩm có hàm chi phí khác nhau. Chi phí ban đầu về máy móc thiết bị cao, chi phí về nhà xưởng và các thiết bị khác cao thì tổng chi phí cố định sẽ cao hơn. Cũng thế, hình thức khác nhau của tổ chức sản xuất sẽ có chi phí biến đổi khác nhau tùy theo số lượng sản phẩm sản xuất trong từng tháng.</para>
+          <para id="id5349609">Ví dụ: Loại hình dây chuyền lắp ráp tự động có chi phí cố định hàng năm là 22,5 tỉ đồng, bao gồm các khoản chi phí có liên quan về rô-bô; máy tính cá nhân; và các máy móc thiết bị cần thiết khác cho dây chuyền lắp ráp tự động. Các khoản chi phí biến đổi (như lao động, nguyên vật liệu và các chi phí biến đổi khác) cho dây chuyền khá thấp so với các hình thức thiết kế qui trình sản xuất khác, vì độ dốc của hàm chi phí thấp. Điều này có nghĩa là tốc độ gia tăng chi phí chậm hơn tốc độ tăng khối lượng sản xuất hàng năm. Nếu như vốn sản xuất không phải là vấn đề quan tâm của đơn vị thì thiết kế qui trình được đề cập phụ thuộc vào số lượng sản phẩm sản xuất. Trong sơ đồ 3-7, nếu khối lượng sản xuất ít hơn 100.000 sản phẩm, một ‘cửa hiệu công việc’ sẽ thích hợp hơn; nếu như khối lượng từ 100.000 - 250.000 sản phẩm, kiểu ‘chế tạo theo nhóm’ phù hợp hơn; nếu trên 250.000 sản phẩm, ‘dây chuyền lắp ráp tự động’ được thích hơn.</para>
+          <figure id="id3224144">
+            <media id="id3395803" alt=""><image src="../../media/graphics4-d990.png" mime-type="image/png" height="274" width="549"/></media>
+          </figure>
+          <section id="id-338962919164">
+            <title>Sơ đồ 3-7: Các hàm chi phí của các kiểu qui trình</title>
+            <para id="id4410083">
+              <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+            </para>
+          </section>
+        </section>
+        <section id="id-463081290533">
+          <title>Khái niệm về đòn cân hoạt động.</title>
+          <para id="id3487879">Đòn cân hoạt động là công cụ đo lường mối quan hệ giữa chi phí với doanh số bán hàng năm của một xí nghiệp. Nếu chi phí cố định cao trong tổng chi phí của xí nghiệp, ta cho rằng xí nghiệp có mức độ đòn cân hoạt động cao. Mức độ cao về đòn cân hoạt động, nếu những nhân tố khác là không đổi, khi có sự thay đổi trong doanh số bán sẽ dẫn đến sự thay đổi lớn trong thu nhập. Sơ đồ 3-8 minh họa vấn đề này. </para>
+          <figure id="id3898906">
+            <media id="id1169430875755" alt=""><image src="../../media/graphics5-2668.png" mime-type="image/png" height="284" width="508"/></media>
+          </figure>
+          <section id="id-0815118776665">
+            <title>Sơ đồ 3-8: Quan hệ giữa đòn cân hoạt động và thiết kế qui trình.</title>
+            <para id="id3535970">Khái niệm đòn cân hoạt động có những ý nghĩa quan trọng trong việc chọn bản thiết kế qui trình.</para>
+            <para id="id4559098">* Lợi nhuận dài hạn lớn hơn có thể thấy được ở các qui trình sản xuất với đòn cân hoạt động lớn hơn khi sản xuất đạt đến một mức độ nhất định.</para>
+            <para id="id3486151">* Lỗ dài hạn càng lớn sẽ phát sinh từ những qui trình sản xuất với đòn cân hoạt động lớn hơn nếu như khối lượng sản xuất ít hơn điểm hòa vốn.</para>
+            <para id="id4282194">* Đòn cân hoạt động của một qui trình sản xuất càng cao, thì lợi nhuận trong tương lai càng không chắc chắn.</para>
+            <para id="id4601891">* Dự báo doanh số bán lớn không chắc chắn thì mức rủi ro càng lớn khi sử dụng qui trình có đòn cân hoạt động cao.</para>
+          </section>
+        </section>
+        <section id="id-831142227015">
+          <title>Phân tích điểm hòa vốn.</title>
+          <para id="id3576641">Phân tính hòa vốn được sử dụng rộng rãi để phân tích và so sánh, lựa chọn giữa các khả năng sản xuất. Trong bất kỳ hình thức nào, kết quả cũng có thể dễ dàng giải thích được. Đây là điểm thuận lợi quan trọng nhất, vì các nhà quản lý thường dễ dàng chấp nhận một vấn đề họ không thể giải quyết hơn là sử dụng giải pháp mà họ không hiểu. Tuy nhiên, yếu điểm cơ bản của phương pháp này là chúng ta giả sử khối lượng sản xuất biết được, chi phí có ảnh hưởng đến số lượng sản phẩm sản xuất ra và không tính đến giá trị của tiền tệ theo thời gian. Sơ đồ 3-9 minh họa điểm hòa vốn.</para>
+          <figure id="id4903499">
+            <media id="id1169426817491" alt=""><image src="../../media/graphics6-814d.png" mime-type="image/png" height="296" width="528"/></media>
+          </figure>
+          <section id="id-358215241569">
+            <title>Sơ đồ 3-9: Phương pháp điểm hòa vốn.</title>
+            <para id="id3468959">
+              <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+            </para>
+          </section>
+        </section>
+      </section>
+    </section>
+    <section id="id-00229060846934">
+      <title>HOẠCH ĐỊNH NĂNG LỰC SẢN XUẤT DÀI HẠN</title>
+      <para id="id4531241">Hoạch định phương tiện sản xuất bao gồm việc xác định năng lực sản xuất dài hạn cần có, thời điểm cần bổ sung năng lực sản xuất, vị trí bố trí nhà máy. Hoạch định phương tiện sản xuất được thiết kế dựa trên cơ sở kế hoạch chiến lược dài hạn của công ty, các kế hoạch này là cơ sở cho việc xác định sản phẩm cần sản xuất trong từng giai đoạn. Điều này rất quan trọng bởi vì:</para>
+      <para id="id5370509"> Vốn đầu tư vào máy móc thiết bị, khoa học kỹ thuật, đất đai và nhà xưởng cho sản xuất là rất lớn. Khi một công ty đã đầu tư rất nhiều vốn cho phương tiện sản xuất, thì phải có một chiến lược trong dài hạn. Vì thế quyết định này phải được dựa trên những cơ sở nghiên cứu sâu rộng và được hình thành ở mức độ cao nhất của công ty.</para>
+      <para id="id4941678"> Chiến lược dài hạn được thể hiện kế hoạch về phương tiện sản xuất của công ty. Những vấn đề như: các loại sản phẩm gì cần được sản xuất, thị trường nào tiêu thụ sản phẩm đó, các công nghệ nào được sử dụng phản ánh kế hoạch chiến lược của công ty. Các vấn đề này cũng phải giải quyết ở cấp quản trị cao nhất.</para>
+      <para id="id4031868"> Hiệu quả hoạt động phụ thuộc vào năng lực của phương tiện sản xuất. Các chi phí bảo trì, tính thuận lợi của lịch trình, hiệu quả kinh tế của qui mô là những nhân tố chịu ảnh hưởng của năng lực phương tiện máy móc thiết bị.</para>
+      <para id="id3619209"> Năng lực sản xuất trở thành ràng buộc trong nhiều quyết định của quản trị sản xuất và tác nghiệp. Số lượng sản phẩm được sản xuất là bao nhiêu thì có hiệu quả trong giai đoạn sản xuất cụ thể nào đó, là nhân tố giới hạn trong hoạch định sản xuất ngắn hạn.</para>
+      <para id="id4940236">Các quyết định về hoạch định năng lực sản xuất dài hạn thường bao gồm các hoạt động sau:</para>
+      <para id="id4031819">- Ước lượng năng lực cho máy móc thiết bị hiện tại.</para>
+      <para id="id5336391">- Dự báo nhu cầu về năng lực sản xuất dài hạn trong tương lai cho tất cả sản phẩm hoặc dịch vụ.</para>
+      <para id="id5367605">- Chỉ rõ và phân tích nguồn cung cấp để đáp ứng nhu cầu năng lực sản xuất trong tương lai.</para>
+      <para id="id4512259">- Lựa chọn nguồn năng lực sản xuất thích hợp.</para>
+      <section id="id-718959574314">
+        <title>Định nghĩa, đo lường và dự báo năng lực sản xuất thực tế:</title>
+        <section id="id-995542163294">
+          <title>Định nghĩa năng lực sản xuất thực tế:</title>
+          <para id="id3793919">Năng lực sản xuất thực tế tối đa là sản lượng đạt được thông qua các ca làm việc bình thường trong ngày hay trong tuần, khi đó phương tiện sản xuất không đạt được hiệu quả cao nhất. Nói chung, năng lực sản xuất là tỷ lệ sản xuất tối đa của một đơn vị sản xuất kinh doanh. </para>
+          <para id="id5364297">Các nhân tố ảnh hưởng năng lực sản xuất bao gồm:</para>
+          <para id="id3195223"> Các biến đổi hàng ngày như sự vắng mặt của công nhân, sự hỏng hóc của máy móc thiết bị, các ngày nghỉ, sự trễ nải trong việc cung ứng nguyên vật liệu làm cho kết quả sản xuất của các phương tiện trở nên không chắc chắn.</para>
+          <para id="id3911052"> Tỷ lệ sản xuất các loại sản phẩm khác nhau và các dịch vụ của các loại sản phẩm này cũng khác nhau. Vì thế sự pha trộn số lượng sản phẩm cần được sản xuất phải được tính đến khi hoạch định năng lực của phương tiện sản xuất.</para>
+          <para id="id4941720"> Mức độ sản xuất là bao nhiêu? Khả năng tối đa, năng lực sản xuất dựa trên lịch làm việc là bao nhiêu ngày trong tuần, năng lực sản xuất thực tế dựa trên việc sử dụng phương tiện sản xuất hiện có mà không cần sử dụng đến các máy móc thiết bị dự phòng...</para>
+        </section>
+        <section id="id-628433716858">
+          <title>Đo lường năng suất:</title>
+          <para id="id3780629">Đối với những công ty chỉ sản xuất ra một hoặc một vài sản phẩm tương tự nhau thì việc đo lường năng lực sản xuất đơn giản, như số lượng xe máy sản xuất ra hàng tháng, số tấn than sản xuất ra hàng tháng... Khi có sự pha trộn nhiều loại sản phẩm khác nhau thì chúng ta thấy có vấn đề trong việc đo lường năng lực sản xuất. Khi đó bắt buộc các nhà quản lý phải xây dựng một đơn vị đo lường tổng hợp. Đơn vị đo lường này cho phép chuyển đổi năng lực sản xuất của nhiều sản phẩm khác nhau thành đơn vị đo lường năng lực sản xuất tổng hợp. Ví dụ: tấn/giờ, doanh số bán/tháng.</para>
+          <para id="id5560527">Trong hoạch định năng lực sản xuất đối với ngành dịch vụ, đơn vị đo lường khó chính xác và thường xác định dựa vào đầu vào được sử dụng. Ví dụ: ngành hàng không sử dụng đơn vị đo lường là hành khách-kilomet/tháng, ở những bệnh viện tính số bệnh nhân/tháng, ở những đơn vị dịch vụ kỹ thuật người ta sử dụng số giờ lao động của công nhân/tháng.</para>
+        </section>
+        <section id="id-269962102848">
+          <title>Dự báo nhu cầu của năng lực sản xuất:</title>
+          <para id="id3117892">Khi nói đến năng lực sản xuất có nghĩa là phải tạo ra phương tiện sản xuất - đất đai, nhà xưởng, máy móc thiết bị, nguyên vật liệu, nhân sự và các tiện ích khác. Công tác hoạch định, mua sắm, xây dựng và huấn luyện cần thiết đối với phương tiện sản xuất mới có thể mất từ 3 - 7 năm, và những phương tiện như thế có thể tồn tại từ 10 - 20 năm. Dự báo nhu cầu cho sản phẩm hoặc dịch vụ phải được tiến hành cho 10 - 30 năm. Dự báo dài hạn như vậy thì rất khó khăn, vì có nhiều thay đổi của nền kinh tế, thay đổi trong sở thích của khách hàng, thay đổi về khoa học kỹ thuật, thay đổi trong các qui định của nhà nước, những điều kiện về chính trị hay một sự phát triển khác xảy ra.</para>
+          <para id="id4299771">Dự báo năng lực sản xuất cho sản phẩm hoặc dịch vụ có liên quan đến các bước sau:</para>
+          <para id="id3724359">- Ước lượng chung cho một loại sản phẩm hay dịch vụ riêng biệt.</para>
+          <para id="id4425126">- Thị phần (phần trăm của tổng nhu cầu) cho từng công ty được ước lượng.</para>
+          <para id="id4039944">- Thị phần được nhân với tổng nhu cầu để đạt được số dự báo nhu cầu cho từng công ty.</para>
+          <para id="id3559874">- Nhu cầu cho sản phẩm hoặc dịch vụ được chuyển thành nhu cầu về năng lực sản xuất.</para>
+          <para id="id3839694">Sau khi công ty đã đạt được con số ước lượng tốt nhất đối với nhu cầu sản phẩm dịch vụ, chúng ta phải xác định năng lực sản xuất cho từng loại sản phẩm hoặc dịch vụ.</para>
+          <para id="id3640698">Có nhiều lý do tại sao năng lực sản xuất không nhất thiết phải bằng với số lượng nhu cầu sản phẩm hay dịch vụ được dự báo:</para>
+          <para id="id4592989"> Nguồn vốn không đầy đủ và các nguồn lực khác không phải lúc nào cũng luôn sẵn có một cách hiệu quả để thỏa mãn tất cả các nhu cầu.</para>
+          <para id="id3793945"> Vì tính không chắc chắn của dự báo và nhu cầu liên kết năng lực sản xuất với chiến lược tác nghiệp cho sự ưu tiên cạnh tranh. Một năng lực sản xuất đệm cần được thiết lập, là lượng năng lực sản xuất thêm vào:</para>
+          <para id="id4301348">- Năng lực sản xuất tăng thêm trong trường hợp nhu cầu về sản phẩm hoặc dịch vụ tăng.</para>
+          <para id="id4425203">- Khả năng đáp ứng nhu cầu vào đỉnh mùa vụ.</para>
+          <para id="id3964060">- Chi phí sản xuất thấp, nếu phương tiện sản xuất càng gần với năng lực sản xuất thì chi phí sẽ cao hơn.</para>
+          <para id="id3964110">- Tính linh hoạt về sản xuất và khối lượng sản phẩm sản xuất ra; việc đáp ứng theo nhu cầu khách hàng đối với từng loại sản phẩm khác nhau và khối lượng sản xuất khác nhau thì có thể nhờ vào năng lực sản xuất tăng thêm.</para>
+          <para id="id3114198">- Chất lượng sản phẩm hay dịch vụ được cải thiện; phương tiện sản xuất hoạt động càng gần với năng lực sản xuất thì thường có chất lượng không cao.</para>
+          <para id="id3018715">Ngoài ra, cũng cần xem xét đến năng lực sản xuất của các nhà cạnh tranh có thể thêm vào. Nếu như các nhà cạnh tranh tăng cường năng lực sản xuất làm cho hiện tượng dư thừa trong ngành xảy ra, công ty nên xem xét lại năng lực sản xuất của mình.</para>
+        </section>
+        <section id="id-824811243204">
+          <title>Cách thức thay đổi năng lực sản xuất:</title>
+          <para id="id4570386">Khi năng lực sản xuất dài hạn được ước lượng thông qua dự báo, các công ty có thể vấp phải trình trạng không đủ hay dư thừa năng lực sản xuất. Bảng 4-1 liệt kê một số cách thức mà nhà quản lý có thể sử dụng cho việc thay đổi năng lực sản xuất trong dài hạn.</para>
+          <para id="id3785267">Bảng 4-1: Các phương thức thay đổi năng lực sản xuất.</para>
+          <table id="id2850023" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Kiểu thay đổi NLSX</entry>
+                  <entry>Cách thức thay đổi NLSX dài hạn.</entry>
+                </row>
+                <row>
+                  <entry>Mở rộng</entry>
+                  <entry> Ký hợp đồng với các công ty để theo đó họ cung cấp các bộ phận rời hay toàn bộ. Tìm kiếm phương tiện, nguồn lực khác. Xác định vị trí, xây dựng nhà xưởng, mua máy. Mở rộng, củng cố và điều chỉnh máy móc hiện có. Tái vận hành máy móc để sẵn sàng làm việc.</entry>
+                </row>
+                <row>
+                  <entry>Thu hẹp</entry>
+                  <entry> Bán đi máy móc thiết bị hiện có. Cất đi máy móc thiết bị, chuyển công nhân đi. Phát triển và giới thiệu sản phẩm mới khi các sản phẩm cũ đã suy giảm.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+      <section id="id-271232452363">
+        <title>Phân tích cây quyết định về hoạch định năng lực sản xuất:</title>
+        <para id="id4044554">Các quyết định về hoạch định năng lực sản xuất có thể được phân tích bằng nhiều phương pháp khác nhau như: phân tích điểm hòa vốn, thường được sử dụng để so sánh hàm số chi phí của 2 hay nhiều phương tiện sản xuất khác nhau, sơ đồ hình cây (cây quyết định) cũng rất hữu hiệu trong phân tích các quyết định về hoạch định năng lực sản xuất.</para>
+        <para id="id4941374">Các quyết định về hoạch định phương tiện sản xuất thì khó tổ chức và khá phức tạp, vì chúng thường là các quyết định đa giai đoạn có liên quan đến nhiều quyết định và có mối liên hệ phụ thuộc lẫn nhau được hình thành trong một hệ thống. Sơ đồ cây được xây dựng cho các quyết định đa giai đoạn như là một công cụ trợ giúp cho các nhà quản lý cần phải hiểu rõ những quyết định gì được hình thành, các quyết định đó xảy ra theo hệ thống nào, mối quan hệ tác động lẫn nhau giữa chúng. Kiểu phân tích này cho phép các nhà quản lý:</para>
+        <para id="id3576801"> Có thể vẽ ra các quyết định từ hiện tại đến tương lai.</para>
+        <para id="id3670323"> Tìm ra được cách thức làm việc cho những sự kiện không chắc chắn.</para>
+        <para id="id3528570"> Cách thức xác định giá trị tương đối của từng khả năng cho ra quyết định.</para>
+        <para id="id4903491">Ví dụ 4-1: Công ty M đang thiết kế một sản phẩm mới rất có triển vọng. Các nhà quản lý của công ty đang lựa chọn giữa ba khả năng: </para>
+        <para id="id4310598">- Bán bản quyền cho một công ty khác với giá 200 triệu đồng; </para>
+        <para id="id3393789">- Thuê một nhà tư vấn để nghiên cứu thị trường rồi mới đưa ra quyết định;</para>
+        <para id="id3687185">- Xây dựng nhà máy để tiến hành sản xuất.</para>
+        <para id="id4044029">Công tác nghiên cứu tốn kém 100 triệu đồng và các nhà quản lý tin rằng có 50% cơ hội có thể tìm kiếm được thị trường hấp dẫn. Nếu như công tác nghiên cứu này không thuận lợi, các nhà quản lý có thể tiếp tục bán đi bản quyền với giá 120 triệu đồng. Nếu như nghiên cứu này cho ra kết quả tốt thì công ty có thể bán đi ý tưởng có triển vọng với giá 400 triệu đồng. Nhưng ngay cả khi thị trường có triển vọng được tìm thấy thì khả năng thành công cuối cùng của sản phẩm là 40%. Một sản phẩm thành công sẽ sinh lợi 5 tỉ đồng. Thậm chí nghiên cứu không đạt kết quả, sự thành công của sản phẩm có thể là 1 lần trong 10 lần giới thiệu sản phẩm. </para>
+        <para id="id5346629">Nếu như các nhà quản lý quyết định sản xuất mà không cần tiến hành nghiên cứu, chỉ có 25% khả năng thành công. Một sản phẩm thất bại sẽ tốn chi phí 1tỉ đồng . Công ty nên làm gì?</para>
+        <para id="id4502265">Lời giải bài toán:</para>
+        <para id="id3585343"> Vẽ một sơ đồ hình cây từ trái sang phải với hình vuông () đại diện cho các quyết định và vòng tròn () đại diện cho các sự kiện ngẫu nhiên.</para>
+        <figure id="id3898916">
+          <media id="id2413484" alt=""><image src="../../media/graphics7-7b1c.png" mime-type="image/png" height="270" width="503"/></media>
+        </figure>
+        <para id="id4334082"> Nghiên cứu sơ đồ từ trái sang phải, tính toán giá trị kỳ vọng cho từng sự kiện ngẫu nhiên từ dòng quyết định thứ hai. </para>
+        <para id="id4180468">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>G</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>A</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>200</m:mtext>
+                      </m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>tr</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{G rSub { size 8{A} } ="200" ital "tr"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id3488069">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mi>G</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mi>D</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mtext>400</m:mtext>
+                              </m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>tr</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>G</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>E</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mrow>
+                              <m:mfenced open="" close="">
+                                <m:mrow>
+                                  <m:mn>5</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mtext>000</m:mtext>
+                                  <m:mi fontstyle="italic">x0</m:mi>
+                                  <m:mi>,</m:mi>
+                                  <m:mn>4</m:mn>
+                                </m:mrow>
+                              </m:mfenced>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mfenced open="" close="">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mtext>000</m:mtext>
+                                  <m:mi fontstyle="italic">x0</m:mi>
+                                  <m:mi>,</m:mi>
+                                  <m:mn>6</m:mn>
+                                </m:mrow>
+                              </m:mfenced>
+                            </m:mrow>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>400</m:mtext>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>tr</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mo stretchy="false">→</m:mo>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>G</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>max</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:msub>
+                          <m:mi>G</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>D</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mi>;</m:mi>
+                        <m:msub>
+                          <m:mi>G</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>E</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>max</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mtext>400</m:mtext>
+                        <m:mi>;</m:mi>
+                        <m:mn>1</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>400</m:mtext>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>400</m:mtext>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>tr</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>G</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>F</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>120</m:mtext>
+                        </m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>tr</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>G</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>G</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mo stretchy="false">(</m:mo>
+                        </m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>000</m:mtext>
+                        <m:mi fontstyle="italic">x0</m:mi>
+                        <m:mi>,</m:mi>
+                        <m:mn>1</m:mn>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">)</m:mo>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mo stretchy="false">(</m:mo>
+                          </m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>000</m:mtext>
+                        <m:mi fontstyle="italic">x0</m:mi>
+                        <m:mi>,</m:mi>
+                        <m:mn>9</m:mn>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mtext>400</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>tr</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mo stretchy="false">→</m:mo>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>G</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>max</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:msub>
+                          <m:mi>G</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>F</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mi>;</m:mi>
+                        <m:msub>
+                          <m:mi>G</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>G</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>max</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mtext>120</m:mtext>
+                        <m:mrow>
+                          <m:mi>;</m:mi>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mtext>400</m:mtext>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>120</m:mtext>
+                        </m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>tr</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mo stretchy="false">→</m:mo>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>G</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>B</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mo stretchy="false">(</m:mo>
+                        </m:mrow>
+                        <m:msub>
+                          <m:mi>G</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mi fontstyle="italic">x0</m:mi>
+                        <m:mi>,</m:mi>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mo stretchy="false">(</m:mo>
+                        </m:mrow>
+                        <m:msub>
+                          <m:mi>G</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mi fontstyle="italic">x0</m:mi>
+                        <m:mi>,</m:mi>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mo stretchy="false">(</m:mo>
+                        </m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>400</m:mtext>
+                        <m:mi fontstyle="italic">x0</m:mi>
+                        <m:mi>,</m:mi>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mo stretchy="false">(</m:mo>
+                        </m:mrow>
+                        <m:mtext>120</m:mtext>
+                        <m:mi fontstyle="italic">x0</m:mi>
+                        <m:mi>,</m:mi>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>760</m:mtext>
+                        </m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>tr</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>G</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>C</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mo stretchy="false">(</m:mo>
+                        </m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>000</m:mtext>
+                        <m:mi fontstyle="italic">x0</m:mi>
+                        <m:mi>,</m:mi>
+                        <m:mtext>25</m:mtext>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">)</m:mo>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mo stretchy="false">(</m:mo>
+                          </m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>000</m:mtext>
+                        <m:mi fontstyle="italic">x0</m:mi>
+                        <m:mi>,</m:mi>
+                        <m:mtext>75</m:mtext>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>500</m:mtext>
+                        </m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>tr</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mo stretchy="false">⇒</m:mo>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>G</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>max</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:msub>
+                          <m:mi>G</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>A</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mi>;</m:mi>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>G</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>B</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mtext>100</m:mtext>
+                        </m:mrow>
+                        <m:mi>;</m:mi>
+                        <m:msub>
+                          <m:mi>G</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>C</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>max</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mtext>200</m:mtext>
+                        <m:mi>;</m:mi>
+                        <m:mrow>
+                          <m:mtext>760</m:mtext>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mtext>100</m:mtext>
+                        </m:mrow>
+                        <m:mi>;</m:mi>
+                        <m:mtext>500</m:mtext>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>660</m:mtext>
+                        </m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>tr</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{G rSub { size 8{D} } ="400" ital "tr"}  {} # 
+G rSub { size 8{E} } = left (5 "." "000"x0,4 right )+ left ( - 1 "." "000"x0,6 right )=1 "." "400" ital "tr" {} # 
+ rightarrow G rSub { size 8{2} } ="max" \( G rSub { size 8{D} } ;G rSub { size 8{E} }  \) ="max" \( "400";1 "." "400" \) =1 "." "400" ital "tr" {} # 
+G rSub { size 8{F} } ="120" ital "tr" {} # 
+G rSub { size 8{G} } = \( 5 "." "000"x0,1 \) + \(  - 1 "." "000"x0,9 \) = - "400" ital "tr" {} # 
+ rightarrow G rSub { size 8{3} } ="max" \( G rSub { size 8{F} } ;G rSub { size 8{G} }  \) ="max" \( "120"; - "400" \) ="120" ital "tr" {} # 
+ rightarrow G rSub { size 8{B} } = \( G rSub { size 8{2} } x0,5 \) + \( G rSub { size 8{3} } x0,5 \) = \( 1 "." "400"x0,5 \) + \( "120"x0,5 \) ="760" ital "tr" {} # 
+G rSub { size 8{C} } = \( 5 "." "000"x0,"25" \) + \(  - 1 "." "000"x0,"75" \) ="500" ital "tr" {} # 
+ drarrow G rSub { size 8{1} } ="max" \( G rSub { size 8{A} } ;G rSub { size 8{B} }  - "100";G rSub { size 8{C} }  \) ="max" \( "200";"760" - "100";"500" \) ="660" ital "tr" {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4940288"> Giá trị kỳ vọng của quyết định ban đầu là 660 triệu đồng. Kết quả của quyết định này được suy ra từ những nhánh không bị cắt từ trái sang phải: nghiên cứu, nếu kết quả tốt thì sản xuất; nếu kết quả không tốt thì bán.</para>
+        <para id="id3581937">Một điểm cần lưu ý trong việc giải thích giá trị kỳ vọng của phân tích sơ đồ cây, một lỗi mà chúng ta thường gặp là giải thích cho từng quyết định một cách chính xác và tuyệt đối. Các giá trị kỳ vọng chỉ là giá trị đo lường tương đối chớ không phải là giá trị tuyệt đối. </para>
+        <para id="id3587182">Khi năng lực của các phương tiện sản xuất hiện tại không đủ để đáp ứng nhu cầu về năng lực sản xuất trong dài hạn và các phương tiện sản xuất mới cũng cần được xây dựng, thuê mướn, hay mua thì vấn đề quan trọng mà chúng ta cần phải giải quyết là đặt chúng ở đâu ?</para>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,25 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10881</md:content-id>
+    <md:title>Lý thuyết và bài tập Quản trị sản xuất đại cương</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>9a19e908-3834-4b0e-adb4-bfddbf94490a</md:uuid>
+<md:slug>ly-thuyet-va-bai-tap-quan-tri-san-xuat-dai-cuong</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m30352"/>
+    <col:module document="m30391"/>
+    <col:module document="m30482"/>
+    <col:module document="m30077"/>
+    <col:module document="m29111"/>
+    <col:module document="m30486"/>
+    <col:module document="m30483"/>
+    <col:module document="m30053"/>
+    <col:module document="m30045"/>
+    <col:module document="m30044"/>
+    <col:module document="m30054"/>
+    <col:module document="m30046"/>
+    <col:module document="m30049"/>
+  </col:content>
+</col:collection>

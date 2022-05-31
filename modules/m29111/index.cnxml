@@ -1,0 +1,2012 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Bố trí mặt bằng sản xuất và dịch vụ</title>
+  <metadata>
+  <md:content-id>m29111</md:content-id><md:title>Bố trí mặt bằng sản xuất và dịch vụ</md:title>
+  <md:abstract>Phần này trình bày về bố trí mặt bằng sản xuất và dịch vụ</md:abstract>
+  <md:uuid>fab4ca60-a5de-42de-9fcf-9ee297ac21fe</md:uuid>
+</metadata>
+  <content>
+    <section id="id-0370187267728">
+      <title>MỤC TIÊU CỦA BỐ TRÍ MẶT BẰNG:</title>
+      <para id="id5575163">Bố trí mặt bằng là sự sắp xếp các loại máy móc, vật dụng, khu vực sản xuất của công nhân, khu phục vụ khách hàng, khu chứa nguyên vật liệu, lối đi, văn phòng làm việc, phòng nghỉ, phòng ăn....Trong hoạch định qui trình sản xuất, chúng ta lựa chọn hay thiết kế sản xuất cùng với thiết kế sản phẩm và tiến hành đưa công nghệ mới vào vận hành. Thông qua mặt bằng, người ta tiến hành sắp xếp các qui trình ở trong và xung quanh nhà máy, không gian cần thiết cho sự vận hành các qui trình này và các công việc phụ trợ khác.</para>
+      <para id="id5575191">Việc bố trí mặt bằng nên kết hợp chặt chẽ với chiến lược tác nghiệp nhằm đảm bảo ưu tiên cạnh tranh. Vì vậy cần chú ý đến các yếu tố như hạ giá thành sản phẩm, phân phối nhanh chóng và kịp thời, chất lượng sản phẩm, dịch vụ cao và linh hoạt về loại sản phẩm, sản lượng...</para>
+      <para id="id5575207">Các mục tiêu của bố trí mặt bằng được liệt kê dưới đây phản ánh sự phối hợp hợp lý của các yếu tố này. Chiến lược tác nghiệp hướng dẫn việc bố trí mặt bằng và đến lượt bố trí mặt bằng thể hiện sự thực thi chiến lược tốt - sự thực hiện chiến lược tác nghiệp.</para>
+      <para id="id5575222"> Mục tiêu của bố trí mặt bằng sản xuất:</para>
+      <para id="id5575233"> Cung cấp đủ năng lực sản xuất. </para>
+      <para id="id5575246"> Giảm chi phí vận chuyển nguyên vật liệu.</para>
+      <para id="id5575256"> Thích ứng với những hạn chế của địa bàn và xí nghiệp.</para>
+      <para id="id5398932"> Tận dụng sức sản xuất, mức sử dụng mặt bằng và lao động.</para>
+      <para id="id5398943"> Đảm bảo sự an toàn và sức khỏe cho công nhân.</para>
+      <para id="id5398954"> Dễ dàng giám sát và bảo trì.</para>
+      <para id="id5398964"> Đạt được mục tiêu với vốn đầu tư thấp.</para>
+      <para id="id5398975"> Đảm bảo sự linh hoạt về sản phẩm và sản lượng.</para>
+      <para id="id5398986"> Đảm bảo đủ không gian cho máy móc vận hành</para>
+      <para id="id5398996"> Mục tiêu cho bố trí kho hàng:</para>
+      <para id="id5399006"> Đảm bảo việc sử dụng hữu hiệu máy móc, vận chuyển, bốc dỡ. </para>
+      <para id="id5399018"> Tạo điều kiện sắp xếp, xuất nhập kho dễ dàng.</para>
+      <para id="id5399028"> Cho phép dễ kiểm tra tồn kho.</para>
+      <para id="id5399038"> Đảm bảo ghi chép tồn kho chính xác.</para>
+      <para id="id5399048"> Mục tiêu cho bố trí mặt bằng dịch vụ:</para>
+      <para id="id5399059"> Đem đến cho khách hàng sự thoải mái và tiện lợi.</para>
+      <para id="id5450281"> Trình bày hàng hóa hấp dẫn.</para>
+      <para id="id5450291"> Giảm sự đi lại của khách hàng.</para>
+      <para id="id5450301"> Tạo sự riêng biệt cho từng khu vực công tác.</para>
+      <para id="id5450312"> Tạo sự thông tin dễ dàng giữa các khu vực.</para>
+      <para id="id5450322"> Mục tiêu cho bố trí mặt bằng văn phòng:</para>
+      <para id="id5450333"> Tăng cường cơ cấu tổ chức.</para>
+      <para id="id5450343"> Giảm sự đi lại của nhân viên và khách hàng.</para>
+      <para id="id5450353"> Tạo sự riêng biệt cho các khu vực công tác.</para>
+      <para id="id5450364"> Tạo sự thông tin dễ dàng giữa các khu vực</para>
+      <para id="id5450374">Trong chương này chúng ta sẽ khảo sát các kiểu và các phương pháp phân tích bố trí mặt bằng áp dụng trong các lĩnh vực sản xuất (bao gồm cả kho hàng) và dịch vụ (bao gồm văn phòng).</para>
+    </section>
+    <section id="id-898722435628">
+      <title>BỐ TRÍ MẶT BẰNG SẢN XUẤT:</title>
+      <para id="id5450399">Trong nhiều mục tiêu của bố trí mặt bằng, mục tiêu chính cần quan tâm là tối thiểu hóa chi phí vận chuyển, chi phí sản xuất và tồn trữ nguyên vật liệu trong hệ thống sản xuất.</para>
+      <para id="id5450412">Có nhiều loại nguyên vật liệu được dùng trong quá trình sản xuất như: nguyên liệu thô, các chi tiết mua ngoài, nguyên liệu đóng gói, cung cấp bảo trì sửa chữa, phế liệu và chất thải. Ngoài ra, còn sự đa dạng về hình dáng, màu sắc, kích thước, đặc tính hóa học. Sự đa dạng và đặc tính của nguyên vật liệu đã được xác định bởi các quyết định trong thiết kế sản phẩm. Việc bố trí mặt bằng chịu ảnh hưởng trực tiếp các đặc tính tự nhiên của nguyên liệu, như loại nguyên liệu to lớn, cồng kềnh, chất lỏng, chất rắn, nguyên liệu linh hoạt hay không linh hoạt trong điều kiện nóng, lạnh, ẩm ướt, ánh sáng, bụi, lửa, sự chấn động.</para>
+      <para id="id5450418">Một hệ thống vận chuyển nguyên vật liệu là toàn bộ mạng lưới vận chuyển từ khâu tiếp nhận nguyên vật liệu, tồn trữ trong kho, vận chuyển chúng giữa các bộ phận sản xuất và cuối cùng là gửi thành phẩm lên xe để phân phối. Do đó thiết kế và bố trí nhà xưởng phải phù hợp với thiết kế hệ thống vận chuyển. Ví dụ: nếu muốn sử dụng băng tải trên cao thì nhà xưởng phải đủ vững chắc hoặc nếu dùng xe nâng hàng thì lối đi phải đủ rộng, mức chịu tải của sàn nhà thích hợp... </para>
+      <para id="id5550440"> Các nguyên tắc vận chuyển nguyên vật liệu.</para>
+      <para id="id5550451"> Tối thiểu hóa việc vận chuyển nguyên vật liệu đến bộ phận sản xuất.</para>
+      <para id="id5550463"> Các qui trình sản xuất liên quan được sắp xếp sao cho thuận lợi dòng cung cấp nguyên liệu.</para>
+      <para id="id5550475"> Nên thiết kế và định vị các thiết bị vận chuyển, lựa chọn nơi tồn trữ nguyên liệu sao cho giảm tối đa sự nổ lực của công nhân: cúi xuống, với tay, đi lại...</para>
+      <para id="id5550496"> Tối thiểu hóa số lần vận chuyển của từng loại nguyên liệu</para>
+      <para id="id5550507"> Sự linh hoạt của hệ thống cho phép các tình huống bất thường: thiết bị vận chuyển nguyên liệu hỏng, thay đổi công nghệ sản xuất, mở rộng năng lực sản xuất.</para>
+      <para id="id5550523"> Các thiết bị vận chuyển phải sử dụng hết trọng tải của nó</para>
+      <section id="id-945502353029">
+        <title>Các kiểu bố trí mặt bằng sản xuất:</title>
+        <para id="id5593750">Có nhiều kiểu bố trí mặt bằng sản xuất khác nhau, dưới đây chúng sẽ lần lượt khảo sát từng kiểu bố trí: theo quá trình, theo sản phẩm, theo khu vực sản xuất và kiểu bố trí cố định.</para>
+        <section id="id-861743968579">
+          <title>Bố trí theo quá trình:</title>
+          <para id="id5593772">Hay còn gọi là bố trí chức năng theo sự đa dạng của thiết kế sản phẩm và các bước chế tạo. Kiểu bố trí này thường sử dụng nếu xí nghiệp sản xuất nhiều loại sản phẩm khác nhau với những đơn hàng nhỏ. Máy móc, thiết bị được trang bị mang tính chất đa năng để có thể dễ dàng chuyển đổi việc sản xuất từ loại sản phẩm này sang loại sản phẩm khác một cách nhanh chóng.</para>
+          <para id="id5593790">Công nhân trong kiểu bố trí này phải thay đổi và thích nghi nhanh chóng với nhiều nhiệm vụ khác nhau được hình thành từ những lô sản xuất riêng biệt. Các công nhân này phải có kỹ năng cao đòi hỏi sự đào tạo chuyên môn sâu và sự giám sát công nghệ. Chức năng hoạch định của nhà quản lý được thực hiện liên tục, lập lịch trình và kiểm soát để bảo đảm khối lượng công việc tối ưu trong từng bộ phận, từng khu vực sản xuất. Các sản phẩm trong hệ thống sản xuất có thời gian tương đối dài và lượng tồn kho bán thành phầm lớn.</para>
+          <para id="id5593819"> Ưu điểm:</para>
+          <para id="id5593830"> Hệ thống sản xuất có tính linh hoạt cao;</para>
+          <para id="id5593841"> Công nhân có trình độ chuyên môn và kỹ năng cao;</para>
+          <para id="id5593854"> Hệ thống sản xuất ít bị gián đoạn vì bị những lý do trục trặc của thiết bị, con người;</para>
+          <para id="id5593868"> Tính độc lập trong chế tạo các chi tiết của bộ phận cao;</para>
+          <para id="id5593880"> Chi phí bảo dưỡng thấp, có thể sửa chữa cheo thời gian, lượng dự trữ phụ tùng thay thế không cần nhiều;</para>
+          <para id="id5593895"> Có thể áp dụng và phát huy được chế độ khuyến khích nâng cao năng suất lao động cá biệt.</para>
+          <para id="id5545558"> Hạn chế:</para>
+          <para id="id5545569"> Chi phí sản xuất trên một đơn vị sản phẩm cao;</para>
+          <para id="id5545581"> Lịch sản xuất và các hoạt động không ổn định;</para>
+          <para id="id5545593"> Sử dụng nguyên liệu kém hiệu quả;</para>
+          <para id="id5545604"> Mức độ sử dụng máy móc thiết bị thấp;</para>
+          <para id="id5545616"> Khó kiểm soát hoạt động và chi phí kiểm soát phát sinh cao;</para>
+          <para id="id5545629"> Đòi hòi phải chú ý tới từng công việc cụ thể.</para>
+        </section>
+        <section id="id-243173648545">
+          <title>Bố trí theo sản phẩm:</title>
+          <para id="id5545650">Bố trí theo hướng sản phẩm được thiết kế để thích ứng cho một vài loại sản phẩm, và dòng nguyên vật liệu được bố trí đi qua xưởng sản xuất. Kiểu bố trí này dùng các máy móc thiết bị chuyên dùng để thực hiện những thao tác đặc biệt trong thời gian dài cho một sản phẩm, việc thay đổi những máy móc này cho thiết kế sản phẩm mới đòi hỏi chi phí và thời gian sắp xếp lớn. Máy móc thiết bị thường được sắp xếp thành bộ phận sản xuất, trong từng bộ phận sản xuất gồm nhiều dây chuyền sản xuất. Công nhân trong kiểu bố trí theo hướng sản phẩm thực hiện một dãy hẹp các động tác trên một vài thiết kế sản phẩm lặp đi lặp lại. Do đó không đòi hỏi kỹ năng, huấn luyện và giám sát hoạt động. Việc phối hợp các hoạt động lập lịch trình sản xuất và hoạch định theo kiểu bố trí này thì rất phức tạp nhưng thực hiện không thường xuyên và ít khi có sự thay đổi.</para>
+          <para id="id5545689">Dây chuyền sản xuất có thể được bố trí theo đường thẳng hoặc đường chữ U như sau:</para>
+          <figure id="id5535704">
+            <media id="id1167437674857" alt=""><image src="../../media/graphics1-c8ab.png" mime-type="image/png" height="174" width="618"/></media>
+          </figure>
+          <section id="id-466734782663">
+            <title>Sơ đồ 5-1: Kiểu bố trí mặt bằng theo sản phẩm.</title>
+            <para id="id5535741"> Ưu điểm:</para>
+            <para id="id5535758"> Tốc độ sản xuất sản phẩm nhanh;</para>
+            <para id="id5535775"> Chi phí đơn vị sản phẩm thấp;</para>
+            <para id="id5535793"> Chuyên môn hoá lao động, giảm chi phí, thời gian đào tạo và tăng năng suất;</para>
+            <para id="id5535812"> Việc di chuyển của nguyên liệu và sản phẩm được dễ dàng;</para>
+            <para id="id5535831"> Mức độ sử dụng thiết bị và lao động cao;</para>
+            <para id="id5580334"> Hình thành thói quen, kinh nghiệm và có lịch trình sản xuất ổn định;</para>
+            <para id="id5580354"> Dễ dàng trong hạch toán, kiểm tra chất lượng, dự trữ và khả năng kiểm soát hoạt động sản xuất cao.</para>
+            <para id="id5580374"> Hạn chế:</para>
+            <para id="id5580391"> Hệ thống sản xuất không linh hoạt với những thay đổi về khối lượng, chủng loại sản phẩm, thiết kế sản phẩm;</para>
+            <para id="id5580412"> Hệ thống sản xuất có thể bị gián đoạn (ngừng) khi có một công đoạn bị trục trặc;</para>
+            <para id="id5580432"> Chi phí bảo dưỡng, duy trì máy móc thiết bị lớn;</para>
+            <para id="id5580451"> Không áp dụng được chế độ khuyến khích tăng năng suất lao động cá nhân.</para>
+          </section>
+        </section>
+        <section id="id-977924201616">
+          <title>Bố trí theo khu vực sản xuất:</title>
+          <para id="id5580480">Kiểu bố trí theo khu vực, máy móc được tập hợp vào khu vực sản xuất, chức năng của các khu vực đôi khi cũng giống như kiểu bố trí theo hướng sản phẩm trong một xưởng sản xuất hay qui trình sản xuất lớn, mỗi khu vực được thành lập để sản xuất một nhóm chi tiết có đặc tính chung. Điều này có nghĩa là chúng cần những máy móc giống nhau về tính năng cũng như kiểu lắp đặt.</para>
+          <para id="id5580486">Bố trí theo khu vực được thực hiện bởi các lý do sau đây:</para>
+          <para id="id5555475"> Việc thay đổi thiết bị được đơn giản hóa.</para>
+          <para id="id5555487"> Thời gian huấn luyện công nhân ngắn.</para>
+          <para id="id5555499"> Giảm chi phí vận chuyển nguyên vật liệu.</para>
+          <para id="id5555510"> Các chi tiết sản xuất và vận chuyển nhanh hơn.</para>
+          <para id="id5555522"> Nhu cầu về tồn kho bán thành phẩm thấp.</para>
+          <para id="id5555534"> Dễ tự động hóa. </para>
+          <para id="id5555545">d. Bố trí theo kiểu định vị cố định:</para>
+          <para id="id5555553"/>
+          <para id="id5555570">
+            <figure id="id5555574">
+              <media id="id6142043" alt=""><image src="../../media/graphics2-d741.png" mime-type="image/png" height="155" width="561"/></media>
+            </figure>
+          </para>
+          <para id="id5555598"/>
+          <para id="id5603152">Sơ đồ 5-2: Kiểu bố trí mặt bằng định vị cố định.</para>
+          <para id="id5603169">Một vài xí nghiệp chế tạo và xây dựng kiểu bố trí này, bằng cách sắp xếp các công việc để định vị sản phẩm ở vị trí cố định và vận chuyển công nhân, vật liệu, máy móc, các vật dụng khác đi đến khu vực sản xuất sản phẩm. Ví dụ: Hãng máy bay, tên lửa, tàu thủy, xây dựng cầu đường... Kiểu bố trí này được ứng dụng khi sản phẩm rất cồng kềnh, nặng nề và dễ hư hỏng. Mục tiêu của các nhà sản xuất là tối thiểu hóa khối lượng vận chuyển.</para>
+          <para id="id5603200"> Ưu điểm:</para>
+          <para id="id5603210"> Giảm sự vận chuyển để hạn hư hỏng và chi phí vận chuyển;</para>
+          <para id="id5603223"> Sản phẩm không di chuyển nên có sự liên tục hơn trong lực lượng lao động được phân công không phải lập kế hoạch, bố trí nhân sự lại mỗi khi một hoạt động mới bắt đầu;</para>
+          <para id="id5603241"> Hạn chế:</para>
+          <para id="id5603251"> Yêu cần công nhân có kỹ năng cao;</para>
+          <para id="id5603262"> Vận chuyển công nhân, máy móc thiết bị đến nơi làm việc có thể tốn kém nhiều chi phí;</para>
+          <para id="id5603276"> Mức sử dụng máy móc thiết bị thấp.</para>
+        </section>
+      </section>
+      <section id="id-871975604306">
+        <title>Phương pháp phân tích bố trí mặt bằng sản xuất.</title>
+        <para id="id5603299">Có lẽ hầu hết các kỹ thuật bố trí mặt bằng đều sử dụng mô hình 23 chiều của tòa nhà, qua đó, người ta lần lượt sắp xếp thử máy móc, bàn ghế và các thiết bị khác trên nhiều vị trí khác nhau để chọn phương án tốt nhất. Người ta hoàn tất mặt bằng chi tiết dự kiến, trong đó dòng di chuyển vật liệu và công nhân từ nơi này qua nơi khác là nhỏ nhất. Phương pháp này thường hữu dụng khi ta bố trí máy móc và phương tiện sản xuất vào một phòng, tòa nhà có sẵn và ta biết được rõ ràng hình ảnh mặt bằng đó.</para>
+        <section id="id-885676227674">
+          <title>Phân tích bố trí mặt bằng theo hướng qui trình.</title>
+          <para id="id5450535">Người ta thường sử dụng các phương pháp phân tích chuỗi tác nghiệp, sơ đồ khối và khoảng cách vận chuyển để bố trí mặt bằng này.</para>
+          <para id="id5450549"> Phân tích chuỗi tác nghiệp.</para>
+          <para id="id5450560">Là xây dựng sơ đồ hệ thống cho việc lắp đặt các bộ phận thiết bị sản xuất bằng cách phân tích đồ thị, giúp cho chúng ta xác định vị trí của từng bộ phận tác nghiệp liên quan tới các bộ phận khác khi diện tích mặt bằng không là yếu tố giới hạn.</para>
+          <para id="id5450575">Ví dụ 5.1: Công ty C dự định xây dựng thêm một phân xưởng sản xuất chế biến 6 loại thức ăn cho gia súc và nuôi trồng thuỷ sản với hy vọng sẽ bố trí hợp lý hơn, giảm được khối lượng vận chuyển giữa các bộ phận so với phân xưởng sản xuất hiện tại. Đơn vị này dựa trên nhu cầu tiêu thụ (số lượng) và qui trình chế biến các loại sản phẩm; qua tính toán người ta xác định được lượng vận chuyển qua lại giữa các bộ phận trong xưởng sản xuất như sau.</para>
+          <table id="id5450595" summary="">
+            <tgroup cols="8">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <tbody>
+                <row>
+                  <entry>Mô tả bộ phận</entry>
+                  <entrytbl namest="c2" nameend="c8" cols="7">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <colspec colnum="6" colname="c6"/>
+                    <colspec colnum="7" colname="c7"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c7">Lượng vận chuyển giữa các bộ phận</entry>
+                      </row>
+                      <row>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry> Sơ chế nguyên liệu </entry>
+                  <entry>8.000</entry>
+                  <entry/>
+                  <entry>12.000</entry>
+                  <entry/>
+                  <entry>10.000</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry> Phối trộn nguyên liệu </entry>
+                  <entry/>
+                  <entry>5.000</entry>
+                  <entry/>
+                  <entry>8.000</entry>
+                  <entry/>
+                  <entry/>
+                  <entry>5.000</entry>
+                </row>
+                <row>
+                  <entry> Trộn phụ gia.</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>7.000</entry>
+                  <entry>15.000</entry>
+                </row>
+                <row>
+                  <entry> Xử lý nhiệt</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>12.000</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry> Định dạng sản phẩm </entry>
+                  <entry/>
+                  <entry>20.000</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry> Cân đong sản phẩm </entry>
+                  <entry>10.000</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry> Đóng gói</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>10.000</entry>
+                </row>
+                <row>
+                  <entry> Giao nhận</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5512044">Giải pháp:</para>
+          <para id="id5512050">Trước tiên, ta thực hiện tạm định dạng sơ đồ vị trí của các bộ phận ban đầu và biểu hiện mối quan hệ qua lại giữa các bộ phận đó như sau:</para>
+          <figure id="id5512068">
+            <media id="id1167436706060" alt=""><image src="../../media/graphics3-f692.png" mime-type="image/png" height="170" width="365"/></media>
+          </figure>
+          <para id="id5452844">Tiếp đến, sắp xếp lại sơ đồ ban đầu cho hợp lý hơn để dòng sản phẩm được vận chuyển qua lại giữa các bộ phận là ngắn nhất. Khi chúng ta thấy không còn cách thay đổi vị trí các bộ phận nữa thì đó là sơ đồ cần tìm. Giả sử ta tìm được sơ đồ định dạng vị trí tốt nhất của các bộ phận như sau.</para>
+          <figure id="id5452866">
+            <media id="id1167430420634" alt=""><image src="../../media/graphics4-9d0e.png" mime-type="image/png" height="146" width="338"/></media>
+          </figure>
+          <para id="id5452890"> Phân tích sơ đồ khối:</para>
+          <para id="id5452906">Trong ví dụ 5.2 dưới đây ta sử dụng sơ đồ cuối cùng của ví dụ 5.1 và thực hiện phân tích sơ đồ khối để tạo dạng tổng quát các dòng vận chuyển và ranh giới của của các bộ phận bên trong phân xưởng sản xuất. Yếu tố giới hạn của phân tích này là diện tích cần thiết cho từng bộ phận.</para>
+          <table id="id5452934" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Mô tả bộ phận</entry>
+                  <entry>Diện tích (m2)</entry>
+                </row>
+                <row>
+                  <entry> Sơ chế nguyên liệu </entry>
+                  <entry>300</entry>
+                </row>
+                <row>
+                  <entry> Phối trộn nguyên liệu </entry>
+                  <entry>200</entry>
+                </row>
+                <row>
+                  <entry> Trộn phụ gia.</entry>
+                  <entry>150</entry>
+                </row>
+                <row>
+                  <entry> Xử lý nhiệt</entry>
+                  <entry>300</entry>
+                </row>
+                <row>
+                  <entry> Định dạng sản phẩm </entry>
+                  <entry>200</entry>
+                </row>
+                <row>
+                  <entry> Cân đong sản phẩm </entry>
+                  <entry>200</entry>
+                </row>
+                <row>
+                  <entry> Đóng gói</entry>
+                  <entry>150</entry>
+                </row>
+                <row>
+                  <entry> Giao nhận</entry>
+                  <entry>300</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5553013">Giải pháp:</para>
+          <para id="id5553019">Đầu tiên, ta dùng sơ đồ hệ thống cuối cùng của ví dụ 5.1 và đặt các bộ phận này vào tâm diện tích từng bộ phận của nó.</para>
+          <figure id="id5553041">
+            <media id="id1167429843211" alt=""><image src="../../media/graphics5-adc5.png" mime-type="image/png" height="192" width="367"/></media>
+          </figure>
+          <para id="id5553065">Tiếp đến, ta thay đổi hình dạng các bộ phận cho phù hợp với hệ thống trong phân xưởng đến khi đạt yêu cầu.</para>
+          <figure id="id5553081">
+            <media id="id1167440612341" alt=""><image src="../../media/graphics6-e421.png" mime-type="image/png" height="193" width="302"/></media>
+          </figure>
+          <para id="id5553105"> Phân tích tải trọng - khoảng cách.</para>
+          <para id="id5553121">Phân tích chuỗi tác nghiệp và phân tích sơ đồ khối không chọn được kiểu bố trí tối ưu, nó chỉ cho ta một kiểu bố trí tốt mà thôi. Trong trường hợp có nhiều phương án mặt bằng để lựa chọn thì phương pháp trên không hiệu quả, khi đó người ta sử dụng phân tích tải trọng - khoảng cách.</para>
+          <para id="id5553136">Đây là phương pháp rất hữu ích trong việc so sánh nhiều cách bố trí đạt yêu cầu, để chọn ra một bố trí tối ưu dựa trên sự vận chuyển nguyên vật liệu hay sản phẩm trong một thời kỳ là thấp nhất.</para>
+          <para id="id5553146">Ví dụ 5.3: Giả sử bộ phận bố trí mặt bằng sản xuất đang phân vân lựa chọn một trong hai phương án bố trí tốt dưới đây. Không biết phương án nào tốt hơn, nên họ thực hiện phương pháp tính tải trọngkhoảng cách của hai phương án bố trí trên cơ sở biết số lượng sản xuất trung bình từng loại sản phẩm trong kỳ (tháng) và khoảng cách vận chuyển giữa các bộ phận sản xuất được cho như sau.</para>
+          <para id="id5546426"> Bộ phận bố trí mặt bằng biết hai phương án bố trí tốt:</para>
+          <table id="id5546439" summary="">
+            <tgroup cols="11">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <colspec colnum="10" colname="c10"/>
+              <colspec colnum="11" colname="c11"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c5">Bố trí A</entry>
+                  <entry/>
+                  <entry namest="c7" nameend="c11">Bố trí B</entry>
+                </row>
+                <row>
+                  <entry>8</entry>
+                  <entry>4</entry>
+                  <entry>10</entry>
+                  <entry>2</entry>
+                  <entry>5</entry>
+                  <entry/>
+                  <entry>7</entry>
+                  <entry>1</entry>
+                  <entry>9</entry>
+                  <entry>6</entry>
+                  <entry>3</entry>
+                </row>
+                <row>
+                  <entry>3</entry>
+                  <entry>7</entry>
+                  <entry>1</entry>
+                  <entry>9</entry>
+                  <entry>6</entry>
+                  <entry/>
+                  <entry>4</entry>
+                  <entry>10</entry>
+                  <entry>2</entry>
+                  <entry>5</entry>
+                  <entry>8</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5553793"> Biết khoảng cách vận chuyển qua lại giữa các bộ phận sản xuất.</para>
+          <table id="id5553805" summary="">
+            <tgroup cols="6">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <tbody>
+                <row>
+                  <entry>Sự di chuyển giữa bộ phận</entry>
+                  <entrytbl namest="c2" nameend="c3" cols="2">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c2">Khoảng cách (m)</entry>
+                      </row>
+                      <row>
+                        <entry>Bố trí A</entry>
+                        <entry>Bố trí B</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                  <entry>Sự di chuyển giữa bộ phận</entry>
+                  <entrytbl namest="c5" nameend="c6" cols="2">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c2">Khoảng cách (m)</entry>
+                      </row>
+                      <row>
+                        <entry>Bố trí A</entry>
+                        <entry>Bố trí B</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>1-5</entry>
+                  <entry>30</entry>
+                  <entry>30</entry>
+                  <entry>3-9</entry>
+                  <entry>30</entry>
+                  <entry>20</entry>
+                </row>
+                <row>
+                  <entry>1-7</entry>
+                  <entry>10</entry>
+                  <entry>10</entry>
+                  <entry>4-5</entry>
+                  <entry>30</entry>
+                  <entry>30</entry>
+                </row>
+                <row>
+                  <entry>1-9</entry>
+                  <entry>10</entry>
+                  <entry>10</entry>
+                  <entry>4-7</entry>
+                  <entry>10</entry>
+                  <entry>10</entry>
+                </row>
+                <row>
+                  <entry>1-10</entry>
+                  <entry>10</entry>
+                  <entry>10</entry>
+                  <entry>4-10</entry>
+                  <entry>10</entry>
+                  <entry>10</entry>
+                </row>
+                <row>
+                  <entry>2-5</entry>
+                  <entry>10</entry>
+                  <entry>10</entry>
+                  <entry>5-6</entry>
+                  <entry>10</entry>
+                  <entry>10</entry>
+                </row>
+                <row>
+                  <entry>2-6</entry>
+                  <entry>20</entry>
+                  <entry>20</entry>
+                  <entry>6-9</entry>
+                  <entry>10</entry>
+                  <entry>10</entry>
+                </row>
+                <row>
+                  <entry>2-10</entry>
+                  <entry>10</entry>
+                  <entry>10</entry>
+                  <entry>7-8</entry>
+                  <entry>20</entry>
+                  <entry>50</entry>
+                </row>
+                <row>
+                  <entry>3-6</entry>
+                  <entry>40</entry>
+                  <entry>10</entry>
+                  <entry>8-10</entry>
+                  <entry>20</entry>
+                  <entry>30</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5535607"> Biết cách thức chế tạo và số lượng trung bình từng loại sản phẩm sản xuất trong kỳ.</para>
+          <table id="id5535621" summary="">
+            <tgroup cols="6">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <tbody>
+                <row>
+                  <entry>Sản phẩm</entry>
+                  <entry>chuỗi bộ phận chế tác</entry>
+                  <entry>Số SP chế tác trong tháng</entry>
+                  <entry>Sản phẩm</entry>
+                  <entry>chuỗi bộ phận chế tác</entry>
+                  <entry>Số SP chế tác trong tháng</entry>
+                </row>
+                <row>
+                  <entry>A</entry>
+                  <entry>1-5-4-10</entry>
+                  <entry>1.000</entry>
+                  <entry>D</entry>
+                  <entry>1-7-8-10</entry>
+                  <entry>1.000</entry>
+                </row>
+                <row>
+                  <entry>B</entry>
+                  <entry>2-6-3-9</entry>
+                  <entry>2.000</entry>
+                  <entry>E</entry>
+                  <entry>2-5-6-9</entry>
+                  <entry>2.000</entry>
+                </row>
+                <row>
+                  <entry>C</entry>
+                  <entry>2-10-1-9</entry>
+                  <entry>3.000</entry>
+                  <entry>F</entry>
+                  <entry>1-7-4-10</entry>
+                  <entry>4.000</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5581698">Bài giải:</para>
+          <para id="id5581703"> Đầu tiên, tính khoảng cách vận chuyển cho từng sản phẩm kể từ khi bắt đầu cho đến khi hoàn thành sản phẩm đối với từng kiểu bố trí.</para>
+          <table id="id5581725" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>Sản phẩm</entry>
+                  <entry>chuỗi bộ phậnchế tác</entry>
+                  <entrytbl namest="c3" nameend="c4" cols="2">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c2">Đánh giá khoảng cách/sản phẩm (dm)</entry>
+                      </row>
+                      <row>
+                        <entry>Bố trí A</entry>
+                        <entry>Bố trí B</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>A</entry>
+                  <entry>1-5-4-10</entry>
+                  <entry>30+30+10=70</entry>
+                  <entry>30+30+10=70</entry>
+                </row>
+                <row>
+                  <entry>B</entry>
+                  <entry>2-6-3-9</entry>
+                  <entry>20+40+30=90</entry>
+                  <entry>20+10+20=50</entry>
+                </row>
+                <row>
+                  <entry>C</entry>
+                  <entry>2-10-1-9</entry>
+                  <entry>10+10+10=30</entry>
+                  <entry>10+10+10=30</entry>
+                </row>
+                <row>
+                  <entry>D</entry>
+                  <entry>1-7-8-10</entry>
+                  <entry>10+20+20=50</entry>
+                  <entry>10+50+30=90</entry>
+                </row>
+                <row>
+                  <entry>E</entry>
+                  <entry>2-5-6-9</entry>
+                  <entry>10+10+10=30</entry>
+                  <entry>10+10+10=30</entry>
+                </row>
+                <row>
+                  <entry>F</entry>
+                  <entry>1-7-4-10</entry>
+                  <entry>10+10+10=30</entry>
+                  <entry>10+10+10=30</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5547135"> Tiếp đến, ta lấy khoảng cách vận chuyển nhân với khối lượng sản phẩm cần sản xuất ra trung bình hàng tháng để biết tải trọng khoảng cách của từng sản phẩm, sau đó tính tổng tải trọngkhoảng cách của từng cách bố trí. Bố trí nào có tổng tải trọngkhoảng cách nhỏ nhất thì bố trí đó tốt hơn.</para>
+          <table id="id5547182" summary="">
+            <tgroup cols="6">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <tbody>
+                <row>
+                  <entry>Sản phẩm</entry>
+                  <entry>Số SP chế tác trong tháng</entry>
+                  <entrytbl namest="c3" nameend="c6" cols="4">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c2">Khoảng cách/sp (dm)</entry>
+                        <entry namest="c3" nameend="c4">Khoảng cách/tháng (dm)</entry>
+                      </row>
+                      <row>
+                        <entry>Bố trí A</entry>
+                        <entry>Bố trí B</entry>
+                        <entry>Bố trí A</entry>
+                        <entry>Bố trí B</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>A</entry>
+                  <entry>1.000</entry>
+                  <entry>70</entry>
+                  <entry>70</entry>
+                  <entry>70.000</entry>
+                  <entry>70.000</entry>
+                </row>
+                <row>
+                  <entry>B</entry>
+                  <entry>2.000</entry>
+                  <entry>90</entry>
+                  <entry>50</entry>
+                  <entry>180.000</entry>
+                  <entry>100.000</entry>
+                </row>
+                <row>
+                  <entry>C</entry>
+                  <entry>3.000</entry>
+                  <entry>30</entry>
+                  <entry>30</entry>
+                  <entry>90.000</entry>
+                  <entry>90.000</entry>
+                </row>
+                <row>
+                  <entry>D</entry>
+                  <entry>1.000</entry>
+                  <entry>50</entry>
+                  <entry>90</entry>
+                  <entry>50.000</entry>
+                  <entry>90.000</entry>
+                </row>
+                <row>
+                  <entry>E</entry>
+                  <entry>2.000</entry>
+                  <entry>30</entry>
+                  <entry>30</entry>
+                  <entry>60.000</entry>
+                  <entry>60.000</entry>
+                </row>
+                <row>
+                  <entry>F</entry>
+                  <entry>4.000</entry>
+                  <entry>30</entry>
+                  <entry>30</entry>
+                  <entry>120.000</entry>
+                  <entry>120.000</entry>
+                </row>
+                <row>
+                  <entry namest="c1" nameend="c4">Tổng cộng</entry>
+                  <entry>570.000</entry>
+                  <entry>530.000</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5550604">Qua bảng tính toán ta thấy bố trí B cho kết quả tốt, với tổng khoảng cách dịch chuyển sản phẩm trong tháng qua các máy móc thiết bị là nhỏ nhất.</para>
+          <para id="id5550616">Trong những năm gần đây, nhiều chương trình máy tính được xây dựng để phát triển và phân tích bố trí mặt bằng theo hướng qui trình. Một số chương trình sử dụng tỷ lệ gần gũi nhằm tối đa hóa tổng quan hệ đối với các bộ phận khác nhau phù hợp với mặt bằng nhà xưởng. Một số khác, được viết nhằm thiết lập sự tối thiểu hóa chi phí vận chuyển trong từng thời kỳ.</para>
+          <para id="id5550632">Nhìn chung, các chương trình này giúp chúng ta tiết kiệm được thời gian và công sức giải quyết những vấn đề lớn và phức tạp. Tuy nhiên các kết quả chỉ là bố trí ban đầu, nhiều khi ta cần phải chỉnh lý lại, kiểm tra sự logic cũng như máy móc thiết bị phải được điều chỉnh cho vừa vặn bằng tay.</para>
+        </section>
+        <section id="id-0403711324653">
+          <title>Phân tích mặt bằng theo hướng sản phẩm:</title>
+          <para id="id5550662">Phân tích dây chuyền là mục tiêu trung tâm của bố trí mặt bằng theo hướng sản phẩm. Các yếu tố như thiết kế sản phẩm, nhu cầu thị trường đối với sản phẩm ảnh hưởng quyết định cuối cùng đến qui trình công nghệ và năng lực sản xuất. Ngoài ra, người ta cũng xác định số lượng công nhân, máy móc vận hành bằng tay hay tự động và các công cụ khác cần thiết để sản xuất.</para>
+          <para id="id5550678">Cân bằng dây chuyền sản xuất: Là phân tích dây chuyền sản xuất, phân chia những công việc được thực hiện theo từng khu vực sản xuất, mỗi khu vực sản xuất đảm nhiệm một nhiệm vụ giống nhau, tập hợp nhóm khu vực sản xuất đồng nhất này thành trung tâm sản xuất. Mục tiêu của phân tích dây chuyền sản xuất là xác định bao nhiêu khu vực sản xuất cần phải có và những nhiệm vụ nào được giao cho từng khu vực. Vì thế, số lượng công nhân và máy móc thiết bị được giảm thiểu nhưng vẫn đảm bảo khối lượng sản phẩm sản xuất theo yêu cầu.</para>
+          <para id="id5550704">Trong cân bằng dây chuyền sản xuất, người ta cố gắng phân công công việc cho các khu vực sản xuất sao cho ít có thời gian rỗi nhất. Điều này có nghĩa là công việc tại mỗi khu vực sản xuất càng gần với chu kỳ càng tốt nhưng không được vượt quá thời gian đó.</para>
+          <figure id="id5550723">
+            <media id="id1167434049420" alt=""><image src="../../media/graphics7-1f8f.png" mime-type="image/png" height="692" width="557"/></media>
+          </figure>
+          <section id="id-0966527864277">
+            <title>Sơ đồ 5.3: Qui trình thực hiện phương pháp mức sử dụng tăng thêm</title>
+            <para id="id5398623">Các bước cân bằng dây chuyền:</para>
+            <para id="id5398630"> Xác định các nhiệm vụ phải thực hiện để hoàn thành một sản phẩm riêng biệt.</para>
+            <para id="id5398642"> Xác định trình tự công việc phải thực hiện.</para>
+            <para id="id5398653"> Vẽ sơ đồ trình tự công việc (vòng tròn tượng trưng cho công việc, các mũi tên cho biết trình tự trước sau của công việc).</para>
+            <para id="id5398667"> Ước lượng thời gian công việc.</para>
+            <para id="id5398677"> Tính toán thời gian chu kỳ (Tck).</para>
+            <para id="id5398697">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>T</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>ck</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:msub>
+                                <m:mi>T</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>sx</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mi>d</m:mi>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mtext>Thåìi gian saín xuáút thæûc sæû  trong kyì</m:mtext>
+                            <m:mtext>Säú læåüng cáön saín xuáút trong kyì</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{ ital "ck"} } = {  {T rSub { size 8{ ital "sx"} } }  over  {d} } = {  {"Thåìi gian saín xuáút thæûc sæû  trong kyì"}  over  {"Säú læåüng cáön saín xuáút trong kyì"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </para>
+            <para id="id5458777"> Tính toán số khu vực sản xuất tối thiểu.</para>
+            <para id="id5458787">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>S</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>kv</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:msub>
+                                <m:mi>T</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>tg</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msub>
+                                <m:mi>T</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>ck</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mtext>Thåìi gian âãø hoaìn thaình saín pháøm</m:mtext>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>Thåìi</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>gian</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mtext> chu kyì</m:mtext>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{S rSub { size 8{ ital "kv"} } = {  {T rSub { size 8{ ital "tg"} } }  over  {T rSub { size 8{ ital "ck"} } } } = {  {"Thåìi gian âãø hoaìn thaình saín pháøm"}  over  { ital "Thåìi"  ital "gian"" chu kyì"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </para>
+            <para id="id5458912"> Tính hiệu quả sử dụng (máy móc thiết bị hoặc công lao động)</para>
+            <para id="id5458924">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>Hiãûu</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>quaí</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mtext>Säú khu væûc saín xuáút täúi thiãøu </m:mtext>
+                                <m:mo stretchy="false">(</m:mo>
+                                <m:msub>
+                                  <m:mi>S</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mtext>kvsx min</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mo stretchy="false">)</m:mo>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>Säú</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mtext> khu væûc saín xuáút thæûc tãú </m:mtext>
+                                <m:mo stretchy="false">(</m:mo>
+                                <m:msub>
+                                  <m:mi>S</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mtext>kvsx thæûc tãú</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mo stretchy="false">)</m:mo>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mi>x</m:mi>
+                          <m:mtext>100</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ ital "Hiãûu"  ital "quaí" = {  {"Säú khu væûc saín xuáút täúi thiãøu " \( S rSub { size 8{"kvsx min"} }  \) }  over  { ital "Säú"" khu væûc saín xuáút thæûc tãú " \( S rSub { size 8{"kvsx thæûc tãú"} }  \) } } x"100"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </para>
+            <para id="id5544823">Các nhà nghiên cứu thường sử dụng phương pháp tuyến tính hay những mô hình toán khác nhau để giải quyết vấn đề cân bằng dây chuyền sản xuất. Tuy nhiên chúng lại không hữu dụng khi cần giải quyết một vấn đề lớn. Các phương pháp khác dựa vào những nguyên tắc đơn giản được dùng để tìm ra những giải pháp rất tốt tuy không phải tối ưu. Đó là những phương pháp mức hữu dụng tăng thêm và phương pháp thời gian công tác dài nhất.</para>
+            <para id="id5544839"> Phương pháp mức sử dụng tăng thêm:</para>
+            <para id="id5544851">Sơ đồ 5.3 thể hiện trình tự để thực hiện phân công công việc bằng phương pháp mức sử dụng tăng thêm được biểu diễn bằng sơ đồ khối tổng quát như trang trước.</para>
+            <para id="id5544864">Phương pháp này chỉ đơn giản là giao thêm nhiệm vụ cho các khu vực sản xuất, theo trình tự công việc qui định cho đến khi mức sử dụng đạt 100% hay bắt đầu giảm xuống. Qui trình này được lặp lại cho đến khi ta phân hết các công việc vào các khu vực sản xuất.</para>
+            <para id="id5544880">Ví dụ 5.4: Một phân xưởng sản xuất thuốc bảo vệ thực vật xác định nhu cầu tiêu thụ trên thị trường là 4.160 chai thuốc/ngày. Biết thời gian chuẩn bị máy móc thiết bị, vật tư nguyên liệu, công cụ sản xuất,... mất trung bình 64 phút/ngày. Để hoàn tất một chai thuốc, phân xưởng cần phải thực hiện qua 15 công đoạn sản xuất như trang sau.</para>
+            <table id="id5544900" summary="">
+              <tgroup cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry>Công việc</entry>
+                    <entry>Công việc hoàn thànhtrước đó</entry>
+                    <entry>Thời gian hoàn thành công việc (giây)</entry>
+                  </row>
+                  <row>
+                    <entry>A</entry>
+                    <entry></entry>
+                    <entry>10</entry>
+                  </row>
+                  <row>
+                    <entry>B</entry>
+                    <entry></entry>
+                    <entry>15</entry>
+                  </row>
+                  <row>
+                    <entry>C</entry>
+                    <entry>A,B</entry>
+                    <entry>10</entry>
+                  </row>
+                  <row>
+                    <entry>D</entry>
+                    <entry></entry>
+                    <entry>6</entry>
+                  </row>
+                  <row>
+                    <entry>E</entry>
+                    <entry>C,D</entry>
+                    <entry>8</entry>
+                  </row>
+                  <row>
+                    <entry>F</entry>
+                    <entry>E</entry>
+                    <entry>6</entry>
+                  </row>
+                  <row>
+                    <entry>G</entry>
+                    <entry></entry>
+                    <entry>10</entry>
+                  </row>
+                  <row>
+                    <entry>H</entry>
+                    <entry>G</entry>
+                    <entry>5</entry>
+                  </row>
+                  <row>
+                    <entry>I</entry>
+                    <entry>F,H</entry>
+                    <entry>7</entry>
+                  </row>
+                  <row>
+                    <entry>J</entry>
+                    <entry></entry>
+                    <entry>8</entry>
+                  </row>
+                  <row>
+                    <entry>K</entry>
+                    <entry>I,J</entry>
+                    <entry>12</entry>
+                  </row>
+                  <row>
+                    <entry>L</entry>
+                    <entry></entry>
+                    <entry>10</entry>
+                  </row>
+                  <row>
+                    <entry>M</entry>
+                    <entry>L</entry>
+                    <entry>15</entry>
+                  </row>
+                  <row>
+                    <entry>N</entry>
+                    <entry>K,M</entry>
+                    <entry>20</entry>
+                  </row>
+                  <row>
+                    <entry>O</entry>
+                    <entry>N</entry>
+                    <entry>10</entry>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>Cộng</entry>
+                    <entry>152</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <para id="id5285330">Yêu cầu: Xây dựng qui trình gia công đóng gói thuốc bảo vệ thực vật.</para>
+            <para id="id5285351"> Tính thời gian chu kỳ và số khu vực sản xuất tối thiểu</para>
+            <para id="id5285369"> Cân bằng dây chuyền sản xuất bằng phương pháp mức sử dụng tăng thêm</para>
+            <para id="id5285386"> Tính hiệu quả sử dụng máy móc thiết bị.</para>
+            <para id="id5285402">Bài giải:</para>
+            <para id="id5285407">Trước tiên, chúng ta dựa trên trình tự thực hiện các công việc để hoàn thành các công đoạn gia công, ta xây dựng sơ đồ như sau. </para>
+            <figure id="id5658952">
+              <media id="id1167429632896" alt=""><image src="../../media/graphics8.png" mime-type="image/png" height="111" width="594"/></media>
+            </figure>
+            <para id="id5658976"> Tính thời gian chu kỳ (tốc độ sản xuất): là khoảng thời gian cách nhau giữa sản phẩm trước và sản phẩm sau hoàn thành.</para>
+            <para id="id5285413">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mi>T</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>ck</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mfrac>
+                                  <m:msub>
+                                    <m:mi>T</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>sx</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                  <m:mi>d</m:mi>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mfenced open="[" close="]">
+                                    <m:mrow>
+                                      <m:mfenced open="" close="">
+                                        <m:mrow>
+                                          <m:mn>8x</m:mn>
+                                          <m:mtext>60</m:mtext>
+                                        </m:mrow>
+                                      </m:mfenced>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mtext>64</m:mtext>
+                                    </m:mrow>
+                                  </m:mfenced>
+                                  <m:mi>x</m:mi>
+                                  <m:mtext>60</m:mtext>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mn>4</m:mn>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mtext>160</m:mtext>
+                                </m:mrow>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mn>6</m:mn>
+                          </m:mrow>
+                          <m:mtext> giáy/chai</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{ ital "ck"} } = {  {T rSub { size 8{ ital "sx"} } }  over  {d} } = {  { left [ left (8x"60" right ) - "64" right ]x"60"}  over  {4 "." "160"} } =6" giáy/chai"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </para>
+            <para id="id5659128"> Tính số lượng khu vực sản xuất tối thiểu (số công nhân hoặc máy móc thiết bị cần tối thiểu để sản xuất).</para>
+            <para id="id5659148">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mi>S</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>kvsx</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mfrac>
+                                    <m:mrow>
+                                      <m:msub>
+                                        <m:mi>T</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mstyle fontstyle="italic">
+                                              <m:mrow>
+                                                <m:mtext>tg</m:mtext>
+                                              </m:mrow>
+                                            </m:mstyle>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msub>
+                                      <m:mtext>.</m:mtext>
+                                      <m:mi>d</m:mi>
+                                    </m:mrow>
+                                    <m:msub>
+                                      <m:mi>T</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mstyle fontstyle="italic">
+                                            <m:mrow>
+                                              <m:mtext>sx</m:mtext>
+                                            </m:mrow>
+                                          </m:mstyle>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                  </m:mfrac>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mfrac>
+                                  <m:msub>
+                                    <m:mi>T</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>tg</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                  <m:msub>
+                                    <m:mi>T</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>ck</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mtext>152</m:mtext>
+                                <m:mn>6</m:mn>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>25</m:mtext>
+                          </m:mrow>
+                          <m:mi>,</m:mi>
+                          <m:mn>3</m:mn>
+                          <m:mtext> kvsx</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{S rSub { size 8{ ital "kvsx"} } = {  {T rSub { size 8{ ital "tg"} }  "." d}  over  {T rSub { size 8{ ital "sx"} } } } = {  {T rSub { size 8{ ital "tg"} } }  over  {T rSub { size 8{ ital "ck"} } } } = {  {"152"}  over  {6} } ="25",3" kvsx"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </para>
+            <para id="id5536390"> Cân bằng dây chuyền sản xuất bằng phương pháp mức sử dụng tăng thêm. </para>
+            <para id="id5536404">Đầu tiên, chúng ta phân công công việc cho từng trung tâm sản xuất (trạm sản xuất), việc này cần phải tuân theo thứ tự trước sau của các công việc một cách chặt chẽ (C phải sau A, sau B; E phải sau C, sau D;...). Các nhiệm vụ được kết hợp theo thứ tự cho đến khi mức sử dụng của trung tâm sản xuất là 100%, hay khi quan sát thấy sự giảm xuống của nó so với phân công trước đó. Lúc này ta mở trung tâm sản xuất mới và bắt đầu lại trình tự.</para>
+            <table id="id5536430" summary="">
+              <tgroup cols="6">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <tbody>
+                  <row>
+                    <entry>Trạmsản xuất(1)</entry>
+                    <entry>Công việc(2)</entry>
+                    <entry>Phút/máy(3)</entry>
+                    <entry>Số KVSX làm việc(4)=[(3)/thờigian chu kỳ]</entry>
+                    <entry>Số KVSX thực tế cần thiết (5)</entry>
+                    <entry>Mức sử dụng của KVSX (%)[(4)/(5)]x100</entry>
+                  </row>
+                  <row>
+                    <entry>1</entry>
+                    <entry>A</entry>
+                    <entry>10</entry>
+                    <entry>1,67</entry>
+                    <entry>2</entry>
+                    <entry>83,3</entry>
+                  </row>
+                  <row>
+                    <entry>1</entry>
+                    <entry>A,B</entry>
+                    <entry>10+15=25</entry>
+                    <entry>4,16</entry>
+                    <entry>5</entry>
+                    <entry>83,3</entry>
+                  </row>
+                  <row>
+                    <entry>1</entry>
+                    <entry>A,B,C</entry>
+                    <entry>10+15+10=35</entry>
+                    <entry>5,83</entry>
+                    <entry>6</entry>
+                    <entry>97,2</entry>
+                  </row>
+                  <row>
+                    <entry>1</entry>
+                    <entry>A,B,C,D</entry>
+                    <entry>10+15+10+6=41</entry>
+                    <entry>6,83</entry>
+                    <entry>7</entry>
+                    <entry>97,6</entry>
+                  </row>
+                  <row>
+                    <entry>1</entry>
+                    <entry>A,B,C,D,E</entry>
+                    <entry>10+15+10+6+8=49</entry>
+                    <entry>8,17</entry>
+                    <entry>9</entry>
+                    <entry>90,7</entry>
+                  </row>
+                  <row>
+                    <entry>2</entry>
+                    <entry>E</entry>
+                    <entry>8</entry>
+                    <entry>1,33</entry>
+                    <entry>2</entry>
+                    <entry>66,7</entry>
+                  </row>
+                  <row>
+                    <entry>2</entry>
+                    <entry>E,F</entry>
+                    <entry>8+6=14</entry>
+                    <entry>2,33</entry>
+                    <entry>3</entry>
+                    <entry>77,8</entry>
+                  </row>
+                  <row>
+                    <entry>2</entry>
+                    <entry>E,F,G</entry>
+                    <entry>8+6+10=24</entry>
+                    <entry>4,00</entry>
+                    <entry>4</entry>
+                    <entry>100,0</entry>
+                  </row>
+                  <row>
+                    <entry>3</entry>
+                    <entry>H</entry>
+                    <entry>5</entry>
+                    <entry>0,83</entry>
+                    <entry>1</entry>
+                    <entry>83,3</entry>
+                  </row>
+                  <row>
+                    <entry>3</entry>
+                    <entry>H,I</entry>
+                    <entry>5+7=12</entry>
+                    <entry>2,00</entry>
+                    <entry>2</entry>
+                    <entry>100,0</entry>
+                  </row>
+                  <row>
+                    <entry>4</entry>
+                    <entry>J</entry>
+                    <entry>8</entry>
+                    <entry>1,33</entry>
+                    <entry>2</entry>
+                    <entry>66,7</entry>
+                  </row>
+                  <row>
+                    <entry>4</entry>
+                    <entry>J,K</entry>
+                    <entry>8+12=20</entry>
+                    <entry>3,33</entry>
+                    <entry>4</entry>
+                    <entry>83,3</entry>
+                  </row>
+                  <row>
+                    <entry>4</entry>
+                    <entry>J,K,L</entry>
+                    <entry>8+12+10=30</entry>
+                    <entry>5,00</entry>
+                    <entry>5</entry>
+                    <entry>100,0</entry>
+                  </row>
+                  <row>
+                    <entry>5</entry>
+                    <entry>M</entry>
+                    <entry>15</entry>
+                    <entry>2,50</entry>
+                    <entry>3</entry>
+                    <entry>83,3</entry>
+                  </row>
+                  <row>
+                    <entry>5</entry>
+                    <entry>M,N</entry>
+                    <entry>15+20=35</entry>
+                    <entry>5,83</entry>
+                    <entry>6</entry>
+                    <entry>97,2</entry>
+                  </row>
+                  <row>
+                    <entry>5</entry>
+                    <entry>M,N,O</entry>
+                    <entry>15+20+10=45</entry>
+                    <entry>7,50</entry>
+                    <entry>8</entry>
+                    <entry>93,8</entry>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry>26</entry>
+                    <entry/>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <para id="id5285493">Tóm tắt phân công công việc vào khu vực sản xuất trên dây chuyền như sau:</para>
+            <table id="id5285501" summary="">
+              <tgroup cols="7">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <colspec colnum="7" colname="c7"/>
+                <tbody>
+                  <row>
+                    <entry>Trạm sản xuất</entry>
+                    <entry>1</entry>
+                    <entry>2</entry>
+                    <entry>3</entry>
+                    <entry>4</entry>
+                    <entry>5</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry>Công việc trong trạm sản xuất </entry>
+                    <entry>A,B,C,D</entry>
+                    <entry>E,F,G</entry>
+                    <entry>H,I</entry>
+                    <entry>J,K,L</entry>
+                    <entry>M,N,O</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry>Số khu vực sản xuất thực tế </entry>
+                    <entry>7</entry>
+                    <entry>4</entry>
+                    <entry>2</entry>
+                    <entry>5</entry>
+                    <entry>8</entry>
+                    <entry>Tổng: 26</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <para id="id3530427">Như vậy, để hoàn thành khối lượng sản phẩm cần sản xuất trong 1 ngày là 4.160 chai thuốc thì chúng ta cần có 5 trạm làm việc, tuỳ vào mỗi trạm mà cần số khu vực sản xuất (số công nhân hoặc máy móc thiết bị)</para>
+            <figure id="id3530445">
+              <media id="id1167430718218" alt=""><image src="../../media/graphics9.png" mime-type="image/png" height="138" width="609"/></media>
+            </figure>
+            <para id="id3530469"> Tính hiệu quả sử dụng máy móc thiết bị (Msd)</para>
+            <para id="id3530490">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>M</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>sd</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:msub>
+                                  <m:mi>S</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mtext>kv mim</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:msub>
+                                  <m:mi>S</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mtext>kv thæûc tãú</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:mtext>25,3</m:mtext>
+                              <m:mtext>26</m:mtext>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mi>x</m:mi>
+                          <m:mrow>
+                            <m:mtext>100</m:mtext>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>97</m:mtext>
+                          </m:mrow>
+                          <m:mi>,</m:mi>
+                          <m:mn>3</m:mn>
+                          <m:mtext/>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{M rSub { size 8{ ital "sd"} }  = {  {S rSub { size 8{"kv mim"} } }  over  {S rSub { size 8{"kv thæûc tãú"} } } } = {  {"25,3"}  over  {"26"} } x"100"="97",3%} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </para>
+            <para id="id5555100"> Phương pháp thời gian công tác dài nhất.</para>
+            <para id="id5555112">Trong phương pháp này ta lần lượt thêm công việc cho một khu vực sản xuất theo thứ tự bước sau. Nếu có sự lựa chọn giữa 2 hay nhiều công việc thì công việc có thời gian công tác dài nhất được chọn phân công trước. Điều này có hiệu quả cho việc phân công nhanh chóng những công việc khó phân công vào khu vực sản xuất.</para>
+            <para id="id5555128">Ví dụ 5.5: .Sử dụng tiếp ví dụ 5.4, giả sử đơn vị xác định lại nhu cầu sản xuất của phân xưởng này là 832 chai thuốc/ngày (thay vì 4.160 chai). Hãy cân bằng dây chuyền sản xuất trong trường hợp này.</para>
+            <para id="id5555152">Bài giải:</para>
+            <para id="id5555157"> Trước tiên, ta tính thời gian chu kỳ.</para>
+            <para id="id5555168">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mi>T</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>ck</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mfrac>
+                                  <m:msub>
+                                    <m:mi>T</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>sx</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                  <m:mi>d</m:mi>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:mfenced open="[" close="]">
+                                    <m:mrow>
+                                      <m:mfenced open="" close="">
+                                        <m:mrow>
+                                          <m:mn>8x</m:mn>
+                                          <m:mtext>60</m:mtext>
+                                        </m:mrow>
+                                      </m:mfenced>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mtext>64</m:mtext>
+                                    </m:mrow>
+                                  </m:mfenced>
+                                  <m:mi>x</m:mi>
+                                  <m:mtext>60</m:mtext>
+                                </m:mrow>
+                                <m:mtext>832</m:mtext>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>30</m:mtext>
+                          </m:mrow>
+                          <m:mtext> giáy/chai</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{ ital "ck"} } = {  {T rSub { size 8{ ital "sx"} } }  over  {d} } = {  { left [ left (8x"60" right ) - "64" right ]x"60"}  over  {"832"} } ="30"" giáy/chai"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </para>
+            <para id="id5579814"> Số khu vực sản xuất tối thiểu.</para>
+            <para id="id5579826">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mi>S</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>kv</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mfrac>
+                                  <m:msub>
+                                    <m:mi>T</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>tg</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                  <m:msub>
+                                    <m:mi>T</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>ck</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mfrac>
+                              </m:mrow>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mtext>152</m:mtext>
+                                <m:mtext>30</m:mtext>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mn>5,</m:mn>
+                          </m:mrow>
+                          <m:mtext>07</m:mtext>
+                          <m:mtext> khu væûc</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{S rSub { size 8{ ital "kv"} } = {  {T rSub { size 8{ ital "tg"} } }  over  {T rSub { size 8{ ital "ck"} } } } = {  {"152"}  over  {"30"} } =5,"07"" khu væûc"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </para>
+            <para id="id5579945"> Phân công công việc vào các khu vực sản xuất.</para>
+            <table id="id5579956" summary="">
+              <tgroup cols="5">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <tbody>
+                  <row>
+                    <entry>Khu vựcsản xuất</entry>
+                    <entry>Các công việc</entry>
+                    <entry>Thời gian công việc mới</entry>
+                    <entry>Tổng thời gian thực hiện</entry>
+                    <entry>Thời gian thừa ở KVSX</entry>
+                  </row>
+                  <row>
+                    <entry>(1)</entry>
+                    <entry>(2)</entry>
+                    <entry>(3)</entry>
+                    <entry>(4)</entry>
+                    <entry>[30’’-(4)]</entry>
+                  </row>
+                  <row>
+                    <entry>1</entry>
+                    <entry>A</entry>
+                    <entry>10</entry>
+                    <entry>10</entry>
+                    <entry>20</entry>
+                  </row>
+                  <row>
+                    <entry>1</entry>
+                    <entry>A,B</entry>
+                    <entry>15</entry>
+                    <entry>25</entry>
+                    <entry>5</entry>
+                  </row>
+                  <row>
+                    <entry>2</entry>
+                    <entry>C</entry>
+                    <entry>10</entry>
+                    <entry>10</entry>
+                    <entry>20</entry>
+                  </row>
+                  <row>
+                    <entry>2</entry>
+                    <entry>C,D</entry>
+                    <entry>6</entry>
+                    <entry>16</entry>
+                    <entry>14</entry>
+                  </row>
+                  <row>
+                    <entry>2</entry>
+                    <entry>C,D,E</entry>
+                    <entry>8</entry>
+                    <entry>24</entry>
+                    <entry>6</entry>
+                  </row>
+                  <row>
+                    <entry>2</entry>
+                    <entry>C,D,E,F</entry>
+                    <entry>6</entry>
+                    <entry>30</entry>
+                    <entry>0</entry>
+                  </row>
+                  <row>
+                    <entry>3</entry>
+                    <entry>G</entry>
+                    <entry>10</entry>
+                    <entry>10</entry>
+                    <entry>20</entry>
+                  </row>
+                  <row>
+                    <entry>3</entry>
+                    <entry>G,H</entry>
+                    <entry>5</entry>
+                    <entry>15</entry>
+                    <entry>15</entry>
+                  </row>
+                  <row>
+                    <entry>3</entry>
+                    <entry>G,H,I</entry>
+                    <entry>7</entry>
+                    <entry>22</entry>
+                    <entry>8</entry>
+                  </row>
+                  <row>
+                    <entry>3</entry>
+                    <entry>G,H,I,J</entry>
+                    <entry>8</entry>
+                    <entry>30</entry>
+                    <entry>0</entry>
+                  </row>
+                  <row>
+                    <entry>4</entry>
+                    <entry>K</entry>
+                    <entry>12</entry>
+                    <entry>12</entry>
+                    <entry>18</entry>
+                  </row>
+                  <row>
+                    <entry>4</entry>
+                    <entry>K,L</entry>
+                    <entry>10</entry>
+                    <entry>22</entry>
+                    <entry>8</entry>
+                  </row>
+                  <row>
+                    <entry>5</entry>
+                    <entry>M</entry>
+                    <entry>15</entry>
+                    <entry>15</entry>
+                    <entry>15</entry>
+                  </row>
+                  <row>
+                    <entry>6</entry>
+                    <entry>N</entry>
+                    <entry>20</entry>
+                    <entry>20</entry>
+                    <entry>10</entry>
+                  </row>
+                  <row>
+                    <entry>6</entry>
+                    <entry>N,O</entry>
+                    <entry>10</entry>
+                    <entry>30</entry>
+                    <entry>0</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <para id="id5607704">Tóm tắt sự phân công các công việc vào các khu vực sản xuất trên dây chuyền sản xuất.</para>
+            <table id="id5607713" summary="">
+              <tgroup cols="7">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <colspec colnum="7" colname="c7"/>
+                <tbody>
+                  <row>
+                    <entry>Khu vực sản xuất</entry>
+                    <entry>1</entry>
+                    <entry>2</entry>
+                    <entry>3</entry>
+                    <entry>4</entry>
+                    <entry>5</entry>
+                    <entry>6</entry>
+                  </row>
+                  <row>
+                    <entry>Công việc thực hiện</entry>
+                    <entry>A,B</entry>
+                    <entry>C,D,E,F</entry>
+                    <entry>G,H,I,J</entry>
+                    <entry>K,L</entry>
+                    <entry>M</entry>
+                    <entry>N,O</entry>
+                  </row>
+                  <row>
+                    <entry>Thời gian thừa (giây)</entry>
+                    <entry>5</entry>
+                    <entry>0</entry>
+                    <entry>0</entry>
+                    <entry>8</entry>
+                    <entry>15</entry>
+                    <entry>0</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <para id="id5607049"> Tính toán mức sử dụng của máy móc thiết bị hoặc công lao động.</para>
+            <para id="id5607062">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>M</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>sd</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:msub>
+                                <m:mi>S</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>kv</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                      <m:mtext>min</m:mtext>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msub>
+                                <m:mi>S</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>kctt</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mi>x</m:mi>
+                          <m:mrow>
+                            <m:mtext>100</m:mtext>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mn>5,</m:mn>
+                                <m:mtext>07</m:mtext>
+                              </m:mrow>
+                              <m:mn>6</m:mn>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mi>x</m:mi>
+                          <m:mrow>
+                            <m:mtext>100</m:mtext>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>84</m:mtext>
+                          </m:mrow>
+                          <m:mi>,</m:mi>
+                          <m:mn>5</m:mn>
+                          <m:mtext/>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{M rSub { size 8{ ital "sd"} } = {  {S rSub { size 8{ ital "kv""min"} } }  over  {S rSub { size 8{ ital "kctt"} } } } x"100"= {  {5,"07"}  over  {6} } x"100"="84",5%} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </para>
+            <figure id="id5495326">
+              <media id="id1167439993575" alt=""><image src="../../media/graphics10.png" mime-type="image/png" height="141" width="588"/></media>
+            </figure>
+            <para id="id5495350"> Điều kiện để sử dụng phương pháp thời gian công tác dài nhất là: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">≥</m:mo><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cv</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mtext>max</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{ ital "ck"} }  &gt;= T rSub { size 8{ ital "cv" \( "max" \) } } } {}</m:annotation></m:semantics></m:math> , tức là thời gian chu kỳ phải lớn hơn hoặc bằng thời gian lớn nhất cần để thực hiện công việc trong chuỗi công việc chế tạo sản phẩm. Theo như bài toán trên thì Tck = 30 giây, công việc tiêu hao thời gian lớn nhất là công việc N mất 20 giây.</para>
+          </section>
+        </section>
+      </section>
+    </section>
+    <section id="id-857519858119">
+      <title>BỐ TRÍ MẶT BẰNG DỊCH VỤ:</title>
+      <section id="id-958524702713">
+        <title>Các kiểu bố trí mặt bằng dịch vụ:</title>
+        <para id="id5495508">Bố trí mặt bằng dịch vụ tùy thuộc vào bản chất tự nhiên của dịch vụ và các mà các doanh nghiệp phối hợp và vận chuyển dịch vụ của họ: hàng không, ngân hàng, nhà bán lẻ, bệnh viện, nhà hàng, bảo hiểm, vận tải, giải trí, viễn thông....Ngoài ra, bố trí mặt bằng dịch vụ còn tùy thuộc vào máy móc chuyên dùng cho từng loại dịch vụ.</para>
+        <para id="id5495456">Điểm khác biệt trong kinh doanh dịch vụ so với sản xuất là sự chạm trán giữa khách hàng và những dịch vụ mà các doanh nghiệp này cung cấp cho họ. Sự chạm trán này có thể mạnh mẽ vì khách hàng thực sự là một phần của qui trình sản xuất như trong bệnh viện, nơi mà dịch vụ thực sự được hình thành trên khách hàng. Hoặc sự chạm trán ít mạnh mẽ hơn trong các hiệu buôn lẻ vì ở đó khách chọn hàng, thanh toán và mang đi những hàng hóa vật chất. Nhưng bất kể trường hợp nào, bố trí mặt bằng dịch vụ có ảnh hưởng một cách sâu đậm.</para>
+        <para id="id5546891">Nguyên tắc chung là phải bố trí sao cho khách hàng dễ dàng khi vào, ra và đi lại giữa các phần trong mặt bằng. Ngoài ra, cũng cần phân bố diện tích thích hợp cho hành lang, phòng chờ...</para>
+        <para id="id5546907">Có 2 cực trong việc bố trí mặt bằng dịch vụ. Ví dụ, đa ngân hàng chẳng hạn, một cực là dịch vụ công khai, khi đó các máy móc thiết bị phải được bố trí xung quanh khách hàng, làm cho họ thuận lợi nhất (phòng chờ, nơi đậu xe, cửa sổ thu ngân...). Một cực khác là các dịch vụ bên trong với các máy móc phục vụ được bố trí chủ yếu theo công việc giao dịch tài chính (cập nhật tài khoản, lập báo cáo...)</para>
+        <para id="id5546937">Hầu hết các bố trí đều xoay quanh hai cực này. Ví dụ, các nhà hàng bố trí nhằm nhấn mạnh sự chấp nhận và tiện lợi cá nhân của khách hàng hơn là chuẩn bị và chế biến thức ăn.</para>
+      </section>
+      <section id="id-096603119891">
+        <title>Phân tích bố trí mặt bằng dịch vụ:</title>
+        <para id="id5546971">Trong hầu hết các loại dịch vụ, người ta cố gắng bố trí sao cho tổng cự ly di chuyển của khách hàng là ít nhất bên cạnh việc bố trí các máy móc phục vụ tiện lợi. Ngoài ra cần lưu ý việc bố trí phòng chờ, nơi xếp hàng sao cho thoải mái.</para>
+        <para id="id5546987">Đối với nhiều loại dịch vụ, lý do khiến cho một bộ phận nào đó ở cạnh một bộ phận khác rất phức tạp. Khi đó người ta thường sử dụng tỷ lệ gần gũi nhằm phản ánh sự mong muốn một bộ phận nào cạnh bộ phận nào đó. Sau đó dùng phương pháp thử đúng - sai, phân tích chuỗi tác nghiệp hay phân tích sơ đồ khối, sử dụng tỷ lệ gần gũi để xây dựng bố trí mặt bằng tốt.</para>
+        <para id="id5547012">Thí dụ 5.6: Giả sử một cửa hàng bán các loại thực phẩm, dự định bố trí 6 nhóm mặt hàng (A,B,C,D,E,F) theo mức độ quan hệ gần gũi giữa các nhóm mặt hàng như sau:</para>
+        <table id="id5547032" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Tỷ lệ gần gũi</entry>
+                <entry>Ý nghĩa</entry>
+                <entry>Tỷ lệ gần gũi</entry>
+                <entry>Ý nghĩa</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>Cần thiết</entry>
+                <entry>4</entry>
+                <entry>Hơi quan trọng</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>Rất quan trọng</entry>
+                <entry>5</entry>
+                <entry>Không quan trọng</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>Quan trọng</entry>
+                <entry>6</entry>
+                <entry>Không mong muốn</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5581991">Dựa trên các nhóm mặt hàng, chúng ta biết được mối quan hệ gần gũi của chúng như sơ đồ dưới đây:</para>
+        <table id="id5582004" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>131555115165561Bộ phận A</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>B </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>D</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>E </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>F</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5035867">Dùng phương pháp tỷ lệ gần gũi để bố trí 6 nhóm mặt hàng này vào mặt bằng của cửa hàng.</para>
+        <para id="id5035880">Bài giải:</para>
+        <para id="id5035886">Đầu tiên, chú ý rằng cặp bộ phận có tỷ lệ gần gũi 1 (cần thiết) là A-C, A-E, A-F, C-E, C-F và E-F. A phải tiếp cận C, E và F; C phải cạnh E và F; E phải cạnh F. Khi thử lần đầu tiên, cố gắn bố trí để A, C, E, F tất cả cạnh nhau. Bố trí dưới đây thích hợp với tất cả cặp bộ phận với tỷ lệ gần gũi 1.</para>
+        <table id="id5035908" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>A</entry>
+                <entry>C</entry>
+                <entry/>
+                <entry/>
+                <entry>A</entry>
+                <entry>C</entry>
+                <entry>B</entry>
+              </row>
+              <row>
+                <entry>E</entry>
+                <entry>F</entry>
+                <entry/>
+                <entry/>
+                <entry>E</entry>
+                <entry>F</entry>
+                <entry>D</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5036063">Kế đến, lưu ý rằng cặp bộ phận với tỷ lệ gần gũi 6 (không mong đợi) là A-B và D-E. A phải không cạnh B và D phải không cạnh E. Bằng cách xếp 2 bộ phận D và E vào 2 chổ trống còn lại, bố trí hình trên đây thích hợp cho tất cả các cặp với tỷ lệ gần gũi 6.</para>
+        <para id="id5550973">Chú ý rằng trong bước cuối cùng nêu trên, việc đặt bộ phận có tỷ lệ gần gũi là 6 lập tức thích hợp với những bộ phận có tỷ lệ gần gũi 1. Vấn đề không luôn đơn giản như vậy, có thể cần một vài vòng điều chỉnh các bộ phận để cải thiện, nếu có.</para>
+      </section>
+    </section>
+  </content>
+</document>
