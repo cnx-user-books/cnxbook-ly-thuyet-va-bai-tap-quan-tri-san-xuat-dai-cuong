@@ -816,37 +816,37 @@
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mi>T</m:mi>
                     <m:mtext>äøn</m:mtext>
                     <m:mi>g</m:mi>
                     <m:mtext> CP váût liãûu</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mtext>täön kho haìng nàm</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
                   <m:mi fontstyle="italic">righ</m:mi>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mstyle fontstyle="italic">
                       <m:mrow>
                         <m:mtext>CP</m:mtext>
@@ -854,31 +854,31 @@
                     </m:mstyle>
                     <m:mtext> âàût haìng</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mtext>haìng nàm</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
                   <m:mi fontstyle="italic">righ</m:mi>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mstyle fontstyle="italic">
                       <m:mrow>
                         <m:mtext>CP</m:mtext>
@@ -886,31 +886,31 @@
                     </m:mstyle>
                     <m:mtext> täön træî váût liãûu</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mtext>haìng nàm</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
                   <m:mi fontstyle="italic">righ</m:mi>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mstyle fontstyle="italic">
                       <m:mrow>
                         <m:mtext>CP</m:mtext>
@@ -918,45 +918,45 @@
                     </m:mstyle>
                     <m:mtext> mua váût liãûu</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mtext>haìng nàm</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
                   <m:mi fontstyle="italic">righ</m:mi>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mfenced open="" close="">
                           <m:mrow/>
                         </m:mfenced>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mstyle fontsize="12pt">
